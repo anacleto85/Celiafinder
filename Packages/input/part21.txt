@@ -1,0 +1,78 @@
+Marche#Ancona#Via Tavernelle, 14 #La Botte#071.85325 - 82471 #Filonzi Giancarlo #$Ristorante$Pizzeria##
+Marche#Ancona#Via Oberdan,2 #Osteria Teatro Strabacco#071.56748 #Tornifoglia Danilo #$Ristorante$Trattoria#www.strabacco.it #
+Marche#Fabriano#Via G.Di Vittorio, 3 #Gentile da Fabriano#0732.627190 #Balducci Domenico #$Hotel$Ristorante##
+Marche#Fabriano#Loc. Camporege, 50 #La Vecchia Cartiera#0732.72053 #Iachetta Simonetta #$Ristorante#www.lavecchiacartiera.com #
+Marche#Fabriano#Via Rocchetta Bassa,73 #Marchese del Grillo#0732.625690 #Della Mora Emanuela #$Hotel$Ristorante$Catering#www.marchesedelgrillo.com #43.36275$12.96765
+Marche#Fabriano#Loc. Campodonico di Fabriano #Pineta#0732.259489 #Isidori Valeria Note:  #$Hotel$Ristorante##
+Marche#Falconara#Via Castello di Barcaglione,10 #Oasi Paese dei Bimbi#071.910849 #Romiti Gianluca #$Ristorante##
+Marche#Fraz. Roncitelli-Senigallia#Via Gioco del Pallone,2 #Degli Ulivi#071.7919670 #Schiaroli Ernesto #$Ristorante##
+Marche#Jesi#Via Ancona, 100 #Federico II#073.1211079 #Cacciamani Cristiano Note:  #$Hotel$Ristorante##
+Marche#Jesi#Via Leopardi, 1 #Mezzometro da Ale#0731.213290 #Coppari Alessio #$Ristorante$Pizzeria##
+Marche#Jesi#Via Mura Orientali, 3 #Osteria Corte Bettini#0731.215987 #Kosaric Denita #$Ristorante#www.osteriacortebettini.com #
+Marche#Jesi#Via Mazzangrugno, 78 #Paoloni La Brusca#0731.246237 #Marconi Rita #$Ristorante$Pizzeria#www.labrusca.it #
+Marche#Marina di Montemarciano#Via delle Querce, 1 #Ristorante Delle Rose#071.9198668 #Bravi Leonardo #$Ristorante#www.ristorantedellerose.it #
+Marche#Marina Montemarciano#Via Media,11 #Il Girasole#071.9198408 #Mazzieri Paolo #$Ristorante$Pizzeria##43.65643$13.31904
+Marche#Numana#Via Litoranea, 90 #Cantarini#071.7390170 #Cantarini Anna #$Albergo##
+Marche#Osimo#Via Molino Mensa, 37 #Ada#071.715666 #Agostinelli Francesco #$Ristorante$Pizzeria##43.47682$13.47929
+Marche#Rosora#Via Clementina, 9 #L'Oasi#0731.814308 - 328.6908744 #Presciutti Manola #$Ristorante$Pizzeria##
+Marche#Senigallia#L.re Leonardo da Vinci #Bano Ristorante#071.60643 #Girolimini Giorgio #$Ristorante$Pizzeria##
+Marche#Senigallia#Via Marzi, 4 #Eden#071.659165 #Mariani Nicola #$Ristorante$Pizzeria#www.ristoranteden.it #
+Marche#Senigallia#L.re Dante Alighieri, 78 #Hotel Sirena#071.7920605 #Galli Tiziana #$Hotel##
+Marche#Senigallia#Str. Prov.le S. Angelo, 20 #Il Casale#071.665003 #Paniconi Francesca Note:  #$Ristorante##
+Marche#Senigallia#L.mare L. Da Vinci, 33 #Michele da Ale#071.60578 #Coppari Alessandro #$Ristorante$Pizzeria#www.micheledaale.it #
+Marche#Senigallia#Lungomare Mameli, 47 #Universal#071.7927474 #Albonetti Roberta Note:  Prezzo min/max:  #$Hotel##43.72278$13.21389
+Marche#Staffolo#Via Redipuglia, 1/3 #Belvedere#0731.779261 #Bocci Ilde #$Albergo$Ristorante$Bar##
+Marche#Acquaviva Picena#Via Fontepezzana, 1 #Azzurro#0735.764175 #Sgariglia Francesco #$Ristorante##42.94476$13.81200
+Marche#Ascoli Piceno#Via Bonaparte, 18/20 #Bella Napoli#0736.257030 #Tosti Bruno #$Pizzeria##42.85445$13.57867
+Marche#Ascoli Piceno#Via Napoli, 106/112 #La Cittadella#0736.343088 #Galanti Anna #$Ristorante$Pizzeria#www.lacittadella.it #
+Marche#Ascoli Piceno#Via G. Spalvieri, 20 #Mister O.K.#0736.43483 #Khounachi Makram #$Ristorante$Pizzeria##42.8475$13.59261
+Marche#Folignano#V.le Assisi, 33 #Hotel Villa Pigna#0736.491868 #Camaioni Davide Note:  #$Hotel$Ristorante$SalaRicevimento##
+Marche#Grottammare#Via C. Colombo, 18 #Chalet Ciaschì#0735.735570 #Maccaferro Antonio #$Ristorante##
+Marche#Montegallo#Via Piane Ascolane, 8 #Albergo Vettore#0736.806116 #Monti Fausto #$Albergo#www.albergovettore.it #
+Marche#Ortezzano#C.da Casali,11 #Vecchio Gelso#0734.779348 #Capriotti Anna #$Agriturismo##43.059356$13.56159
+Marche#Porto S. Giorgio#L.re Gramsci Nord #Vela#0734.676482 #Ragaglia Rodolfo #$Ristorante##
+Marche#Porto San Giorgio#L.re Gramsci Sud #Chalet Duilio#0734.678731 #Iobbi Fabio #$Ristorante$Pizzeria#www.chaletduilio.it #
+Marche#Porto San Giorgio#Via Verdi, 24 #Happy Days#0734.673900 #Fares Luisella #$Ristorante$Pizzeria##
+Marche#S. Benedetto del Tronto#Via S. Giacomo, 48 #La Sfinge#0735.655555 #Pazzaglia Isabella #$Hotel##
+Marche#S. Benedetto del Tronto#Viale Europa, 3 #Playa Marconi#340.2206499 #Di Luca Enzo #$Pizzeria$Bar##
+Marche#Camerino#Via Le Mosse, 69 #Etoile#0737.630238 #Matteucci Carlo #$Ristorante$Pizzeria##
+Marche#Castelraimondo#Loc. Lanciano, 5 #B.go Lanciano Rel. Benessere#0737.642844 #Branchini Erich Note:  #$Hotel$Ristorante##
+Marche#Castelraimondo#Via Sant'Anna, 11 #Bellavista#0737.640717 #Savi Stefano #$Hotel$Ristorante#www.hotelbellavista.info #43.20666$13.04561
+Marche#Civitanova Marche#Via Pitignano, 50 #Mangia Centro Degustazione#0733.890053 #Mazzieri Paolo #$Agriturismo##
+Marche#Corridonia#Via L. Lotto, 66/68 #Itaca#0733.433935 #Rissini Luigino #$Ristorante$Pizzeria##
+Marche#Esanatoglia#Loc. Bresciano s.n.c. #Sibylla#0737.889140 #Pieroni Marco #$Ristorante##
+Marche#Loro Piceno#Largo Crescimbeni, 3 #1 Taverna per Loro#0733.509789 #Lambertucci Giampaolo #$Ristorante##
+Marche#Loro Piceno#C.da Appezzana, 24 #Il Maniero#0733.509258 #Stacchietti Guida #$Ristorante##43.14262$13.39457
+Marche#Macerata#Via Lauro Rossi,61 #Osteria dei Fiori#0733.260142 #Carducci Letizia #$Trattoria##43.29929$13.45408
+Marche#Pollenza#L.go Giovanni Verga, 15 #La Terrazza del Sole#0733.549948 #Balzano Gennaro #$Pizzeria##
+Marche#Porto Recanati#Via C. Colombo, 25 #Giannino#071.9799141 #Mauloni M. Giovanna Note:  Prezzo min/max:  #$Hotel$Ristorante##43.45158$13.649585
+Marche#Recanati#Via Le Grazie #La Cantina di Ale#071.977101 - 347.1939593 #Guidotti Domenico #$Ristorante$Pizzeria##
+Marche#S. Severino Marche#Loc. Taccoli, 41 #Il Taccolito#0733.637257 #Zura Puntaroni Alfio Note:  #$Agriturismo##
+Marche#San Severino Marche#C.da Colleluce, 55 #La Lucciola#0733.638777 #Sabbatini Paola #$Ristorante$Pizzeria##
+Marche#Tolentino#P.zza Togliatti, 3 #La Nuova Briciola#0733.974504 #Monè Barbara #$Ristorante$Pizzeria##
+Marche#Tolentino#Via Flaminia 6 #San Nicola#0733.967448 #Sileoni Domenico #$Ristorante$Pizzeria##
+Marche#Treia#Via Don Minzoni, 11 #Antiche Mura#0733.217053 #Bona Maria Novella #$Ristorante$Pizzeria##
+Marche#Treia#Via S. Lorenzo,60 #Da Otello#0733.215710 #Medei Graziella #$Ristorante$Pizzeria##43.31242$13.24091
+Marche#Treia#C.da Sterpare, 32 #Villa Cortese#0733.216891 #Laubbichier Ines #$Ristorante#www.villa-cortese.it #
+Marche#Cagli#Strada Cagli-Pergola, 126/a #Le Fontane#0721.790148 #Ferri Valerio #$Ristorante$Pizzeria##
+Marche#Cantiano#Via Flaminia #La Stazione di Posta#0721.788099/393.9890758 #Fiorucci Gianfranco #$Albergo$Ristorante$Pizzeria##
+Marche#Coldelce#Via Serra di Genga, 7 #La Celletta Country House#0721.495130-348.2719105 #Mazzanti Nicoletta #$Ristorante##
+Marche#Fano#Via E. Mattei, 50 #Il Barone Rosso#0721.865835 #Stefanini Roberto #$Ristorante$Bar##43.820504$13.024505
+Marche#Fano#Via Monfalcone, 73 #Locanda Penna Bianca#0721.840080 #Maggioli Carolina #$Ristorante$Pizzeria##
+Marche#Gabicce Mare#P.zza Giardini, 1 #Grand H. Michelacci#0541.954361 Persona/e di riferimento:  Note:  Prezzo min/max:  #www.michelacci.com #$Hotel$Ristorante##
+Marche#Gabicce Mare#Via Panoramica, 35 #Hotel Alexander#0541.954166 #Fortinguerra Francesco #$Hotel##
+Marche#Marotta#L.mare Cristoforo Colombo 180 #La Riva#0721.960816 - 335.6456081 #Tomassetti Gianfranco #$Ristorante$Pizzeria##
+Marche#Mercatello sul Metauro#Loc. Montioni, 23 #Ca' Montioni#0722.89706 #Balducci Marco #$Agriturismo#www.camontioni.it #
+Marche#Mombaroccio#Via Guidobaldo Del Monte, 38/40 #Sottosale#0721.471428 #Guerri Matteo #$Ristorante$Trattoria#www.sottosale.com #
+Marche#Mondavio#Via Cavallara, 3 #Maria#0721.976220 #Cerisoli Angela #$Ristorante##
+Marche#Mondolfo#Via Fermi ,4 #Chiostro dell'Avis#0721.959164 #Giorgini Mauro #$Ristorante$Pizzeria##
+Marche#Montelabbate#Via 1° Maggio #Capriccio#0721.498143 #Agliottone Mario #$TavolaCalda$Pizzeria##
+Marche#Pesaro#P.le della Libertà, 2 #G.H. Vittoria/Rist.Agorà#0721.34343 #Marcucci Pinoli F.sco #$Hotel$Ristorante##
+Marche#Pesaro#V.le della Repubblica,22 #H. Savoy/Rist. Ariston#0721.33133 #Marcucci Pinoli F.sco #$Albergo$Ristorante##
+Marche#Pesaro#Via delle Galligarie, 22/24 #La Testa del Re#0721.67609 #Corsini Massimigliano #$Ristorante$Pizzeria##
+Marche#Pesaro#Strada delle Marche, 60 #Lo Squero#0721.65405 #Ubaldi Sanzio #$Ristorante#www.ristorantelosquero.it #
+Marche#Pesaro#V.le Trieste, 231 #Polo Pasta e Pizza#0721.375902 #Poletti M./Di Remigio M. #$Ristorante##
+Marche#Pesaro#Via Yuri Gagarin, sn #Ristò Vera#038.3813135 #Rossi Virginia #$Ristorante##
+Marche#Rio Salso#Via Ofanto, 4/a #Brezza di Mare#0721.491750 #Santi Eliana #$Ristorante#www.brezzadimare.it #
+Marche#S.Costanzo#Strada Piagge, 1 #Locanda La Cerasa#0721.935117 #Sbriscia Federico #$Ristorante##
+Marche#Sant'Ippolito#Via delle Industrie, 9 #Cascina delle Rose#0721.728197 #Gasperini Andrea #$Ristorante#www.cascinadellerose.com #

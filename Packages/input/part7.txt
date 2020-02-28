@@ -1,0 +1,208 @@
+Campania#Aiello del Sabato#Via Brecciale #La Locandina#0825.666620 #Mauriello Rita #$Ristorante$Pizzeria#www.villacalvo.it #40.87889$14.82583
+Campania#Ariano Irpino#C.da Carpiniello #Club House La Tartaruga#0825.877272 #Ventre Guglielmo #$Ristorante$Pizzeria##
+Campania#Ariano Irpino#V.le dei Tigli, 7 #La Pignata#0825.872571 #Ventre Guglielmo #$Ristorante#www.ristorantelapignata.it #
+Campania#Ariano Irpino#Via Vitale, 59/b #La Tramontana#0825.829097 #Vitagliano Gaetano Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Ariano Irpino#via D'Afflitto, 43 #Pepe Nero#0825.871475 #Terranera Silvano #$Pizzeria##
+Campania#Atripalda#Via Roma, 110 #Blueorange#0825.627339/0825.627360 #Carrino Raffaele #$Ristorante$Pizzeria##
+Campania#Avellino#Via Palatucci,20 #Il Cavallino/H. de la Ville#0825.780911 #Scognamillo Patrizia #$Hotel$Ristorante##
+Campania#Avellino#C.so Umberto I, 32 #La Fontana#0825.756209 #Caracciolo Raffaele #$Ristorante$Pizzeria##40.91466$14.79625
+Campania#Avellino#Via C. Colombo, 31 #Springfield#349.0626515 #De Vito Antonio #$Pizzeria##
+Campania#Avellino#Circumvallazione,118/f #The Happy Chef#0825.31199 #Paradiso Pietro Paolo #$Ristorante#www.happychef.it #40.91746$14.79585
+Campania#Frigento#C.da Fontana Madonna #Fontana Madonna#0825.444647 #Savignano Immacolata #$Agriturismo#www.fontanamadonna.it #
+Campania#Grottolella#Via della Repubblica, 14 #La Cantinella#0825.671077 #Farina Antonetta #$Ristorante$Pizzeria#www.lacantinella.av.it #
+Campania#Mercogliano#Via S. Francesco, 17 #I Santi#0825.788776 #Grieco Federico #$Ristorante#www.isantimercogliano.it #40.91984$14.73513
+Campania#Monteverde#Via Fontana, 4 #Al Giardino#380.5453059 #Pagnotta Carlo #$Ristorante$Pizzeria#www.algiardino.eu #
+Campania#Montoro Inferiore#Via Risorgimento, 53 #La Cantina dell'Arte#0825.1728820 - 328.1738004 #Renna Dino #$Ristorante#www.lacantinadellarte.com #
+Campania#Montoro Superiore#Via Magliano  #Arco di Magliano#0825.523515 #Giaquinto Tommaso Note:  #$Ristorante$Pizzeria##
+Campania#Mugnano del Cardinale#Via dell'Uguaglianza, 3 #Dell'Ulivo#081.8257650 #Romano Antonio #$Ristorante$Pizzeria#www.ristorantepizzeriadellulivo.it #
+Campania#Nusco#Via Passaro, 11 #Hotel Colucci#0827.64071 #Colucci Luciano Note:  #$Hotel$Ristorante##
+Campania#Ospedaletto d'Alpinolo#Loc. Chiusa di Sopra #Galassia Park Hotel#0825.691183 #Maiella Massimo Note:  #$Hotel$Ristorante##
+Campania#Ospedaletto d'Alpinolo#Loc. Chiusa di Sopra #Maxim#0825.691183 #Maiella Massimo Note:  #$Ristorante##
+Campania#Ospedaletto d'Alpinolo#Loc. chiusa di Sopra #Villa Eleonora#0825.691183 #Maiella Massimo Note:  Prezzo min/max:  #$Hotel$Ristorante##
+Campania#Torrette di Mercogliano#Via Nazionale, 160 #Pink Panther#0825.682364-73 #Della Pia Giuseppe #$Ristorante$Pizzeria##
+Campania#Vallesaccarda#Via Provinciale, 8 #Oasis Sapori Antichi#0827.97021 #Fischetti Pietro Carmine #$Ristorante##
+Campania#Amorosi#Via Telese, 296 #La Piana#0824.970177 #Di Chiara Bartolomeo #$Hotel$Ristorante$Pizzeria##41.20808$14.486055
+Campania#Benevento#Via Grimoaldo Re, 16 #Antica Cucina Pedicini#0824.21731 #Bibbò Anna #$Ristorante$Pizzeria##
+Campania#Benevento#S.S. 7 Appia Km.255 #Bei Park Hotel#0824.360016 #Santoro Carlo #$Hotel$Ristorante#www.beiparkhotel.it #
+Campania#Benevento#C.da S. Chirico #Da Claudio#0824.29374 #Molinaro Ivan #$Ristorante$Pizzeria#www.daclaudio.it #
+Campania#Castelvenere#Via Sannitica #Fattoria Ciabrelli#0824.940565 #Ciabrelli Antonio Note:  #$Agriturismo##
+Campania#Circello#C.so Municipio, 121/a #Antica Trattoria Bacco#0824.937720/347.3856567 #Garofalo Nicola Note:  #$Ristorante$Pizzeria##
+Campania#Cusano Mutri#Via Giocagni,15 #Mastrillo#0824.862205 #Mastrillo Michelangelo #$Ristorante$Pizzeria##
+Campania#Dugenta#Via Lanzi,11 #Lanzi#333.2404049 #Schiavotello Carlo #$Agriturismo##41.12231$14.45279
+Campania#Moiano#Via Nuova S.Pietro,69 #Dal Guappo#0823.711225 #Amoriello Marco #$Ristorante$Pizzeria##41.08581$14.54170
+Campania#Moiano#Via Monte Lecito #Stella Maiuri#339.2050508 #Riccio Pasqualina #$Agriturismo##
+Campania#Molinara#C.da Gregaria, 97 #That's Amore#0824.994059 #Canonico Pasquale #$Ristorante$Pizzeria#www.thatsamoremolinara.it #
+Campania#Montesarchio#Via S. Maria, 37 #Al Convivio#339.1652924 #Abete Immacolata #$Ristorante$Enoteca#www.alconvivio.com #
+Campania#Montesarchio#Via Vitulanese, 188 #Il Castello#0824.834690 #Ciotta Maria #$Hotel$Ristorante##
+Campania#S. Giorgio del Sannio#Via Italia 90, 24 #Ricci Park Hotel#0824.338461 #Ricci Nicola #$Hotel$Ristorante$Pizzeria##
+Campania#S. Lorenzello#Via Regia, 59 #Il Giardino dei Ciliegi#0824.860074 #Amodio Monica #$Agriturismo##
+Campania#S.Agata dè Goti#C.da Palmentana #Ape Regina#0823.956698 #Terino Assunta #$Agriturismo##
+Campania#S.Agata dè Goti#Via Macere,5 #Il Girasole#349.7612394 #Pasquarella Giuseppina #$Agriturismo##
+Campania#S.Agata dè Goti#Vico Gioielli, 7 #L'Antro di Alarico#0823.717454 #Iannotta Raffaelina #$Ristorante##
+Campania#S.Marco dei Cavoti#Via Papa Giovanni XXIII #Il Leone D'Oro#0824.984782 #Ricci Giuseppe #$Ristorante$Pizzeria##
+Campania#S.Marco dei Cavoti#Via G. Matteotti, 11 #Lion Pub 18#334.6728060 #Piteo Adriano #$Pub##
+Campania#S.Martino Sannita#Via Chiesa, 79 #Agorà#0824.337422 #Cavalluzzo Pompeo Note:  #$Agriturismo##
+Campania#Solopaca#Via Procaccia, 1 #Masseria del Procaccia#0824.971366 #D'Onofrio Lucia #$Agriturismo##41.1397$14.555
+Campania#Aversa#Via Torrebianca, 78 #Gastrò#081.8905591 #Kulchytsky Oleksandr Note:  #$Ristorante$Pizzeria##
+Campania#Aversa#Via Raffaello, 47 #Gastrò#081.8112949 #Girone Giuseppe Note:  #$Pizzeria##
+Campania#Aversa#Via Filippo Saporito, 102 #Il Magnifico#081.5002093 #Caputo Aniceto #$Trattoria##
+Campania#Aversa#Piazza V. Emanuele 50 #Punto Pizza#081.8903920 #Vitale Michele #$Ristorante$Pizzeria##
+Campania#Bellona#Via Nazionale Triflisco, 3 #Cotton Hill#0823.960617 #Del Vecchio Antonella #$Ristorante$Pizzeria#www.cottonhills.it #
+Campania#Capodrise#SS. 87 Sannitica km. 22,600 #Novotel Caserta /Novotelcafé#0823.826553 #Pasquale Errico Note:  #$Hotel$Ristorante##
+Campania#Caserta#S.S. Sannitica Km.113 loc. Vaccheria #Dogana Golosa#0823.301508 #Broccoli Alessio #$Ristorante#www.doganagolosa.it #
+Campania#Casertavecchia#Via Torre, 4 #La Castellana#0823.371230 #Farina Orsola #$Ristorante##
+Campania#Casertavecchia#Via Lupara, 1 #La Tana del Lupo#0823.371333 #Giaquinto Francesco #$Ristorante$Pizzeria#www.allatanadellupo.it #
+Campania#Castel Volturno#P.zza 8 Ottobre, 1 #Da Gabry#0823.766114/339.7016058 #Silvestro Giuseppe #$Pizzeria##
+Campania#Cervino#Via Zampani,30 #La Gondola#0823.311459 #Piscitelli Prisco #$Ristorante$Pizzeria##41.03385$14.37921
+Campania#Conca della Campania#Via I° Novembre, 149 #Agriturismo La Palombara#0823.923588 #Ricci Giuliana #$Agriturismo#www.lapalombara.com #
+Campania#Maddaloni#Via Napoli, 80/86 #A'ddo' Napulitano#0823.402642 #Cosimo Marino #$Ristorante$Pizzeria#www.addonapulitano.it #
+Campania#Marzanello#Via Santianni 21 #A Regna#0823.988453 #Zompa Antonio #$Pizzeria##
+Campania#Parete#P.zza Guido Rossa, 2 #Spezza Pizza#081. 5030166 -347.4193972 #Mottola Francesca #$Ristorante$Pizzeria#www.spezzapizza.it #
+Campania#Piana di Monte Verna#Via Polizzano, 2 #Agriturismo Le Ghiandaie#0823.861216 #Mastroianni Giulio #$Agriturismo#www.agriturismoleghiandaie.net #
+Campania#Rocchetta e Croce#Via Antonio Izzo 19 #Il Trombettiere#0823.889140 #Cocozza Tony #$Ristorante$Pizzeria#www.iltrombettiere.it #
+Campania#Sommana di Caserta#Via Contelandulfo, 20 #Al Ritrovo dei Patriarchi#0823.371232 #Farina Maddalena #$Ristorante##
+Campania#Teano#Via Passerelle #L'Antico Frantoio#339.7020783 #Cliottone Giuseppe #$Pizzeria##
+Campania#Teverola#Via Roma, 161/163 #Il Magnifico#081.5048251 #Chiocca Saverio #$Trattoria##
+Campania#Acerra#Via Diaz, 112 #Il Picchio Verde#081.5204475 #Petrella Francesco #$Ristorante$Pizzeria#www.lafattoriadelpicchioverde.it #
+Campania#Acerra#Via A. De Gasperi,30 #Primavera#081.6588002 #Cannavacciuolo Gennaro #$Ristorante$Pizzeria##40.95459$14.363165
+Campania#Afragola#C.so Kennedy, 6/9 #Tequila 2#339.4460101/081.3444853 #Marchitelli Vincenzo #$Ristorante$Pizzeria##
+Campania#Bacoli#Via Cicerone, 21 #Baios - Il Gabbiano#081.8687969 #Capuano Michele #$Hotel$Ristorante##
+Campania#Bacoli#Via Faro,44 #Cala Moresca#081.5235595 #Gamba Mario Note:  #$Hotel$Ristorante##
+Campania#Bacoli#Via Molo di Baia, 13 #Il Tucano#081.8545046 #De Stefano Salvatore #$Ristorante$Pizzeria##
+Campania#Bagnoli#Via Lucio Silla, 35 #Gennaro 2#081.6100855 #Cristiano Cosimo #$Ristorante$Pizzeria##
+Campania#Casalnuovo#Via Nazionale delle Puglia, 62 #Hotel Rea/Rist. Convivio#081.8421263 #Ossuto Antonio Note:  #$Hotel$Ristorante$Pizzeria##
+Campania#Casalnuovo di Napoli#V.le dei Ligustri, 13 #La Sequoia#081.8429851 #Cerasuolo Cosimo #$Ristorante$Pizzeria##
+Campania#Casoria#Via D. Colasanto,32/34 #Juancarlos#081.5844868 #Morzillo Cinzia #$Pizzeria$Pub##40.878956$14.308716
+Campania#Casoria#Via Armando Diaz, 97 #Tequila#081.5404747/338.1829208 #Galdi Cosimo #$Pizzeria##
+Campania#Castellammare di Stabia#Via Annunziatella, 7 #Il Mago dello Spiedo#081.8704064 #Buonocore Salvatore #$Pizzeria$Ristorante##
+Campania#Cercola#Via Don Minzoni, 225 #Del Pino#081.7331145 #Porricelli Annamaria Note:  #$Ristorante$Pizzeria##40.86667$14.35250
+Campania#Ercolano#Via Vesuvio,10 #Gianni Al Vesuvio#081.7395684 #Fornito Ciro #$Ristorante$Pizzeria#www.giannialvesuvio.com #
+Campania#Forio d'Ischia#Via San Gennaro, 46 #Bosco Hotel#081.909132 #Castaldi Maria Teresa #$Hotel$Ristorante##40.70738$13.87284
+Campania#Forio d'Ischia#Via Scannella,12 - Loc. Panza #Da Leopoldo#081.907086 #Romano Maria #$Ristorante$Pizzeria##
+Campania#Forio d'Ischia#Via Monterone, 70 #Hotel Terme Castaldi#081.997101 #Castaldi Maria Teresa #$Hotel#www.hotelcastaldi.com #
+Campania#Forio d'Ischia#Via Scannella, 55 #Scannella#081.907181 #Iacono Anna #$Hotel$Ristorante##
+Campania#Forio-Panza Ischia#Via Forte, 31 #La Forastera#081.907281 #Iacono Stanislao #$Ristorante$Pizzeria##40.70726$13.87163
+Campania#Frattamaggiore#Via Veneto 38/44 #Gastrò#081.8804936 #Girone Luigi #$Pizzeria##
+Campania#Frattamaggiore#Via Padre Mario Vergaro, 10/12 #Il Rustichiere#081.8804693 #Ferraiolo Davide #$Ristorante$Pizzeria##
+Campania#Giugliano in Campania#Via Casacelle, 50/Parco Regina #Alexander Pizza#081.3307010 #Avallone Alessandro #$Pizzeria##
+Campania#Giugliano in Campania#Via Orsa Maggiore #Lido Varca d'Oro#081.5091214 #Cassinese Renato #$Ristorante$Pizzeria$TavolaCalda##
+Campania#Gragnano#Via Varano, 2 #Villa dei Cesari-Parco Varano#081.8710234 #Cascone Antonio Note:  Prezzo min/max:  #$SalaRicevimento##
+Campania#Marigliano#Via XI Settembre 2001 #L'Antidoto#081.8855963/328.6550800 #Varchetta Gerardo #$Ristorante$Pizzeria#www.antidotopub.it #
+Campania#Massa Lubrense#Via Reola, 12 #Emilia#081.8080643 #De Turris Antonino #$Ristorante$Pizzeria##
+Campania#Massa Lubrense#P.zza Madonna della Lobra,5 #Hotel Piccolo Paradiso#081.8789240 #Del Mauro Concettina #$Hotel$Ristorante##
+Campania#Meta#Via Caruso,3 #Tico Tico#081.5321837 #Parlato Gaetano #$Ristorante$Pizzeria##40.64639$14.40778
+Campania#Napoli#Via Posillipo, 14 #Bagno Elena#081.5755058 #Morra Antonella #$Ristorante#www.bagnoelena.it #
+Campania#Napoli#Via Mattia Preti, 10/a-b #Bier Garten#081.5568932 #Fioretti Gaetano #$Pub##
+Campania#Napoli#Via A. Scarlatti, 196 #Ciao Pizza#081.5783351 #Lama Eduardo #$Pizzeria##
+Campania#Napoli#Via S.Brigida,71-75 #Ciro a S.Brigida#081.5524072 #Pace Carmine #$Ristorante$Pizzeria#wwwcirosantabrigida.com #
+Campania#Napoli#Via G.Leopardi,239 #F.lli Pellone#081.5934602 #Pellone Pasquale #$Pizzeria##
+Campania#Napoli#Via Santa Brigida, 49/50 #Gli Amici di Pulcinella#081.5526750 #Battaglia Giuseppe #$Ristorante$Pizzeria#www.gliamicidipulcinella.it #
+Campania#Napoli#Via Albino, 18/20 #Gorizia#081.5604642 #Grasso Salvatore #$Pizzeria##
+Campania#Napoli#Centro Direzionale Isola, E/6 #Holiday Inn Naples#081.2250111 #Cascone Domenico Note:  #$Hotel$Ristorante##
+Campania#Napoli#Via Agnano Astroni, 24 #Hotel delle Terme di Agnano#081.7622180 #Guarracino Domenico #$Hotel$Ristorante#www.hoteltermeagnano.com #
+Campania#Napoli#Via Piave, 41/47 #La Caraffa#081.640330 #Arino Alberto #$Pizzeria##
+Campania#Napoli#Via Nazario Sauro, 21/22A #La Piazzetta#081.7646195 #Rosolino Sandy #$Ristorante$Pizzeria#www.lacantinella.it #
+Campania#Napoli#Via Sementini, 28/32 #La Taverna di Bacco#081.5466119 #De Rinaldi Salvatore #$Ristorante$Pizzeria#www.latavernadibacco.com #
+Campania#Napoli#Via Manzoni, 6A/8 #Mama.eat#081.7148696 #Navarro Marcella #$Ristorante$Pizzeria$Pub##40.83512$14.211255
+Campania#Napoli#Via Giotto, 14,16,18 #Menhir#081.5566945 #Iazzetta Massimo #$Pub##
+Campania#Napoli#Via J.F.Kennedy, 76 #Puerto del Sol - Parco Edenlandia#081.2394705 #Caria Ivan #$Ristorante$Pizzeria#www.edenlandia.it #
+Campania#Napoli#Via Partenope, 38 #Royal Continental#081.2452068 #Falco Mario Note:  #$Hotel$Ristorante##
+Campania#Napoli#Via dei Tribunali, 38 #Sorbillo#081.0331009 #Sorbillo Gigi #$Pizzeria##
+Campania#Napoli#Via Alabardieri,30/31 #Umberto#081.418555 #Di Porzio Lorella #$Ristorante$Pizzeria##
+Campania#Napoli-Posillipo#V.le Virgilio,1 #La Sierra#081.5757172 #Varriale Massimo #$Ristorante$Pizzeria#www.ristorantelasierra.it #
+Campania#Napoli-Vomero#Via Bernini, 92 #Calido Pub#081.5782985 #Cipolletta Antonio #$Pub##
+Campania#Ottaviano#Via Papa Giovanni XXIII, 14 #Maxi'o#081.8278900 #Guerriero Francesco #$Pizzeria$Pub##
+Campania#Ottaviano#Via Giugliani, 43 #Pathos#081.8274183 #Mensorio Vincenzo #$Ristorante$Pizzeria$Ristorante##
+Campania#Panza-Forio d'Ischia#Via Provinciale, 422 #Pizzeria Luca#081.907846 #Kozeli Bujar Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Pompei#Via Duca d'Aosta, 39 #Da Peppino#081.8504821 #Cucchiari Teresa #$Ristorante##
+Campania#Pompei#Via S. Abbondio, 155 #Pompeo Magno#081.8598050 #Del Sorbo Michelina #$Ristorante$Pizzeria#www.pompeomagno.it #
+Campania#Pompei#Via Colle S. Bartolomeo, 4 #Ristorante dei Platani#081.8633973 #Senatore Patrizia #$Ristorante#www.ristorantedeiplatani.it #
+Campania#Portici#C.so Garibaldi, 89 #Savoy 1898#081.482792 #Sforza Ciro Note:  #$Ristorante$Pub##
+Campania#Pozzuoli#Via Pergolesi Gianbattista 80 #Il Rudere#081.5262943 #Di Razza Enzo #$Ristorante$Pizzeria##
+Campania#Pozzuoli#C.so Umberto I, 47 #La Cucina degli Amici#081.5269393 #Solpietro Massimo Note:  #$Ristorante##
+Campania#Quarto#Via Cuccaro,29 #L'Arcadia#081.5873802 #Orlando Michele #$Ristorante#www.arcadiaristorante.it #40.87676$14.15108
+Campania#S. Angelo - Isola d'Ischia#Via G. di Iorio, 7- Succhivo #Casa Giuseppina#081.907771 #Trofa Giulia #$Hotel$Ristorante#wwwischiacasagiuseppina.com #
+Campania#S. Angelo d'Ischia#Via Fondolillo, 4 #Hotel Ferdinando#081.999269 #Iacono Fernanda #$Hotel##
+Campania#S. Giuseppe Vesuviano#Via Passanti, 168 #Gusto No Glutine#081.19667093 #Cafiero Giuseppe #$Pizzeria##
+Campania#S. Sebastiano al Vesuvio#Via Figliola, 12 #Funiculì#081.5742627 #Cito Claudio #$Ristorante$Pizzeria##
+Campania#S.Antonio Abate#Via De Luca, 16 #O' Passeggio#081.8797535 #Scognamiglio Gerardo Note:  Prezzo min/max:  #$Pizzeria$Ristorante##
+Campania#San Giorgio a Cremano#Via Pittore, 14 #Arianna#081.472481 #Di Cicco Fabio #$Ristorante$Pizzeria##
+Campania#Sant'Anastasia#Via Romani, 68 #La Dolce Vita#081.5303418 #Travino Guido #$Pizzeria##
+Campania#Sant'Antonio Abate#Via Scafati, 251 #Caruso#081.8735743 #Cirillo Lina #$Ristorante$Pizzeria##
+Campania#Serrara Fontana#Via Ruffano,11 #Romantica#081.999216 #Piro Crescenzo #$Hotel$Ristorante##40.71421$13.89310
+Campania#Serrara Fontana#Via Succhivo 46/a #Villa Mario#081.907775 #Trofa Lucilla #$Albergo##
+Campania#Somma Vesuviana#Via Aldo Moro, 182 #International Restaurant#081.8997052 #Romano John #$Ristorante$Pizzeria##
+Campania#Somma Vesuviana#Via Santa Maria del Pozzo 2 #Locanda del Cavaliere#081.5317444 #Di Palma Luigi #$Ristorante$Pizzeria##
+Campania#Somma Vesuviana#Via S.Maria a Castello,93 #Rose Rosse#081.8931364 #Molaro Carlo #$Ristorante##40.86005$14.43581
+Campania#Sorrento#Via degli Aranci, 13 bis #Hotel Conca Park#081.8071621 #Russo Raffaele #$Hotel$Ristorante##
+Campania#Sorrento#C.so Italia,275 #Hotel Michelangelo#081.8784844 #Perfetto Vincenzo Note:  Prezzo min/max:  #$Hotel##
+Campania#Sorrento#Via degli Aranci,11 #La Fenice#081.8781652 #Castellano Aniello #$Ristorante$Pizzeria##40.62389$14.37611
+Campania#Sorrento#Via Rota, 1 #La Residenza#081.8774698 #Guida Simona #$Hotel$Ristorante#www.laresidenzasorrento.it #
+Campania#Sorrento#Via Rota, 1 #Parco dei Principi#081.8784644 #Guida Simona Note:  #$Hotel$Ristorante##
+Campania#Sorrento#Via Correale,25 #Villa Rubinacci#081.8073357 #Parlato Pietro #$Ristorante$Pizzeria##
+Campania#Terzigno#Via Panoramica, 124 #Il Cratere#081.5299090 #Celentano Salvatore Note:  #$Ristorante$Pizzeria##
+Campania#Terzigno#C.so A. Volta, 262 #Palm Garden#081.5298956 #D'Avanzo Domenico #$Ristorante$Pizzeria#www.ristorantepalgarden.com #
+Campania#Torre del Greco#Via Nazionale, 410 #Franco#081.8471970 #Bianco Mario #$Ristorante$Pizzeria#www.ristorantepizzeriafranco.com #
+Campania#Torre del Greco#Via Cupa Cianfrone, 7 #Joseph Under The Bridge#081.8813445 #Fornito Maria #$Ristorante$Pizzeria##
+Campania#Vico Equense#Via Privata Bonea, 2 #Nonna Rosa#081.8799055 #Buonocore Eduardo #$Ristorante#www.osterianonnarosa.it #40.66047$14.4302
+Campania#Vico Equense#Via Filangieri, 87 #Sale e Pepe#339.8142500 #Pane Ciro #$Pizzeria$Ristorante##
+Campania#Volla#Via R. Sanzio #Leonessa#081.7748916 #Soddisfatto Angelo Note:  #$Hotel$Ristorante##
+Campania#Acquavella di Casalvelino#Loc. Pantaleo #Spina Rossa#340.6007508 #Giordano Rosa #$Agriturismo##
+Campania#Agropoli#Via S.Marco, 28-32 #Anna#0974.823763 #Scola Domenico - Maria #$Ristorante$Pizzeria$Albergo##40.36242$14.99999
+Campania#Battipaglia#Via S.S. 18 - Km. 76,5 M.no Braggio #Centro Congressi San Luca#0828.342533 #Longobardi Francesco #$Hotel$Ristorante$Pizzeria$Catering#www.sanlucahotel.it #
+Campania#Battipaglia#Via Spineta, 84/C #La Fabbrica dei Sapori#0828.630021 #Mogavero Cosimo #$Pizzeria##
+Campania#Battipaglia#Via Rosario, 47 #Pizza Art#0828.1840582 #Liberto Elga #$Ristorante$Pizzeria##
+Campania#Battipaglia#Via Amerigo Vespucci, 1 #Positano#0828.371285 #Manzo Carmine Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Battipaglia#Via G. Noschese, 26 fraz. S. Lucia #Tavernola Locanda di Campagna#0828.631065 #Rocco Rosa #$Albergo$Ristorante##
+Campania#Bracigliano#V.le Springfield Mass, 10 #La Taverna dei Briganti#329.3490990 #Settembre Nazario #$Ristorante$Pizzeria##
+Campania#Casalvelino#Via Chiuse #Zio Cristoforo#0974.907552 #Crescenzo Stefano #$Agriturismo$Ristorante#www.agriturismoziocristoforo.com #
+Campania#Caselle in Pittari#Via Caporra, 64 #La Pietra Azzurra#0974.988779 #Croccia Michele #$Ristorante$Pizzeria#www.ristorantelapietrazzurra.it #
+Campania#Caselle in Pittari#Via Sandro Pertini, 22 #Lo Sceriffo#0974.988569 #Fiscina Donatello #$Pizzeria##
+Campania#Castiglione del Genovesi#Via V. Genovesi #Il Riccio#089.881641 #Natella Fulvia #$Ristorante$Pizzeria##
+Campania#Castiglione del Genovesi#Via Parrilli, 29 #La Cantina del Riccio#338.3593653 #Naddeo Roberta #$Enoteca#www.cantinadelriccio.it #
+Campania#Cava de' Tirreni#Via Vittorio Veneto, 164 #La Sosta dei Golosi#339.8973632 #Nocerino Gioacchino Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Cava de' Tirreni#C.so Umberto I, 211 #Miss Pizza#327.6281130 #Tortora Alfonso Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Cava dè Tirreni#Via S. Felice,snc S.Lucia #Montecaruso Hotel#089.467817 #Apicella Nicola #$Hotel$Ristorante$Pizzeria#www.montecaruso.it #
+Campania#Ceraso#Via Isca,19 #Osteria del Notaro#0974.61294 #Notaroberto Augusto #$Ristorante$Pizzeria#www.cilentohouse.it #
+Campania#Eboli#Via Foce Sele #Campeggio Villaggio Paestum#0828.691003 #Liguori Gregorio #$Ristorante#www.campingpaestum.it #
+Campania#Eboli#Via Francesco Romano, 8 #Re Artu'#0828.332024 #Giorgio Assunta Note:  #$Ristorante$Pizzeria##
+Campania#Giffoni Sei Casali#Via Malche, 64 #Al Vecchio Rifugio#089.880141 #Tammaro Eliana #$Ristorante$Pizzeria#www.alvecchiorifugio.com #40.69166$14.89346
+Campania#Giffoni Sei Casali#Via Serroni, 45 #Popilia#089.880129 #D'Ascoli Regina #$Ristorante##40.70932$14.90508
+Campania#Maiori#Via G. Capone, 63 #Al Mare Restaurant e Bar#089.852668 #Buonocore Gaetano #$Ristorante$Pizzeria$Bar##
+Campania#Marina di Camerota#Via delle Sirene, 41 #Villaggio Alberg. Da Pepè#0974.932461 #Russo Giuseppe #$Ristorante$Ristorante#www.villaggiodapepe.net #
+Campania#Nocera Inferiore#Via Vescovado, 49 #Antico Borgo#389.0221723 #Giordano Gerardo #$Ristorante$Pizzeria##
+Campania#Nocera Inferiore#Via Isaia Gabola, 53 #Madison#081.5153622 - 328.0109688 #Paduano Claudio #$Ristorante$Pizzeria##
+Campania#Nocera Superiore#V.le del Santuario, 7 #Caramari#081.5143740 - 334.3832424 #Federico Antonio #$Ristorante$Pizzeria##
+Campania#Nocera Superiore#Via Santacroce, 13 #Luna Galante#081.5176065 #Principe Lorenzo #$Ristorante##
+Campania#Padula#Viale Certosa, 41 #La Certosa#0975.77046 #Bilotti Antonio #$Hotel$Ristorante#www.certosa.it #
+Campania#Pagani#Via Carlo Tramontano,87 #Da Marcello#081.5151042 #Avitabile Marcello/ Pepe L. #$Ristorante$Pizzeria##40.73885$14.60629
+Campania#Palomonte#Via Filette #Al Ceppo#339.5456614 #Risi Maurizio #$Pizzeria##
+Campania#Palomonte#Via Uscilito, Km.1 A/3 #El Sombrero#0828.997065 #Risi Alfredo #$Ristorante$Pizzeria##
+Campania#Pellezzano#Via Filanda, 8 #Taverna Antica Filanda#089.481578 #Alfinito Sergio #$Ristorante$Pizzeria##
+Campania#Polla#Via Annia #Santa Chiara#0975.391470 #Pellegrino Franco #$Ristorante$Pizzeria#www.ristoranteschiara.com #
+Campania#Pontecagnano#Via Roma, 25 #La Basculla#089.849030 #Rossomando Gabriella Note:  Prezzo min/max:  #$Pizzeria##
+Campania#Pontecagnano#Via Dei Navigatori #Primavera#339.5068161 #De Martino Arianna #$Pizzeria##
+Campania#Praiano#Via Campo, 5 #La Cala delle Lampare#089.874333 #Gagliano Paolo #$Ristorante##
+Campania#Praiano#Via Campo, 5 #Tritone#089.874333 #Gargano Paolo #$Hotel#www.tritone.it #
+Campania#Ravello#Via della Repubblica, 10 #Al Ristoro del Moro#089.857901 #Vuilleumier Paolo #$Ristorante#www.alristorodelmoro.it #
+Campania#Ravello#Via della Repubblica, 8 #Hotel Graal#089.857222 #Vuilleumier Paolo #$Hotel$Ristorante#www.hotelgraal.it #
+Campania#Ravello#Via Gioacchino d'Anna #Parsifal#089.857144 #Mansi Luciano W. Note:  #$Hotel$Ristorante##
+Campania#Ravello#Via Trinità, 14 #Villa Giordano#089.857255 #Palumbo Vincenzo Note:  #$Albergo$Ristorante##
+Campania#Ravello#Via Santa Chiara, 2 #Villa Maria#089.857255 #Ferrigno Lorenzo Note:  #$Hotel$Ristorante##
+Campania#S. Marzano sul Sarno#Via Gramsci, 123 #L'Oasi della Pizza#331.3880076 #Maresca Michele #$Pizzeria##
+Campania#Sala Consilina#Via S. Antonio #Strapizzami#327.7607619 #De Lio Dolo #$Pizzeria##
+Campania#Sala Consilina#Contrada Sagnano #Villa delle Acacie#0975.545076 #Lovaglio Maria #$Agriturismo#www.agriturismovilladelleacacie.it #
+Campania#Salerno#Via Sant'Angelo di Ogliara #Al Campetto#089.281640 #Rovezzo Aniello #$Pizzeria##
+Campania#Salerno#Via Picarelli, 70 loc. Pastena #Cico's#320.7645154 #Mussio Francesco e Linda #$Ristorante$Pizzeria##
+Campania#Salerno#L.re Clemente Tafuri, 1 #Grand Hotel Salerno#089.7041111 #Marinato Pacifico #$Hotel$Ristorante#www.grandhotelsalerno.it #40.678335$14.752482
+Campania#Salerno#Via S. Eustachio, 44/48 #Il Giardino degli Dei#089.301127 #Di Pasquale Marco #$Pizzeria##40.666154$14.810686
+Campania#Salerno#Via S. Marano,5 #La Tombola#089.229589 #Russo Salvatore #$Ristorante$Pizzeria##40.67605$14.76972
+Campania#Sapri#Via Verdi, 11 #Noè a Mare#0973.603942 #Disperso Maria #$Pizzeria##
+Campania#Sarno#Via G. Ammendola, 8 #Maga Pizza da Peppe#081.967710 #Mareschi Aniello #$Ristorante$Pizzeria##
+Campania#Scafati#Via della Resistenza,45 #O' Primmo Ammore#081.8508014 #Schettino Cecilia #$Ristorante$Pizzeria#www.ristoranteoprimmoammore.it #
+Campania#Scafati#Via Buccino 28/30 #Serafino#081.8638330 #Cirillo Nicola #$Ristorante$Pizzeria##
+Campania#Stella Cilento#Loc. Fornari,2 #I Fornari#0974.909204 #De Marco Vittorio #$Agriturismo##40.2307$15.122475
+Campania#Tramonti#Via Falcone,21 - fraz. Pietre #Costiera Amalfitana#089.856192 #Cuofano Rita #$Ristorante$Pizzeria$Agriturismo#www.costieraamalfitana.it #
+Campania#Vietri sul Mare#Via Mazzini, 135 #Il Principe e la Civetta#089.7632201 #Nolfi Antonio #$Ristorante#www.ilprincipeelacivetta.com #
+Campania#Vietri sul Mare#Via Iaconti 2/a (Dragonea) #La Fattoria#089.210518 #Fasano Sabato #$Ristorante##40.678718$14.709384
+Campania#Vietri sul Mare#Via G. Pellegrino #L'Argonauta c/o California Beach#089.210548 #Di Mauro Cosmo #$Ristorante##

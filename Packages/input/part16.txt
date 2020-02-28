@@ -1,0 +1,169 @@
+Lombardia#Albino#Via Monte Cura, 6 #Az. Agrituristica Monte Cura#035.754745 #Benagli Raffaella #$Agriturismo#www.montecura.it #
+Lombardia#Albino#Via Valgua, 3 #Trattoria alle Trote#035.761120 #Lanfranchi Luca #$Pizzeria#www.alletrote.com #
+Lombardia#Bagnatica#Via Papa Giovanni XXIII, #Pizzeria al 18#035.680406 #Iannotta A./Parimbelli S. Note:  #$Pizzeria##
+Lombardia#Bergamo#Via Statuto, 23 #Albergo 900#035.255210 #Mansi Claudio #$Pizzeria##45.69913$9.65378
+Lombardia#Bergamo#Via Palma il Vecchio, 33 #Byron#035.233477 #Maringoni Dorilio #$Pizzeria##
+Lombardia#Bergamo#Via Al Pianone, 4 #Villa Luna#035.245554 #Canfarelli Ignazio #$Ristorante#www.bbvillaluna.it #
+Lombardia#Calusco d'Adda#Via Marconi, 1459 #Pizza Leggera Calusco#035.791852 #Cattaneo Andrea #$Pizzeria#www.pizzaleggera.it #
+Lombardia#Caravaggio#C.ne Papa G.ni Paolo II, 24 #Giardino#0363.50581 #Farina Marina #$Ristorante#www.giardinoristorante.it #
+Lombardia#Cologno al Serio#Via Antonio Locatelli, 74 #Corona#035.896104 #Carne Emanuel #$Pizzeria##
+Lombardia#Dalmine#Via Pascolo, 34 #Bobadilla Feeling Club#035.561575 #Maffioletti Omar/Gotti Francesco #$Ristorante$Catering##45.64386$9.58851
+Lombardia#Grassobbio#Via Fornacette, 27 #All'Angolo#035.4522111 #Leidi Emiliano #$Ristorante$Pizzeria##
+Lombardia#Lovere#P.le Marconi, 4 #Le Terrazze#035.983533 #Pante Marco #$Ristorante$Pizzeria$Bar##
+Lombardia#Seriate#Via Nazionale, 93 #Gustò#0354.236258 #Guerin Stefano #$Ristorante$Pizzeria##
+Lombardia#Sotto il Monte Giovanni XXIII#Via Roncalli, 18 #La Taverna#035.799599 #Formenti Paolo #$Ristorante$Pizzeria##
+Lombardia#Telgate#Via Dante,17 #Il Leone D'Oro#035.4420803 #Durizzi Lorenzo #$Hotel$Ristorante$Pizzeria#www.hotelleonedoro.it #
+Lombardia#Terno d'Isola#Via Roma, 23/g #Mocambo#035.9003047 #Vartuì Galtieri #$Ristorante##
+Lombardia#Verdello#Via Don Giavazzi, 6 #Villa Giavazzi#035.4191159 #Casari Laura #$Ristorante#www.villagiavazzi.it #45.362471$9.373454
+Lombardia#Agnosine#Via G. Marconi, 94 #Da Nicola#0365.896145 #Vallini Nicola #$Ristorante$Pizzeria##
+Lombardia#Breno#Via L. da Vinci, 17/b #Aquiletta#0364.22503 #Salvetti Marco #$Pizzeria##
+Lombardia#Brescia#Via Triumplina, 103 #Bierhaus#030.2005500 #Baglioni Cristina #$Pizzeria##
+Lombardia#Brescia#Via Triumplina, 86 #I Silvani#030.2040008 #Scaramella Barbara #$Ristorante$Pizzeria##
+Lombardia#Brescia#Viale Piave, 53 #Il Piacere#030.362082 #Ji Haizhen #$Ristorante$Pizzeria##
+Lombardia#Brescia#Via Triumplina, 8 #Impero#030.381483 #Villani Pasquale #$Hotel$Ristorante$Pizzeria##45.55970$10.22817
+Lombardia#Brescia#Via Montello, 28/c #La Duchessa#030.3384814 #Esposito Corrado #$Ristorante$Pizzeria##45.553622$10.214796
+Lombardia#Brescia#Via Valle Camonica, 16 #Mangiarè#030.3735869 #Morandi Miriam #$Pizzeria#www.mangiare.brescia.it #
+Lombardia#Brescia#Via P. Nenni, 22 #Novotel Brescia/Novotelcafé#030.2286811 #Rabot Nicolas Note:  #$Hotel$Ristorante##45.52512$10.21945
+Lombardia#Brescia#Via Solferino, 31 #Sushi Box#333.9230661 #Valle Silvia #$Ristorante##
+Lombardia#Cailina di Villa Carcina#Via C. Scaluggia, 42 #Osteria del Maistrì#030.8982272 #Beccaloss Manuela #$Ristorante#www.osteriadelmaistri.it #45.372201$10.113537
+Lombardia#Calvagese della Riviera#Via Basse Sopra, 1 #L'Oasi del Chiese#030.6000060 #Proto Placido #$Pizzeria##
+Lombardia#Concesio#Via Bevilacqua ,13 #Al Grillo#030.2751408 #Milo Vincenza #$Ristorante$Pizzeria##45.59948$10.22507
+Lombardia#Desenzano del Garda#Lungo Lago C. Battisti, 89 #Rose e Sapori#030.9144585 #Piovanelli Bruno Note:  #$Ristorante##
+Lombardia#Gavardo#Via A. Gosa, 164/f #El Mamacita#0365.34275 #Pietropaolo Ivan #$Ristorante$Pizzeria##45.588605$10.43871
+Lombardia#Gavardo#Via Bariaga, 24 #Trattoria alle Trote#036.531294 #Ottolini Stefano #$Ristorante$Trattoria##
+Lombardia#Gratacasolo/Pisogne#Via Conarolo 8/a #Proseccheria Mionetto#0364.89009 #Maroni Marco #$Ristorante$Pizzeria##
+Lombardia#Gussago#Via Fontana, 25 #Osteria dell'Angelo#030.2770139 #Rovelli Emanuela #$Ristorante##
+Lombardia#Idro#Via Trento, 39 #Da Arrigo#0365.823371 #Cosenza Leonardo #$Albergo$Ristorante$Pizzeria##45.740394$10.463877
+Lombardia#Iseo#Vicolo Nulli, 9 #Il Gallo Rosso#030.980505 #Mazzucchelli Barbara #$Ristorante##45.65906$10.04906
+Lombardia#Leno#Via Viganovo 47 #Oasi#030.9067105 #Di Martino Alfonso #$Ristorante$Pizzeria##
+Lombardia#Lumezzane#Via IV Novembre, 52 #Al Saraceno#030.871249 #Amato Tommaso #$Pizzeria##
+Lombardia#Lumezzane#Via Vallesabbia,145 #Studio Interno 7#030.828753 #Fenaroli Sergio #$Pizzeria##
+Lombardia#Malonno#Via Nazionale, 79 #King's Pizza#0364.635048 #Vescovi Mauro #$Pizzeria##
+Lombardia#Manerbio#Via Artigianale, 1 #Regina Major#030.9380709 #Di Martino Antonio #$Ristorante$Pizzeria#www.reginamajor.it #
+Lombardia#Montichiari#Via Romero Mons. Oscar, 69 #Dal Dosso Sala Mensa#030.961025 #Dal Dosso Patrizia #$Ristorante#www.daldossosalamensa.com #
+Lombardia#Pralboino#Via Garibaldi, 36 #L'Altra Oasi#030.954259 #Pastore Daniela #$Pizzeria##
+Lombardia#Rivoltella del Garda#Via Papa Giovanni XXIII, 69 #Le Caravelle#030.9110198 #Perazzi Giordano #$Ristorante$Pizzeria##
+Lombardia#Sale Marasino#Via Provinciale, 1 #Hotel Villa Kinzica#030.9820975 #Neretti Maria Mirta #$Hotel##
+Lombardia#Sale Marasino#Via Provinciale, 1 #L'Uliveto#030.9867102 #Perini Stefano #$Ristorante##
+Lombardia#Sarezzo#Via Cimabue, 1 #Ciar de Luna#030.8901491 #Zani Claudio #$Ristorante$Pizzeria##
+Lombardia#Sirmione#Via San Martino, 2 #H. Riel-Rist. Al Braciere#030.9905561 #Mason Dario #$Hotel$Ristorante$Pizzeria#www.ristorantealbraciere.com #45.462689$10.616119
+Lombardia#Sirmione#Via XXV Aprile, 60  #Hotel du Lac#030.916026 #Spedicato Raffaella #$Hotel##45.48092$10.60922
+Lombardia#Sirmione#Via XXV Aprile, 26  #La Paul#030.916077 #Betta Pierpaolo Note:  #$Hotel$Ristorante$Pizzeria##45.284733$10.363329
+Lombardia#Sirmione#Via Lazzarini, 25 #Mauro#030.919031 #Avanzi Gabriella #$Hotel##
+Lombardia#Stocchetta#Via Triumplina, 238 #Risorgimento#030.2008304 #Cavaliere Maria #$Ristorante$Pizzeria##
+Lombardia#Tignale#Via Europa, 1 #Al Torchio#0365.760296 #Moschini Valeria #$Ristorante$Pizzeria##
+Lombardia#Tignale#Via Badiale, 4 #Apollo XI#0365.760293 #Bertolasio Daniele #$Ristorante$Pizzeria#www.gtstignale.it #
+Lombardia#Toscolano Maderno#Via Sanico, 11 #Villa dei Roccoli#0365.541592 #Tavella Pasquale #$Ristorante#www.ristorantevilladeiroccoli.com #
+Lombardia#Vezza d'Oglio#Via Nazionale, 132 #Casa del Parco dell'Adamello#0364.76165 #Baccanelli Chiara Note:  #$Hotel$Ristorante##
+Lombardia#Villanuova sul Clisi#V.le Brescia, 32 #La Sosta#0365.374412 #El Saadany Fayez #$Ristorante$Pizzeria##
+Lombardia#Albese con Cassano#Via Roma, 130 #Al Pesce Vela#031.426129 #Esposito Assunta #$Pizzeria#www.pescevela.it #
+Lombardia#Bellagio#Via per Lecco, 33 #Salice Blu#031.950535 #Gandola Luigi #$Ristorante##45.9699$9.266045
+Lombardia#Cantù#Via Vergani,21 #Le Vigne#031.711088 #Mendola Francesco e Teresa #$Ristorante$Pizzeria##
+Lombardia#Como#Via Petrololo,2/A #El Dorado#031.242453 #Di Biase Francesco, Daniele e Luca #$Ristorante$Pizzeria##
+Lombardia#Como#Via Cadorna, 26 #L'Antica Trattoria#031.242777 #Di Lauro Alessio #$Ristorante##
+Lombardia#Como#Via Canturina, 251 #Locanda dell'Oca Bianca#031.525605 #Semeraro Francesco #$Albergo$Ristorante#www.hotelocabianca.it #45.77522$9.10253
+Lombardia#Como#V.le Lecco,25 #Osteria L'Angolo del Silenzio#031.3372157 #Mereu Fabiana #$Ristorante##
+Lombardia#Erba#Via C. Battisti, 34 #Acqua, Farina e Brace#031.610878 #Conti Francesco #$Pizzeria##
+Lombardia#Fenegrò#Via Roma, 51 #Rose Noir#031.935990 #Falzone Davide #$Pizzeria##
+Lombardia#Lambrugo#Via S. Carlo, 3 #Al Rustico da Luisa e Marco#031.608125 #Rossi Marco #$Ristorante#www.ristorantealrustico.it #
+Lombardia#Schignano#Via S. Maria, 13 #La Zoca di Strii#031.819721 #Codara Gregorio #$Agriturismo#www.lazocadistrii.it #45.93408$9.09506
+Lombardia#Sorico#Via Boschetto, 49 #Il Beccaccino#0344.84241 #Landi Romeo Note:  #$Ristorante##
+Lombardia#Vertemate#S.S. dei Giovi #A Modo Mio#031.887349 #Giglio Massimo L. #$Ristorante##
+Lombardia#Crema#Via Milano, 4 #Cascina Loghetto#0373.230209 #Mariani Anna M./ Zaglia Elisa #$Agriturismo#www.cascinaloghetto.it #45.35963$9.65157
+Lombardia#Cremona#Via Del Sale, 58 #Dordoni#0372.22703 #Magri Chiara #$Ristorante$Pizzeria##
+Lombardia#Grumello Cremonese#Str. Prov.le 47 - Cascina S. Martino, 1 #Locanda San Martino#347.2878756 #Caizzi Paola #$Agriturismo##
+Lombardia#Ripalta Arpina#S.P. Crema - Codogno, 591 #La Palazzina#0373.667301 #Landucci Patrizia #$Trattoria#www.trattorialapalazzina.it #
+Lombardia#Merate#Via Laghetto,2 #Fattoria Laghetto#039.9902283 #Bellè Eliana #$Agriturismo#www.fattorialaghetto.com #45.684795$9.409355
+Lombardia#Nibionno#Loc. California, 2 #I Melograni#031.691103 #Nogara Giacomo Note:  #$Ristorante##
+Lombardia#Nibionno#Loc. California, 2 #La California Relais#031.690912 #Fumagalli Giulia #$Hotel##
+Lombardia#Olginate#Via S. Maria La Vite, 16 #La Locanda#0341.650506 #Schena Giacomo #$Ristorante$Pizzeria#www.ristorantelalocanda.com #
+Lombardia#Borghetto Lodigiano#Via XXV Aprile,3 #La Locanda dei Sapori#0371.80588 #Meazzi Marcello #$Ristorante$Pizzeria##45.215085$9.501155
+Lombardia#Codogno#P.zza Cairoli, 26 #Park Club#0377.35153 #Cascella Antonio #$Ristorante$Pizzeria#www.parkclub.com #
+Lombardia#Lodi#Via Ada Negri, 20 #Agripizza#0371.417017 #Di Gregorio Salvatore #$Pizzeria#www.agripizzaitalia.eu #
+Lombardia#Lodi#Via Isola Caprera,14 #Isola Caprera#0371.421316 #Mussini Simone #$Ristorante##
+Lombardia#San Martino in Strada#Via Vittorio Emanuele II 53 #Witch Pub#0371.476078 #Generani Fulvia #$Ristorante$Pizzeria##
+Lombardia#Biassono#P.zza S. Francesco, 24 #L'Officina dei Sapori#039.2754029 #Rossoni Roberto #$Ristorante#www.lofficinadeisapori.com #
+Lombardia#Binasco#Largo Loriga, 5 #Hosteria della Pignatta#02.9054046 #Sciacca Matteo #$Ristorante#www.hostaeriadellapignatta.com #
+Lombardia#Burago di Molgora#Via Martin Luther King, 3/5 #Brianteo Hotel and Restaurant#039.6080436 #Casati Armidio #$Hotel$Ristorante#www.brianteo.it #
+Lombardia#Carate Brianza#Via U. Bassi, 1 bis #Ristorante Il Ritrovo#0362.902287 #Pirelli Roberto #$Ristorante#www.osteriadelritrovo.it #45.68028$9.236262
+Lombardia#Castano Primo#Via Adua ang. S.P. 34 #A Modo Mio c/o C.C.le Castano#033.1882797 #Agostino Maurizio #$Ristorante##
+Lombardia#Concorezzo#Via Dante, 267 #La Camilla#039.647289 #Ruisi Veronica #$Agriturismo#www.lacamilla.it #
+Lombardia#Desio#Via Tripoli, 28 #La Taverna#0362.303329 #Barbieri Roberto #$Ristorante$Pizzeria##
+Lombardia#Giussano#Via Cavera, 35 #Girasole#0362.354447 #Abo Taleb Hassan #$Ristorante$Pizzeria##
+Lombardia#Lainate#Via Mengato, 11 #Latenasca#02.93780995 #Priolo Giovanni #$Trattoria$Pizzeria#www.latenasca.it #
+Lombardia#Liscate#Via Grandi, 5 #Gasoline Road Bar#02.9587740 #Cristiani Angelo #$Ristorante$Pizzeria$Pub##
+Lombardia#Milano#Via Boltraffio, 18 #Angolomilano#02.683116 #Eshak Alberto #$Ristorante#www.angolomilano.com #
+Lombardia#Milano#Via Solferino, 32 #Bar Ted One#02.6575260 #Tedone Pasquale #$Bar$TavolaCalda##
+Lombardia#Milano#Viale Col di Lana, 4 #Be Bop#02.8376972 #Dal Pra' Anna #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Laghetto, 2 #Cantina Piemontese#02.784618 #Bodini Carlo #$Ristorante#www.cantinapiemontese.it #
+Lombardia#Milano#Via Leoncavallo, 16 #Capoverde#02.26820430 #Todisco Domenico #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Vallazze, 74 #Da Hakim#02.70630315 #Hakim Badry #$Pizzeria##
+Lombardia#Milano#Via Arnaldo da Brescia, 3 #Guyot#02.87237103 #Gatta Marco #$Ristorante$Enoteca##
+Lombardia#Milano#Via Legioni Romane 37 #Il Grissino#02.4046141 #Shehata Daoud #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Cenisio, 54 (da Via Princ.Eugenio) #Il Piccolo Padre#02.3494906 #Saad Adel #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Neera, 40 #kitchen Ristorante#02.84895749 #Temporiti Massimo #$Ristorante$Catering#www.kitchenristorante.com #
+Lombardia#Milano#Via E. De Marchi, 44 #La Basilicata#02.66987892 #De Marte Giuseppe #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Piero della Francesca,34 #La Rosa dei Venti#02.347338 #Capuano Fabrizio #$Ristorante#www.ristorantelarosadeiventi.it #45.48361$9.16389
+Lombardia#Milano#Via Palanzone, 26 #La Tellina#02.66108063 #Gayed Nader #$Ristorante$Pizzeria##
+Lombardia#Milano#Via Pietro Calvi, 29 #Le Specialità#0273.88235 #Cummo Giuseppe #$Ristorante$Pizzeria#www.ristorantelespecialita.com #
+Lombardia#Milano#Via Mecenate,121 #Novotel Linate/Novotelcafé#02.507261 #Espertini Andrea Note:  #$Hotel$Ristorante##45.44687$9.25683
+Lombardia#Milano#V.le Suzzani,13 #Novotel Milano Nord/Novotelcafé#02.641151 #Silvano De Rosa Note:  #$Hotel$Ristorante##45.50608$9.19766
+Lombardia#Milano#Via Cicco Simonetta, 17 #Osteria dei 5 Sensi#02.58102650 #Raucci Gianni #$Ristorante#www.osteriadei5sensi.com #45.455735$9.17485
+Lombardia#Milano#Viale Pasubio, 14 #Panta Rei Club#02.6597370 - 329.8408621 #Tota Marilena #$Ristorante$Pizzeria#www.pantareiclub.com #
+Lombardia#Milano#P.zza Carbonari, 5 #Trattoria Casa Fontana 23 Risotti#02.6704710 #Fontana Roberto #$Ristorante#www.23risotti.it #
+Lombardia#Pioltello#Via S. Francesco, 33 #Dadaumpa#02.92590342 #Perego Carlo #$Ristorante$Pizzeria##
+Lombardia#Rho#Via Lura, 24 #Dal Fluminese#02.93504592 #Masala Daniela #$Ristorante#www.dalfluminese.com #
+Lombardia#Rho#Via Larga, 24 #Trattoria Dodici Volte#02.93900460/366.4328357 #Reculez Francine #$Ristorante##
+Lombardia#Rho#Via Achille Ratti, 54 #Trattoria La Barca#02.9303976 #Virgilio Domenico #$Ristorante##
+Lombardia#Rho#Vicolo Pomè, 20 #Villa Medici#02.93185328 #Atawnoski Michel #$Ristorante$Pizzeria#www.ristorantevillamedici.com #
+Lombardia#San Colombano al Lambro#Via Milano, 59 #Il Parco di Garby#0371.89286 #Lamby Dorian #$Ristorante$Pizzeria#www.parcodigarby.it #
+Lombardia#Senago#Via Piave, 3/b #Ozio e Vizio#02.99483326 #Crippa Alessandra #$Ristorante##
+Lombardia#Sulbiate Superiore#Via Manzoni, 15 #Agrit. Fondo Brugarolo#039.623735 #Colombi Barbara #$Agriturismo#www.fondobrugarolo.it #
+Lombardia#Vaprio D'Adda#Via Perego, 49 #Little Italy#02.49636130 #Russo Michele #$Pizzeria##
+Lombardia#Villa Cortese#Via M. D'Azeglio,5 #Le Coccinelle#0331.430043 #Mantovani Luca #$Pizzeria##45.56804$8.89422
+Lombardia#Villasanta#Via Tiziano Vecellio #A Modo Mio#039.2051369 #Sergi Natalina #$Ristorante#www.amodomio.it #
+Lombardia#Vimercate#Via Torri Bianche, 16 #A Modo Mio#039.6084662 #Eshak Alberto #$Ristorante##
+Lombardia#Bigarello#Via Galeotto, 4 #Corte Paiolo#335.5616342 #Ferraresi Mara #$Agriturismo##
+Lombardia#Castel Goffredo#Via Principe Amedeo, 2 #La Rotonda#0376.770738 #Favalli Stefano #$Pizzeria##45.29864$10.48288
+Lombardia#Curtatone#Via Gen. Lauger #A Modo Mio#0376.348065 #Olivetti Lucia #$Ristorante##
+Lombardia#Mantova#P.zza L.B. Alberti,19/20 #Alla Nuova Marasca#0376.322620 #Massimiliano Mari #$Trattoria##45.160601$10.794089
+Lombardia#Rodigo#Strada Francesca Est, 109/B 1 #Corte Catenaccio#0376.681003 #Tonato Graziano #$Ristorante$Pizzeria##
+Lombardia#Solferino#Via S. Martino, 6 #La Speranza#0376.854191 #Lana Mauro #$Trattoria#www.la-speranza.it #45.38131$10.56097
+Lombardia#Villa Poma#Via Roma Nord, 290 #Il Veliero#0386.565142 #Berardo Stefano #$Ristorante$Pizzeria#www.ristoranteveliero.net #
+Lombardia#Cassolnovo#Via Della Chiesa 1/a #L'Angolo Perduto#0381.910078 - 333.5946926 #Vanella Luca #$Ristorante$Pizzeria##
+Lombardia#Cava Manara#Via Garibaldi, 88 #Il Büus del Rat#0382.554997 #Salemme Giuseppe #$Pizzeria#www.ilbuusdelrat.it #45.14102$9.10609
+Lombardia#Palestro#Via Umberto I, 99 #Vecchio Mulino#0384.677105 #Valle Mario #$Ristorante##
+Lombardia#Pavia#Via Pusterla, 9/a #Creperia dei 4 Gatti#0382.32392 #Torti Loredana #$Ristorante##
+Lombardia#Pavia#P.zza del Carmine, 7/A #Locanda del Carmine#0382.29647 #Soldati Lorella e Raffaele(chef) #$Ristorante##45.18723$9.15208
+Lombardia#Pavia#Via Brambilla, 70/f #Pizza Leggera Pavia#0382.527429 #Scovenna Claudio #$Pizzeria#www.pavia.pizzaleggera.it #
+Lombardia#Pavia#Via Mantovani ,3 #Vecchia Pavia#0382.27178 #Taiani Giovanni/Arturo #$Trattoria$Pizzeria#www.vecchiapavia.it #
+Lombardia#Roncaro#Via Dell'Aia,11 #Il Sorriso#0382.94257 #Ciccanti Giusy #$Ristorante$Pizzeria#www.ristoranteilsorriso.it #45.22602$9.27461
+Lombardia#Torricella Verzate#Piazzale Oltrepo, 1 #Più e Più#0383.876327 #Belletti Giovanna #$Ristorante$Pizzeria##
+Lombardia#Tromello#S.S. per Mortara, 21 #Il Boss delle Balze#0382.86401 #De Antoni Pier Luigi #$Pizzeria##45.21390$8.86273
+Lombardia#Vigevano#Via Sacchetti, 1 #Agorà#0381.84384 #Ceriani Andrea #$Ristorante$Pizzeria##
+Lombardia#Vigevano#V.le Commercio, 318 #Fantasy#0381.346650 Persona/e di riferimento:  #PL DS PIZZA POINT Chiusura:mar, ago #$Ristorante$Pizzeria##
+Lombardia#Vigevano#C.so Torino,48 #Primavera#0381.326415 #Francese Raffaele #$Ristorante$Pizzeria##40.95459$14.363165
+Lombardia#Vigevano#Via Buozzi, 31 #Primavera Express#038.178464 #Francese Emilio #$Pizzeria#www.primaveraexpress.it #
+Lombardia#Zinasco Nuovo#Via Pollini, 135 #Da Tonino#038.2915110 #Salemme Antonio #$Pizzeria##
+Lombardia#Castione Andevenno#Via Margella, 41 #Sisti#0342.358310 #Bonfadini Silvios #$Ristorante$Pizzeria##
+Lombardia#Chiesa in Valmalenco#Via Bernina,4 #Tremoggia#0342.451106 #Frigerio Lenatti Alessandra #$Hotel##46.266143$9.850488
+Lombardia#Gerola Alta#Piana di Fenile, 5 #Albergo Pineta#0342.690180 #Bagattini Stefano #$Albergo$Ristorante##
+Lombardia#Poggi Ridenti#Via Panoramica, 4 #Il Poggio#0342.380800 #Gianola Gino #$Ristorante##
+Lombardia#Prata Camportaccio#Via Al Palazzo, 6 #Due Lune#0343.20633 #Sciuchetti Patrizia #$Ristorante$Pizzeria##
+Lombardia#Tirano#Via XX Settembre, 25 #Vineria#0342.702116 #Andreotta Francesco #$Ristorante#www.vineriatirano.com #
+Lombardia#Villa di Tirano#Via Nazionale, 63 #Al Ponte#0342.795703 #Garzetti Tullio #$Ristorante$Pizzeria##
+Lombardia#Cadrezzate#Via Mogno, 441 #Miralago#0331.953284 #Della Pace Raffaele #$Ristorante$Pizzeria$Bar#www.miralagoweb.com #45.80318$8.64976
+Lombardia#Cassano Magnago#Via Galvani,15 #da Grillo#0331.206830 #Marangoni Oriana #$Ristorante$Ristorante##
+Lombardia#Castiglione Olona#Via C. Battisti, 3 #Elisir#0331.824954 #Falzone Giuseppe #$Pizzeria##45.75309$8.87725
+Lombardia#Comerio#Via Garibaldi, 3 #Hostaria de la Movida#0332.743240 #Macchi Ottavio #$Ristorante#www.ristorantemovida.it #45.84156$8.74701
+Lombardia#Cuasso al Monte#Via Garibaldi, 8 #Al Vecchio Faggio#0332.938040 #Rano Stefano #$Trattoria##
+Lombardia#Daverio#Via Dell'Industria, 1 #A Modo Mio#0332.947159 #Saccoccia Andrea #$Ristorante#www.amodomio.it #
+Lombardia#Gallarate#Via Assisi, 103 #I Fontanili#0331.772516 #Muffato Paolo #$Pizzeria##
+Lombardia#Gallarate#Via Varese, 34 #La Locanda Nord Est#0331.248355 #Pastorello Alessandro #$Ristorante$Pizzeria##
+Lombardia#Gavirate#Viale Ticino, 33 #Vecchio Ottocento#0332.735693 #Coppola Leone #$Ristorante$Pizzeria##
+Lombardia#Malnate#Via Brusa, 5 #Osteria degli Angeli#0332.427614 #Resemini Johnny/Maiorano Anna #$Ristorante##45.80115$8.88493
+Lombardia#Olgiate Olona#Via Piave, 1 #Giuseppe Verdi#0331.642129 #Mazzone Giuseppe #$Ristorante$Pizzeria##
+Lombardia#Sumirago#Via San Pietro, 1 #Lo Zenzero#0331.906136 #Procopio Bartolomeo #$Ristorante$Pizzeria#www.lozenzero.com #45.72209$8.76925
+Lombardia#Varese#Via Vetera, 2 #La Tavernetta#0332.281076 #Rebellato Sergio #$Ristorante##
+Lombardia#Varese#Via Montello, 8 #Montello#0332.286181 #Bollini Pietro Note:  #$Ristorante##45.82875$18.82307
+Lombardia#Varese Loc. Bizozzero#V.le Luigi Borri,348 #Al Vecchio Convento#0332.261005 #Perin Luca #$Ristorante##

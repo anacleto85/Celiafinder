@@ -1,0 +1,301 @@
+Toscana#Arezzo#P.zza della Repubblica, 2/d #Gusto Bar & Restaurant#0575.040413-335.6409500 #Petrozzi Simona #$Ristorante$TavolaCalda#www.gustobarerestaurant.com #
+Toscana#Arezzo#Via Pietro Aretino, 11 #La Bottega di Nonna Tina#0575.27678 #Pancini S./Senesi F. #$Catering##
+Toscana#Arezzo#Via Fiorentina, 4 #Minerva#0575.370390 #Frosini Piero #$Hotel$Ristorante##
+Toscana#Arezzo#Via Garibaldi,36/38 #Mivà di più#0575.352182 #Caldiero Valentino #$Ristorante$Pizzeria#www.mivadipiu.com #43.46265$11.88133
+Toscana#Arezzo#Via Giotto, 27 #Non Solo Caffè#348.7956703 #Nibi Laura #$Bar$TavolaCalda##
+Toscana#Arezzo#P.zza S. Francesco, 16 #Pomodoro Pachino#0575.352038/338.4674132 #Trippi Marzia #$Pizzeria##
+Toscana#Bucine#Loc. Le Mura, 31 #Le Mura#055.992297/339.5921809 #Bianconi Sara #$Agriturismo#www.agrilemura.it #
+Toscana#Caprese#Lama di Caprese #Il Rifugio#0575.793968 #Cheli Mario #$Ristorante$Pizzeria##
+Toscana#Caprese Michelangelo#Loc. Alpe Faggeta, 373 #Fonte della Galletta#0575.793945 #Berlecchi Giacomo #$Ristorante##
+Toscana#Castelfranco di Sopra#P.zza V. Emanuele, 1-2 #Enjoy Toscano#055.9149763 #Bigazzi Ilaria #$Ristorante$Enoteca##
+Toscana#Castiglion Fibocchi#Piazza Italia, 4 #Il Lupacante#0575.430000 #Gennaioli Stefano #$Ristorante##
+Toscana#Cortona#Località Farneta, 3 #Hotel Farneta#0575.610241 #Bianchi Moreno Note:  #$Albergo$Ristorante##
+Toscana#Cortona#Loc. Ossaia 67/a #La Tufa#0575.677717 #Rachini Emanuela #$Ristorante$Pizzeria#www.hostarialatufa.it #
+Toscana#Laterina#Via Pian di Chena, 7 #Lo Strettoio#0575.89161 #Parolai Michela #$Ristorante$Pizzeria#www.ristorantelostrettoio.com #
+Toscana#Loc. Fratta di Cortona#P.zza S. Margherita #Gina#366.2747657 #Caretti Gina #$Pizzeria$TavolaCalda##
+Toscana#Lucignano#Via G. Matteotti, 60 #La Maggiolata#0575.819008 #Cavigli Francesca #$Ristorante#www.ristorantelamaggiolata.it #
+Toscana#Marciano della Chiana#Via Culle, 37 #Albatros#0575.845464 #Cartocci Patrizio #$Ristorante$Pizzeria$Catering#www.albatrosristorante.it #
+Toscana#Meleto V.no#V.le Barberino, 19 #Villa Barberino#055.961813 #Pinciaroli Enrico #$Albergo$Ristorante$SalaRicevimento#www.villabarberino.it #
+Toscana#Monte S. Savino#Loc. Gargonza #La Torre di Gargonza#0575.847065 #Guicciardini N./Russo A. #$Albergo$Ristorante#www.gargonza.it #
+Toscana#Monte S. Savino#Loc. Castellare, 44 #Podere Pendolino by Albatros#0575.849697 #Bracciali Claudio #$Ristorante$Pizzeria$Catering##
+Toscana#Montevarchi#Via Leopardi, 27 #Coffee Gallo#055.9850530 #Galletti Emiliano #$Ristorante$Pizzeria$TavolaCalda##
+Toscana#Montevarchi#Via delle Cantine, 50 #Franca#338.4824179 #Cilibrizzi Franca #$Catering##
+Toscana#Montevarchi#Loc. Rendola, 39 #Osteria di Rendola/H. La Ramugina#055.9707491 #Cilibrizzi Franca #$Hotel$Trattoria##
+Toscana#Ponte a Poppi#Loc. Torricella, 14/16 #La Torricella#0575.527045 #Cipriani Carolina #$Albergo$Ristorante$Pizzeria#www.latorricella.com #43.73140$11.76986
+Toscana#Sansepolcro#Via N. Aggiunti,83 #Al Coccio#0575.741468 #Battistelli Sara Emanuela #$Ristorante#www.alcoccio.com #43.57140$12.14196
+Toscana#Sansepolcro#Via dei Montefeltro,1 #Hotel La Balestra#0575.735151 #Religioso Rosario #$Hotel$Ristorante#www.labalestra.it #43.56848$12.14960
+Toscana#Sansepolcro#P.zza Dotti, 2 #Ostello Foresteria S. Maria dei Servi#0575.742347 #Tirabosco Margherita Note:  #$Ristorante##
+Toscana#Terranuova Bracciolini#Via Poggi Lupi, 580 #Piansa#055.9737166 #Tellini Andrea #$TavolaCalda$Ristorante##
+Toscana#Terranuova Bracciolini#IV Str. Lungarno #Podere San Lorenzo#055.9199176 #Santamaria Salvatore #$Agriturismo$Ristorante$Ristorante##
+Toscana#Terranuova Bracciolini#Via dell'Olmo, 71/a #Sinatra#055.9199314 #Gaetani Lapo/Teci Gianni #$Ristorante$Pizzeria##
+Toscana#Barberino di Mugello#Via Rocca Cerbaia, 3 #C.lo M.C.L. S. M.le Montecuccoli#055.841035 #Stefani Stafano #$Ristorante##
+Toscana#Barberino Val d'Elsa#Loc. Petrognano #Il Paese dei Campanelli#055.8075318 #Frosali Gianluca #$Ristorante#www.ilpaesedeicampanelli.it #
+Toscana#Borgo S. Lorenzo#Via P. Caiani #I' Corbezzolo#055.8402197 #Vettori Laura #$Ristorante$Pizzeria##
+Toscana#Borgo S. Lorenzo#Via Faentina, 32 #Il Feriolo#055.8409928 #Agus Pierpaolo #$Ristorante#www.ristoranteilferiolo.it #
+Toscana#Calenzano#Via del Molino, 87 #Il Borgo#055.8811377 #Dicci David #$Ristorante$Pizzeria##
+Toscana#Campi Bisenzio#Via Confini, 162 #Da Que' Grulli#393.7461913 #Lamay Manuela #$Ristorante##
+Toscana#Castelfiorentino#Via O. Di Paolo, 24/e loc. Bellosguardo #Il Cigliere del Rustico#0571.582154 #Terreni Sabrina #$Ristorante##43.658435$10.96089
+Toscana#Cerreto Guidi#Pianello Val Tidone, 41 #PS#0571.559242 #Pinciarol Stefano #$Ristorante$Catering##
+Toscana#Corniola Empoli#Via di Corniola, 34/36 #C.lo Arci Corniola#0571.922202 #Barnini Alessandra #$Pizzeria##
+Toscana#Dicomano#V.le Vittorio Veneto, 10/12 #Il Geko#055.8387672 #Torniai Francesca #$Ristorante$Pizzeria##
+Toscana#Empoli#Via Salvagnoli,43/47 #Cucina S. Andrea#0571.73657 #Stefania Bandini #$Ristorante##
+Toscana#Empoli#P.zza G. Guerra, 40 #La Fortuna#0571.700377 #Wu Xihua #$Ristorante##
+Toscana#Empoli#Via Salvagnoli, 81 #Sapori Senza Glutine#340.1346900 #Bove Rossana #$Catering##
+Toscana#Empoli#P.zza Guido Guerra, 29 #Star Bene Senza Glutine#0571.527259 #Nucci Sara #$Bar$Catering##
+Toscana#Fiesole#Via Mantellini, 2/b #Le Lance#055.599595 #Ercoli Alfredo #$Ristorante$Pizzeria##
+Toscana#Firenze#Via Ghibellina, 46/r #Bacca Rossa#055.240620 #Caprai Amerigo #$Ristorante##
+Toscana#Firenze#Via C. Maccari, 133/135 #Bar Zigo Zago#055.9060933 #Braccini Caterina #$Bar$TavolaCalda##
+Toscana#Firenze#Via Mossotti, 1/8 #Caffè Sospeso#055.5520922 #Miraglia Sara #$Bar$TavolaCalda##
+Toscana#Firenze#B.go S. Jacopo,57 #Cammillo#055.212427 #Masiero Chiara #$Trattoria##43.76808$11.25023
+Toscana#Firenze#Via del Giglio,26/28 R #Ciro & Son's#055.289694 #Urbano Salvatore #$Ristorante$Pizzeria#www.ciroandsons.com #43.77454$11.25212
+Toscana#Firenze#Via B. da Montelupo, 180 #Coop. Agric. Legnaia#055.7358277 #Bocciolini Daniele Note:  Prezzo min/max:  #$Bar$TavolaCalda##
+Toscana#Firenze#Via Baracca, 149 rosso #Da Tito i Peccati di Gola#055.416726 #Sayed Hassan Abdalla Note:  #$Ristorante$Pizzeria##
+Toscana#Firenze#Via Alderotti, 87/a #Da Tito i Sette Peccati#055.4360470 #El Hawi Mohamed Note:  #$Ristorante$Pizzeria##
+Toscana#Firenze#Via Villamagna, 77/a #Da Tito il Sesto Girone#055.6530695/339.5969998 #Vilardo Gaetano #$Ristorante$Pizzeria##
+Toscana#Firenze#Via delle Panche, 236 #Delizia Ricevimenti#055.452811 #Panzariello Mario Note:  Prezzo min/max:  #$Catering##
+Toscana#Firenze#Via Ghibellina, 134 r #Fellini#055.2478898/366.2665005 #Nardello Claudio #$Ristorante##
+Toscana#Firenze#Borgo S. Lorenzo, 35/37 R #Giannino in S. Lorenzo#055.2399799 #Bartoloni Riccardo #$Ristorante##
+Toscana#Firenze#Lungarno del Tempio, 44 #Grand H. Mediterraneo#055.660241 #Leonardi Luca Note:  Prezzo min/max:  #$Hotel$Ristorante$SalaRicevimento##
+Toscana#Firenze#Via Marconi, 68/r #Guidi Lenci#055.578077 #Lenci Andrea #$Catering##
+Toscana#Firenze#Via delle Terme, 23/R #Hostaria Il Desco#055.294882 #Dicoste F.sca #$Ristorante#www.hostariaildesco.com #
+Toscana#Firenze#Via Osteria del Guanto, 6 #Hotel Fiorino#055.210579 #Davitti Sonia e Laura #$Albergo##
+Toscana#Firenze#Via degli Orti Oricellari, 29 #I Quattro Amici#055.215413 #Belperio Antonio #$Ristorante##
+Toscana#Firenze#Via Guelfa, 70/r #I' Toscano#055.215475 #Valentini Camilla #$Ristorante#www.itoscano.it #
+Toscana#Firenze#Via Cavour, 55/r #Il Desco Bistrot#055.288330 #Shahidi Shams #$Ristorante$Ristorante##
+Toscana#Firenze#Via Cavour, 29 #Il Guelfo Bianco#055.288330 #Bargiacchi Alessandro Note:  #$Hotel##
+Toscana#Firenze#Via Damiano Chiesa, 3 #Il Pallaio#055.679304 #Mugnaini Simone #$Ristorante$Pizzeria#www.ilpallaio.eu #
+Toscana#Firenze#Via C. Alamanni, 29/r #Il Portale#055.212992 #Belperio Antonio #$Ristorante##
+Toscana#Firenze#Via P.F. Calvi, 8 #Il Povero Pesce#055.671218 #Bertini P. Note:  #$Ristorante##
+Toscana#Firenze#Via S. Zanobi, 33 a/r #La Cucina del Garga#055.475286 #Gargani Alessandro #$Ristorante#www.garga.it #
+Toscana#Firenze#Via Guelfa,81 R #La Gratella#055.211292 #Ferrara Daniela #$Trattoria##43.77693$11.25672
+Toscana#Firenze#Via di Serpiolle, 7 #Lo Strettoio#055.4250044 #Piazzesi Elisabetta #$Ristorante#www.lostrettoio.com #
+Toscana#Firenze#Via della Torretta, 18/r #Piazza del Vino#055.671404 #Modica Emanuele Note:  #$Ristorante$Enoteca##
+Toscana#Firenze#Via Baracca, 148 A/B #Pizza Man#055.4379931 #Madeo Maurizio #$Ristorante$Pizzeria#www.pizzaman.it #
+Toscana#Firenze#Via Sansovino, 191 #Pizza Man-Doctor Pizza#055.712738 #Sorrentino Raffaele #$Ristorante$Pizzeria#www.pizzaman.it #
+Toscana#Firenze#Via de' Ginori, 6/r #The Club House#055.211427 #Giani Luca Note:  #$Ristorante$Pizzeria##
+Toscana#Impruneta#Via Achille Grandi, 2 loc. Tavarnuzze #Terzotempo#055.2373364 #D'Andria Mirella #$Ristorante$Pizzeria#www.ristoranteterzotempo.it #
+Toscana#Lastra a Signa#Via Diaz, 132 #La…Strapizza#0558723138 #Nicastro Fausto #$Pizzeria##
+Toscana#Loc. Olmo Fiesole#Via del Trebbiolo, 8 #Il Trebbiolo Relais#055.8300583 #Villani Sabrina Note:  #$Hotel$Ristorante##
+Toscana#Londa#Loc. Il Lago #Da Fischio#055.8351608 #Nardoni Rosalba #$Ristorante$Pizzeria##
+Toscana#Montelupo#Via di Pulica, 139 #Lo Spigo#0571.929111/929134 #Nardini Adelindo #$Ristorante##43.70297$11.05004
+Toscana#Montelupo Fiorentino#Via Turbone, 35-37-39 #Antica Trattoria del Turbone#0571.542035 #Guiducci Giuseppe #$Trattoria$Pizzeria#www.anticatrattoriadelturbone.it #
+Toscana#Montelupo Fiorentino#Piazza S. Rocco, 1 #Il Coriandolo#366.9937319 #Becheri Sergio #$Ristorante$Pizzeria##
+Toscana#Montelupo Fiorentino#Via Tosco Romagnola Nord, 6 #Le Scuderie dell'Antinoro#0571.913079 #Maestrelli Giulia #$Ristorante$Pizzeria#www.scuderieantinoro.it #
+Toscana#Montespertoli#Via di Lucignano, 15 #La Fonte#0571.609514 #Tonelli Silvia #$Ristorante#www.ristorantelafonte.it #43.63278$11.1177
+Toscana#Montespertoli#Via Taddeini, 70 #Osteria Nero di Seppia#0571.606007 #Sabatini Silvana #$Trattoria##
+Toscana#Pelago#Via Cafaggiolo, 10 Loc. Palaie #Boccon Divino#055.8311279 #Contri Daniela #$Ristorante#www.boccondivinofirenze.it #
+Toscana#Pontassieve#Via Montetrini, 10 Molino del Piano #Al Trebbio#055.8317292 #Pieri Edoardo #$Ristorante$Pizzeria#www.castellodeltrebbio.com #
+Toscana#Pontassieve#Via F.lli Monzecchi, 13 #Locanda Toscani da Sempre#055.8392952 #Frassineti Stefano #$Ristorante#www.toscanidasempre.it #
+Toscana#Pontassieve#Via Santa Brigida, 3 #Tenuta dei Cavalieri#055.8364332 #Bay Macario M. Christina #$Agriturismo$Ristorante#www.tenutadeicavalieri.com #
+Toscana#Reggello#Via Dante Alighieri, 106 #Enoteca dell'Acqua#055.8667082 #Dell'Acqua Alessandro #$Ristorante$Pizzeria$Enoteca##
+Toscana#Reggello#Via S. Donato in Fronzano #Fattoria degli Usignoli#055.8652018 #D'Angelo Nicolò #$Albergo$Ristorante$SalaRicevimento#www.usignoli.it #
+Toscana#Reggello#Via Pr.le per Tosi #Villa Pitiana#055.860012 #Perone Mario #$Hotel$Ristorante$SalaRicevimento##
+Toscana#Rignano sull'Arno#Via Il Palagio, 59 #Villa Il Palagio#055.8348865 #Perone Mario Note:  #$Hotel$Ristorante##
+Toscana#Rufina#P.zza Umberto I,32 #Il Ritrovo#055.8396219 #Falugiani Floriano #$Ristorante$Pizzeria##43.82690$11.49004
+Toscana#S. Brigida-Pontassieve#Via S. Chiari, 1 #Nappino#055.8300439 #Da Silva de Paula Andreia #$Ristorante$Pizzeria#www.nappino.it #
+Toscana#S. Casciano Val di Pesa#Via Cassia per Siena #Mamma Rosa#055.8249454 #Petruzzi Daniele #$Ristorante$Trattoria#www.trattoriamammarosa.it #
+Toscana#San Casciano#V.le S. Francesco #Osteria Cinque Divino#055.8228116 #Papi Silvia #$Trattoria#www.cinquedivino.it #
+Toscana#San Piero a Sieve#Via Provinciale, 38 #La Bisboccina#055.8486950 #Murgida A./Tagliaferri S. #$Ristorante$Pizzeria##
+Toscana#Scandicci#P.zzale della Resistenza, 7 #Bar Il Sole#055.755298 #Tucci Lorenza #$TavolaCalda##
+Toscana#Sesto Fiorentino#Via Tevere, 23 #Novotel Firenze/Novotelcafé#055.53821 #Tognozzi Matteo Note:  Prezzo min/max:  #$Hotel$Ristorante##43.80976$11.177905
+Toscana#Spicchio-Vinci#Via Limitese, 109 #Osteria de'Nichi#366.8093274 #Sgroi Elisabetta #$Trattoria##
+Toscana#Tavarnelle Val di Pesa#Via delle Fonti, 1 #Osteria La Gramola#055.8050321 #Cecilia Dei #$Ristorante$Catering##
+Toscana#Terrafino-Empoli#Via Volontari della Libertà, 21/23 #Zero#0571.930099 #Maestrelli Simone #$Ristorante##
+Toscana#Vicchio#Via Rostolena, 14 #Agrit. Fattoria I Ricci#055.844784 #Cecchini Caterina Note:  #$Agriturismo##
+Toscana#Vicchio#Via Paterno, 18 #Leonardo Catering#055.8493115 #Cirri Donatella Note:  Prezzo min/max:  #$Catering##
+Toscana#Vicchio#P.zza Vitt. Veneto, 5 #Locanda Antica Porta di Levante#055.844050 #Draisci Simone #$Albergo$Ristorante##
+Toscana#Campagnatico#Via Piave #La Vecchia Oliviera#0564.996462 #Subissati Fabiola #$Ristorante$Pizzeria##42.88323$11.27433
+Toscana#Capalbio#Pescia Fiorentina loc. Garavicchio #Il Chiosco dei Tarocchi#333.6166388 #Besosso Natalina #$Bar$TavolaCalda##
+Toscana#Capalbio#Loc. Chiarone Scalo #Il Koc#0564.890664 #Cima Emanuela #$Ristorante##
+Toscana#Capalbio#Str. Pedemontana, 58 #Villaggio Capalbio#0564.899017 #Ceravolo Amedeo #$Ristorante##
+Toscana#Castiglione della Pescaia#Via Isola Clodia #Bagno Bruna#0564.933613 #Rumeni Gloria #$Bar$TavolaCalda##
+Toscana#Castiglione della Pescaia#Via Ponte Giorgini, 29 #L'Approdo#0564.933466 #Macchione Gennarino Note:  #$Hotel$Ristorante##
+Toscana#Castiglione della Pescaia#Via C. Colombo, 14 #Roma Hotel#0564.933542 #Monaci Simonetta #$Hotel##
+Toscana#Follonica#V.le Italia, 160 #Lanternina Due#0566.42679 #Palmieri Mauro #$Ristorante$Pizzeria#www.ristorantepalmieri.com #
+Toscana#Grosseto#P.zza Gioberti, 4 #Caffè Nazionale#0564.450601 #Brogelli Paola #$Bar$TavolaCalda##
+Toscana#Grosseto#Via Bengasi, 7 #Il Carrettino#0564.28421 - 392.0544120 #Greco Andrea #$Ristorante$Pizzeria$Bar##
+Toscana#Grosseto#Via Mazzini, 165 #L'Uva e il Malto#0564.411211 #Cardone Moreno #$Ristorante#www.luvaeilmalto.it #
+Toscana#Grosseto#Via Tazzoli, 5 #Mangiar Bene#328.2913764 #Bomba Stefania e Valentina #$TavolaCalda$Catering##
+Toscana#Manciano#Str. M. Pantani fraz. Poggio Murella #H.Saturnia Tuscany/R.La Chianina Pescatrice#0564.607611/348.9849841 #Bergonzini Iunio Note:  #$Hotel$Ristorante##
+Toscana#Marina di Alberese#c/o Parco della Maremma #La Viola Ristoro#335.7066047 #Lo Martire Antonio #$Ristorante##
+Toscana#Marina di Grosseto#Via Leopoldo di Lorena #Bagno Le Poste Marina#0564.337811 #Butteroni Diva #$Bar$TavolaCalda##
+Toscana#Marina di Grosseto#L.re Leopoldo II di Lorena, 47 #Bagno Moderno#0564.34255 #Angelici Averina #$Ristorante#www.bagnomoderno.it #
+Toscana#Montiano#P.zza Cappellini,4 #da Ghigo#0564.589643 #Loredana e Genny #$Ristorante##42.64555$11.22394
+Toscana#Orbetello#Via Donatori del Sangue, 53 #El Fiammingo#393.4151703 #Carotti Alessandro Note:  #$Pub##
+Toscana#Orbetello#Via Gioberti, 91 #Gallery#0564.860474 #Manzi Luisa #$Ristorante##42.43764$11.21187
+Toscana#Porto S. Stefano#Via del Campone, 68 #Franci Luca#329.2315646 #Franci Luca #$Bar$TavolaCalda##
+Toscana#Roccatederighi#Via Roma, 24/c #La Conchiglia#0564.567430 #Stacchini Daniele #$Ristorante$Pizzeria$Bar##
+Toscana#Tirli-Castiglione della Pescaia#Loc. Fonte Poderana #Il Poggetto#347.6761061 #Cimi Alessandro #$Ristorante##
+Toscana#Antignano#Via Dei Bagni,38 #In Caciaia#0586.580403 #Del Torto Federico #$Ristorante##43.49746$10.32384
+Toscana#Campo nell'Elba#Via per Portoferraio, 30 #Select#0565.976734 #Prianti Marco #$Albergo$Ristorante##
+Toscana#Campo nell'Elba-Is. D'Elba#Loc. La Foce,1 #Piccolo Hotel Versilia#0565.976123 #Cervini Donatella #$Albergo$Ristorante##42.75070$10.24525
+Toscana#Capoliveri-Isola d'Elba#Via del Pinone,144 loc. Lacona #Angiò#0565.964412 #Autorino Vittorio #$Bar$Ristorante$Pizzeria##
+Toscana#Capoliveri-Isola d'Elba#Loc. Capo di Stella-Lacona #Capo di Stella#0565.964052 #Sgherri Carlo #$Albergo##
+Toscana#Castagneto-Carducci#Via Gramsci, 8 /A #Il Vecchio Frantoio#0565.763731 #Bertini Patrizia #$Ristorante##
+Toscana#Castiglioncello#L.re Colombo, 16 #Bagno Bar Salvadori#0586.754194 #Salvadori Andrea #$Ristorante$Pizzeria#www.bagnisalvadori.it #
+Toscana#Castiglioncello#Lungomare Colombo, 18 #Il Coccodrillo#0586.752627 #Bartolozzi Danilo #$Ristorante##
+Toscana#Cecina#Via Ginori, 89 #L'Acquapazza#0586.621219 #Buonocore Luigi #$Ristorante#www.ristorantelacquapazza.com #
+Toscana#Cecina mare#V.le della Vittoria, 11 #Mangia e Bevi#0586.622850 #Nocentini Silvia #$Pizzeria##
+Toscana#Gabbro Rosignano M.mo#Via Ornellini,90 #Villa Edera#0586.742535 #Bonciani Fiorella Rosa #$Ristorante##43.48194$10.44083
+Toscana#Limite sull'Arno#Via pr.le Limitese #Lowengrube#0571.979253 #Nicastro Toni #$Pub##
+Toscana#Livorno#Via Toscana, 69/69a #All'Improvviso Pizzeria#0586.903023 #Pagni Debora #$Pizzeria##
+Toscana#Livorno#Via Sardi,41 #Bella Napoli#0586.898731 #Dilieto Giuseppe #$Ristorante$Pizzeria##43.54641$10.31143
+Toscana#Livorno#Scali del Monte Pio, 35 #Chez Ugo#0586.219230 #Cecere Crescenzo #$Pizzeria##
+Toscana#Livorno#Via Sproni, 32/34 #In Vernice#0586.219546 #Marcolla Manuela #$Ristorante##
+Toscana#Livorno#Via Grotta delle Fate, 157 #La Grotta delle Fate#0586.503162 #Crocchi Alessandro/Conforti G. #$Ristorante##
+Toscana#Livorno#Via dell'Origine,14 #L'Origine#0586.210157 #Minichiello Iolanda #$Pizzeria##43.54826$10.317465
+Toscana#Livorno#P.zza di Montenero, 3 #Orlandi Montallegro#0586.579030 #Orlandi Arianna #$Ristorante$Albergo##
+Toscana#Livorno#Via Puini, 97 #Passepartout Il Ristorante#0586.500373 #Bartolozzi Gabriella #$Ristorante##
+Toscana#Marciana M.na-Is. D'Elba#Via del Sette,10 #Il Gastronomo#0565.997021 #Caldarera Maria Grazia e Anna #$Ristorante$TavolaCalda##42.80608$10.19755
+Toscana#Marciana M.na-Is. D'Elba#Via San Giovanni #Isola Verde#0565.904291 #Paolini Giuliano #$Hotel$Ristorante#www.hotelisolaverde.it #
+Toscana#Marciana M.na-Is. D'Elba#Via Aldo Moro, 46 #Yacht Club#0565.904422 #Scacciati Barbara #$Hotel##42.80483$10.19224
+Toscana#Marciana Marina#Via XX Settembre, 29 #Scaraboci#0565.996868 #Morsiani Valeria #$Ristorante##
+Toscana#Marciana-Isola d'Elba#P.za del Castagneto-Loc. Poggio #Publius#0565.99208 #Fontana Simonetta Cinzia #$Ristorante##42.78694$10.18382
+Toscana#Marina di Bibbona#P.zza del Forte, 1 #Paradiso Verde#0586.600022 #Picone Mariantonia #$Albergo$Ristorante##
+Toscana#Marina di Campo-Is. D'Elba#Via delle Case Nuove, 71 #Bologna#0565.976105 #Galletti Adriano #$Ristorante$Pizzeria#www.ristorantebologna.it #42.742009$10.236222
+Toscana#Piombino#Via G.Garibaldi,5 #Il Garibaldi Innamorato#0565.49410 #Matacera Monica Note:  #$Ristorante##42.92307$10.52663
+Toscana#Portoferraio#Loc. Biodola, 1 #Hermitage#0565.9740 #Prianti Gian Luca #$Hotel$Ristorante##42.80239$10.27064
+Toscana#Portoferraio#Località Biodola #Hotel Biodola#0565.974812 #Prianti Gianluca #$Albergo##
+Toscana#Portoferraio - Isola D'Elba#Loc. Viticcio #Viticcio#0565.939058 #Prianti Marco/Di Figlia Carmelo #$Hotel$Ristorante##
+Toscana#Procchio-Marciana#Via Fonte Leccio, 10 #Monna Lisa#0565.907904 #Prianti M./La Pietra A. #$Hotel$Ristorante##
+Toscana#Rosignano Solvay#L.re Monte alla Rena,13 #Lo Scoglietto#0586.767962 #Lazzerini Denchi Isabella #$Ristorante##43.39000$10.42944
+Toscana#Vada#Via Dei Cavalleggeri 171/b #La Ventola#0586.770170 #Polzella Antonio #$Albergo$Ristorante$Pizzeria#www.laventola.it #
+Toscana#Bagni di Lucca#Via Paretaio, 1 #Antico Albergo Terme#0583.86034 #Tuccori Fulvio #$Hotel##
+Toscana#Bagni di Lucca#P.zza Vitt. Veneto #La Lira#0583.867708 #Barsellotti Milena #$Ristorante$Pizzeria$Pub#www.lalirapub.it #
+Toscana#Barga#loc. Castelvecchio Pascoli #Il Ciocco Hotels & Resort#0583.719478 #Celestini Carlo Note:  #$Hotel$Ristorante$SalaRicevimento##
+Toscana#Castelnuovo di Garfagnana#Via Farini, 5 #Il Baretto#0583.639136 #Dini Gianni #$Ristorante$Pizzeria##
+Toscana#Castelnuovo di Garfagnana#Via Giovanni Pascoli, 1 #Il Ciulè#0583.62643 #Ginestri Deanna #$Ristorante$Pizzeria##
+Toscana#Castelnuovo di Garfagnana#Via Vittorio Emanuele, 12 #Osteria Vecchio Mulino#0583.62192 #Bertucci Andrea #$Trattoria#www.ilvecchiomulino.com #
+Toscana#Farneta#Via per Chiatri, 820/B #Osteria da Mangiafoco#0583.327288 #Gigli Samuele #$Ristorante$Pizzeria##43.862814$10.390234
+Toscana#Fornaci di Barga#Via della Repubblica, 254 #La Bionda di Nonna Mary#0583.75624 #Da Costa M. Chiara #$Ristorante$Pizzeria##
+Toscana#Fornaci di Barga#Via della Repubblica, 271 #Le Piramidi#0583.75151 #Del Pino Federica #$Pizzeria##
+Toscana#Fornaci di Barga#Via Provinciale, 18 #Mara Meo#0583.758982 #Patassini Samuele #$Pizzeria##
+Toscana#Forte dei Marmi#Via Mazzini, 204 #Al Bacio 2#0584.881227 #Cenderelli Alessandra #$Pizzeria##
+Toscana#Gallicano#Via Serchio, 17 #Il Baretto#0583.74066 #Salotti Nadia #$Ristorante$Pizzeria##
+Toscana#Lammari Capannori#V.le Europa, 46 #Mara Meo#0583.436400 #Patassini Samuele #$Pizzeria##43.86375$10.580585
+Toscana#Lido di Camaiore#Via del Secco, 81 #Gianbarò#0584.610218 #Gutina Barbara #$Bar$TavolaCalda##
+Toscana#Lucca#Via della Fratta, 22 #Ammodonostro#0583.953828 #Martinelli Francesco #$Ristorante#www.ristoranteammodonostro.com #
+Toscana#Lucca#Via Borgo, 55- S.Lorenzo a Vaccoli #Antica Tratt. Stefani da Benedetto#0583.379031 #Picchi Caterina #$Ristorante##
+Toscana#Lucca#Via della Cervia, 3 #Buca di S. Antonio#0583.55881 #Pacini Giuliano #$Ristorante#www.bucadisantantonio.com #
+Toscana#Lucca#Via per Camaiore,679 #El Paso#0583.341273 #Divecchio Francesca #$Ristorante$Pizzeria##43.860672$10.507758
+Toscana#Lucca#P.zza S. Francesco, 17 #Mara Meo#0583.467084 #Patassini Mauro #$Pizzeria##
+Toscana#Lucca#Via Buonamici, 352 #Pizzeria Felice#0583.587412 #Grazzini Anna #$Ristorante$Pizzeria##
+Toscana#Lucca-S. Lorenzo a Vaccoli#Via del Ponte Guasperini, 873 #Botton d'Oro#0583.370101 #Dal Porto Chiara #$Ristorante#www.albergovillamarta.it #
+Toscana#Marina di Pietrasanta#Via L. da Vinci, 65 #Da Totò e un Po’ di Napoli#0584.23947 #Pappalardo Rita #$Pizzeria##
+Toscana#Marina di Pietrasanta#Via Ugo Foscolo, 11 #Nuova Sabrina#0584.20253 #Gatti Marco #$Hotel##
+Toscana#Massa Macinaia Capannori#Via della Chiesa, 26 #La Conca#0583.90179 #Guidotti Gemma e Mariani #$Ristorante$Pizzeria##
+Toscana#Montecarlo#Via Provinciale, 7 #Circolo Acsi-La Torre#0583.2298298 - 229495 #Gambacorti Chiara #$Ristorante$Enoteca##
+Toscana#Pescaglia#Loc. Trebbio,34 #La Fonte#0583.359815 #Cecchetti Daniela #$Ristorante$Pizzeria##
+Toscana#Piazza al Serchio#Via Comunale del Colli, 9 #Il Tavolello#0583.60477 #Giannasi Riccardo #$Pizzeria##
+Toscana#Pietrasanta#P.zza Matteotti, 42 #La Volpe e l'Uva#0584.72570 #Poli Simona #$Trattoria##
+Toscana#Pietrasanta#Via Marzocca, 82 #Locanda del Gusto#0584.283091 #Gatti Andrea #$Ristorante##
+Toscana#Pietrasanta#Via N. Sauro, 86 #Terapizza#0584.70275 #Bertolozzi Adriano #$Pizzeria##
+Toscana#Pieve S. Paolo-Capannori#Via di Tiglio, 88 #Paso#0583.981750 #Belluomini Paolo #$Pizzeria##
+Toscana#Porcari#Via Roma, 120 #Mara Meo#0583.29113 #Hoxha Majlinda #$Pizzeria##
+Toscana#Porcari#Via Capannori,59 #Stefy 3#0583.210662 #Gasparini Alessandro #$Pizzeria##43.841786$10.611999
+Toscana#Sesto di Moriano#Via Lodovica,1660 #Antica Locanda di Sesto#0583.578181 #Barattini Aurelio #$Ristorante##43.9215$10.5273
+Toscana#Viareggio#Via U. Foscolo, 3 #Chicco Scuro#0584.45085 #Di Sauro Francesco #$Ristorante##
+Toscana#Viareggio#Via Paladini, 27 #Gran Varignano#0584.395734 #Palmierini Davide #$Pizzeria##
+Toscana#Viareggio#Via Fratti, 386 #La Posteria#347.7351890 #Santini Federica #$Ristorante$Pizzeria##
+Toscana#Viareggio#Via Regia, 10 #L'Ocanda Milu#0584.47446 #Marsili Renata #$Ristorante#www.locandamilu.it #
+Toscana#Viareggio#V.le Europa, 14 #Marechiaro#0584.391244 #Bertolini Donatella #$Ristorante$Pizzeria##
+Toscana#Aulla#Località Bettola-Aulla #da Giovanna#0187.414117/320.1155243 #Zeloni Fabiana Note:  Prezzo min/max:  #$Ristorante##
+Toscana#Avenza Carrara#Via Gino Menconi, 53 #Lavenza#0585.52451 #Botti Pietro Note:  #$Pizzeria##
+Toscana#Cinquale di Montignoso#Via Gramsci, 2 #Terme della Versilia#0585.807792 #Fulco Giuseppe #$Ristorante$SalaRicevimento$Albergo##
+Toscana#Marina di Carrara#V.le XX Settembre, 369 #Les Crepes#0585.631586 #Mantelli Luigi #$Ristorante##
+Toscana#Marina di Massa#Via Ernesto Lombardo, 16 #Casa Faci#0585.869556 #Rossini Antonella Note:  Prezzo min/max:  #$Albergo##
+Toscana#Marina di Massa#V. Cesari Battisti, 1 #Excelsior/Rist. Il Sestante#0585.8601 #Ortori Massimo #$Hotel$Ristorante##
+Toscana#Marina di Massa#L.re di Levante, 128 #Hermitage#0585.245341 #Perfetti Sabina #$Bar$TavolaCalda##
+Toscana#Marina di Massa#V.le Amerigo Vespucci, 3 #Italia#0585.240606 #Galeotti Renzo #$Hotel##
+Toscana#Marina di Massa#Via Casamicciola, 3 #Roby#0585.240686 #Tamarri Franca Note:  Prezzo min/max:  #$Hotel##
+Toscana#Marina di Massa#Via Fosdinovo,14 #Tiffany#0585.241196 #Bianchi Stefania #$Hotel$Ristorante##
+Toscana#Marina di Massa#Via delle Pinete,266 #Villa Tiziana#0585.869724 #Bizzarri Tiziana Note:  Prezzo min/max:  #$Hotel##
+Toscana#Massa#Via Belvedere, 14 #Bellavista#058.5489519 #Galeotti Luciana #$Ristorante$Pizzeria##
+Toscana#Massa#Via Castagnara, 201 #Circolo dal Biondo#0585.831221 #Battistini Dino #$Ristorante#www.circolodalbiondo.com #
+Toscana#Montignoso#Via Romana Ovest, 19 #Bar del Re#393.9210009 #Manera Arianna #$Ristorante$Ristorante##
+Toscana#Mulazzo#Via Provinciale, 23 #Abramo#0187.439388 #Pedinotti Paola #$Ristorante##
+Toscana#Podenzana#Via del Gaggio, 24 #La Gavarina d'Oro#0187.410021 #Bonfigli Edgardo #$Ristorante#www.lagavarinadoro.com #
+Toscana#Podenzana#Via del Gaggio, 22 #Mirador#0187.410064 #Spinatelli Elga #$Albergo$Ristorante##
+Toscana#Pontremoli#Loc. Casa Corvi, 9 #Ca' del Moro#0187.830588 #Bardini Stefano #$Ristorante##
+Toscana#Pontremoli#Via Veterani dello Sport #Kinemove Center#0187.832581 #Amadei Antonella Note:  #$Ristorante$Pizzeria##
+Toscana#Ronchi#Via Verdi, 23 #Cavalieri del Mare#0585.868010 #Baldassini Sandra #$Hotel#www.cavalieridelmare.net #
+Toscana#Ronchi#Via Pistoia, 2 #Villa Elsa#0585.241097-335.260498 #Gatti Roberto #$Hotel##
+Toscana#S. Carlo Terme-Massa#Via Nicola Zonder, 3 #Alb. S. Carlo/Rist. Panoramique#0585.43193 #Banica Graziella #$Albergo$Ristorante##
+Toscana#S. Carlo Terme-Massa#Via Belvedere, 90 #Buongustaio#0585.45741 #Lazzoni Marina #$Hotel$Ristorante##
+Toscana#Bientina#Via Corte Betti, 26/a #Villa delle Mimose#0587.714038 #Vecchi Massimo #$Ristorante$Pizzeria#www.villadellemimose.it #43.70916$10.659056
+Toscana#Casciana Terme#P.zza C. Minati, 5 #Il Merlo#0587.644040 #Ammannati Stefania #$Ristorante$Pizzeria#www.ristoranteilmerlo.it #
+Toscana#Chianni#Loc. I Renicci #Az. Bioagritur.Poggio ai Lupi#0587.648163 #Jeandeau Claudia Note:  #$Agriturismo##
+Toscana#Ospedaletto#Via Sterpolino, 1/d #A...Pollo 13#050.3142732/328.1575290 #Pagni Omar #$Ristorante$Pizzeria##
+Toscana#Pisa#Via Vittorio Veneto, 3 #La Pizza Magica#393.1824268 #Pica Gianluca Note:  #$Pizzeria##
+Toscana#Pisa#Via Pietrasantina,107 #La Scaletta#050.562269 #Colangelo Giuseppina #$Ristorante$Pizzeria##43.727189$10.389537
+Toscana#Pisa#Via Mazzei ang via S. Biagio #Rist. Squisitia/H. San Ranieri#050.9719555 - 050.971951 #Barigliano Carmine  Note:  #$Hotel$Ristorante##
+Toscana#Pisa-Riglione#P.zza della Fornace, 10 #La Fornace#050.985240 #Piacenti Giuseppe #$Ristorante$Pizzeria##
+Toscana#Ponte a Egola#Via Diaz, 84 #Martina Catering#0571.484000 #Caramelli Elena Note:  #$Catering##
+Toscana#Ponte a Egola#Via C. Pisacane, 4 #Sabrina#0571.1600434 #Lippi Massimo #$Catering##
+Toscana#Pontedera#Via Torino, 27 #Artepizza#0587.52291 #Izzo Tiziano Note:  #$Pizzeria$TavolaCalda##
+Toscana#Pontedera#Viale IV Novembre, 12/14 #Baldini 2#0587.292722 #Falaschi Marco Note:  #$Ristorante$Pizzeria##43.66031$10.63824
+Toscana#Pontedera#Via Pisana, 157 #La Losanga#0587.56323 #Pasquini Mila #$Ristorante$Pizzeria##
+Toscana#Pontedera#Via Marconcini, 54 #La Polveriera#0587.54765 #Rossi Manuzia #$Ristorante#www.ristorantelapolveriera.it #
+Toscana#Pontedera#Via Roma, 110 ang R. Piaggio #Pizzeria Pasquale#0587.290633 #Famiglietti Giuliana #$Pizzeria$Trattoria##
+Toscana#S. Maria a Monte#Via San Donato, 106 #Black - White#0587.473322 #Giovannetti Roberto #$Ristorante$Pizzeria##43.71065$10.69086
+Toscana#S. Maria a Monte#Via Francesca Nord, 248 #Il Poeta/Il Verde Melograno#0587.709090 #Puccini Emanuele #$Hotel$Ristorante$Bar#www.hotelilpoeta.it #
+Toscana#S. Maria a Monte#Via Arnovecchio S. Donato, 1 #Oasi al Lago#0587.709201 #Campinotti Giulio #$Ristorante$Pizzeria##
+Toscana#San Miniato#Via Calenzano, 40 #Az. Agricola Marrucola#0571.418306 #Scardigli Federica Note:  #$Agriturismo##
+Toscana#San Romano#Via Cavour,30/32 #Dumbo#0571.450999 #Maccanti Angela #$Ristorante$Pizzeria##43.69028$10.75708
+Toscana#Terricciola#Via Volterrana, 308 - Loc. La Sterza #Da Pasquino#0587.674000 #Salvadori Antonella #$Albergo$Ristorante##
+Toscana#Vicopisano#Via Prov.le Vicarese, 161 #D'Antonio#050.702001 #Vallini Stefano #$Ristorante$Pizzeria##
+Toscana#Volterra#Via Matteotti, 39 #Don Beta#0588.86730 #Dipaolantonio Mirko Note:  #$Ristorante##
+Toscana#Volterra#Via delle Prigioni, 28/30 #Il Pozzo degli Etruschi#0588.80608 #Mannucci Roberta #$Ristorante#www.ilpozzodeglietruschi.com #
+Toscana#Volterra#B.go S. Lazzero, 7 #Il Ritrovo#0588.80122 #Chiovaro Jennifer #$Ristorante$Pizzeria##
+Toscana#Volterra#Via Matteotti,19 #La Vecchia Lira#0588.86180 #Bruchi Lamberto #$Ristorante#www.vecchialira.com #43.401922$10.860393
+Toscana#Volterra#Via Gramsci, 70 #Ombra della Sera#0588.86663 #Fazio Massimo #$Ristorante##
+Toscana#Volterra#Via Guarnacci, 16 #Ombra della Sera#0588.85274 #Fazio Adriano #$Pizzeria$TavolaCalda##
+Toscana#Carmignano#Via S. Biagio, 10 #Agrit. Casa Belvedere#055.8717301 #Fissi Leonardo Note:  #$Agriturismo$Ristorante##
+Toscana#Prato#Via V. Da Filicaia #Antichi Sapori#0574.461189 #Le Noci Leandro #$Ristorante$Pizzeria##
+Toscana#Prato#Via Pistoiese, 659 #Circolo La Libertà#0574.810618 #Risorti Otello #$Ristorante$Pizzeria##
+Toscana#Prato#Via G. Paolini, 19 #Il Magnifico#0574.692415 #Franzini F./Randi E. Note:  Prezzo min/max:  #$Catering##
+Toscana#Prato#Via Zarini, 289 #Pepe Nero#0574.550353 #Giannoni Mirko #$Ristorante#www.ristorantepepeneroprato.it #
+Toscana#Prato#Via Goldoni, 4 (ang. Via Gozzi) #Pizza Man#0574.460718 #De Vincenti Leonardo #$Pizzeria##
+Toscana#Seano#P.zza IV Novembre, 4 #I' Prugnolo#055.8706933 #Benigni Luciano/Santos J. #$Ristorante$Pizzeria#www.ristoranteiprugnolo.it #
+Toscana#Vaiano#Via del Bello, 4 #Agriturismo del Bello#0574.988939 #Blandino Cosetta #$Catering$Agriturismo$Ristorante$Ristorante##
+Toscana#Borgo a Buggiano#Via Cavour, 77/79 #La Fiamma#0572.318116-338.4890954 #Franchi Paola/Falseni Roberto #$Ristorante$Pizzeria$Catering##
+Toscana#Castelmartini#Via Martiri del Padule, 75 #Caffè Mirò#339.2837117 #Lepori Marco #$Ristorante$Pizzeria$Bar##
+Toscana#Collodi#Via S. Gennaro, 1 #Osteria il Gambero Rosso#0572.429364 #Bellenzier Diego #$Ristorante##
+Toscana#Lamporecchio#Via Giugnano,158 #Il Poderino#0573.88109 #Rosati Teresa Note:  #$Agriturismo##43.82848$10.90250
+Toscana#Monsummano Terme#Via Francesca Uggia 542 #Yabadabaduu#0572.62583 #Biagini Sara/Roviezzo L. #$Pizzeria$Bar##
+Toscana#Montecatini Terme#V.le Manzoni,46 #Hotel Adua Regina di Saba#0572.78134 #Munerati Gabriele Note:  #$Hotel##
+Toscana#Pescia#Viale Forti, 96/98 #Cecco#0572.477955 #Schiavelli Federico #$Albergo$Ristorante#www.ristorantececco.com #
+Toscana#Pianosinatico#Via Brennero, 181/183 #Silvio la Storia a Tavola#0573.629204-74 #Zanni Silvio/Gaggini Lidia #$Ristorante##
+Toscana#Pistoia#C.so Silvano Fedi, 32 #Caffetteria Museo M. Marini#345.3538551 #Taddei Maria e Lorella #$Bar$TavolaCalda##
+Toscana#Pistoia#Via Panciatichi, 4 #Il Cucciolo#0573.29230 #Piccirilli Nicolò #$Ristorante##
+Toscana#Pistoia#V.le Adua, 308 #La Diligenza In...#0573.904170 #Meoni Costanza #$Bar$TavolaCalda$Ristorante##43.97536$10.88180
+Toscana#Pistoia#Via Dalmazia, 73 #La Fenice#0573.21167/347.4544216 #Iodice Maria #$Ristorante$Pizzeria##43.93894$10.909955
+Toscana#Pistoia#Via Adua, 306 #L'Angolo Nascosto#0573.400454 #Servidio Paola #$Ristorante$Pizzeria##
+Toscana#Pistoia#Via Udine, 4 #Pizza Mania#0573.976063 #Boccardo Piera #$Pizzeria##
+Toscana#Quarrata#Via Carraia, 215 #Il Calesse#0573.750344 #Giuntini Roberta #$Agriturismo##
+Toscana#Quarrata#Via Ceccarelli, 159/a #Pizza & Co#0573.717686 #Biancalani Stefano #$Pizzeria##
+Toscana#Serravalle Pistoiese#Via Lipe, 7 #Agriturismo Terra Mia#0573.1940064 #Belardi Monica M. Note:  #$Agriturismo##
+Toscana#Spazzavento#Via Prov.le Lucchese, 488 #La Torretta#0573.572434 #Grasso Giuseppe #$Ristorante$Pizzeria$Catering$SalaRicevimento##
+Toscana#Arbia-Asciano#Piazza della Repubblica, 70 #Piccola Oasi#0577.365367 #Mori Tiziana #$Ristorante$Pizzeria#www.piccolaoasisenzaglutine.com #
+Toscana#Bagno Vignoni#Via del Gorello, 44 #Il Barrino#0577.887112 #Marcucci Leonardo #$Bar$TavolaCalda##
+Toscana#Bettolle#Via XXI Aprile, 10 #Walter Redaelli#0577.623447 #Walter Redaelli #$Ristorante#www.ristoranteredaelli.it #
+Toscana#Campiglia d'Orcia#Via Campotondo,3 #I Tre Rioni#0577.872015 #Arrivati Stefano #$Ristorante#www.itrerioni.com #42.94828$11.66697
+Toscana#Castellina in Chianti#Via Fiorentina, 63 #Albergaccio di Castellina#0577.741042 #Visman Sonia #$Ristorante#www.albergacciocast.com #43.47204$11.28224
+Toscana#Castelnuovo Berardenga#Loc. Curina #Il Convito di Curina/Villa Curina#0577.355647 #Frache Stefania #$Ristorante$Catering##11.275745$43.204669
+Toscana#Chianciano Terme#Loc. La Maglianella, 30 #Il Rabarbaro#0578.64592 #Canchini Sabrina #$Ristorante$Pizzeria##43.03915$11.85156
+Toscana#Chianciano Terme#Via Macerina, 19 #Villa Maria#0578.63003 #Donati Rossella #$Albergo$Ristorante#www.villamariachianciano.it #
+Toscana#Chiusi#Via dei Tulipani, 1 loc. Querce al Pino #Rist.Nonna Rosa/H. Rosati#0578.274408 #Bidussi Giorgio #$Hotel$Ristorante#www.hotelrosati.it #
+Toscana#Montalcino#Trav. Dei Monti, 201 loc. Colombaio #Boccon Divino#057.7848233 #Fiorani Mario Note:  #$Ristorante##
+Toscana#Montepulciano Stazione#Via Messina, 6 #Il Poliziano#0578.738069 #Nappini Bruno #$Ristorante$Pizzeria##
+Toscana#Pienza#Corso del Rossellino, 26 #La Terrazza del Chiostro#0578.748183 #Abbate Maurizio #$Ristorante#www.laterrazzadelchiostro.it #43.07660$11.67942
+Toscana#Poggibonsi#Via Irlanda, 2/h loc. Bellavista #Babette#0577.979533 #Cardillo Simone #$Ristorante#www.ristorante-babette.com #
+Toscana#Rapolano Terme#Loc. Laticastelli #La Taverna Toscana#0577.725513 #Marcopietro Luciano #$Ristorante#www.latavernatoscana.it #
+Toscana#S. Albino Montepulciano#Via dei Lillà, 1/3 #La Locanda del Vino Nobile#0578.798064 #Chiloiro Rosario #$Ristorante#www.lalocandadelvinonobile.it #43.07204$11.80577
+Toscana#S. Quirico d'Orcia#SS.146 Loc. Casanova, 6 c #La Taverna del Barbarossa/Casanova#0577.898299 #Bellugi Enrica #$Ristorante$Pizzeria$SalaRicevimento$Albergo#www.tavernadelbarbarossa.com #
+Toscana#Sangimignano#Via Piandornella, 15 #Le Vecchie Mura#0577.940270 #Celati Claudia #$Ristorante#www.vecchiemura.it #
+Toscana#Serre di Rapolano#Racc. Autostr. Siena-Bettolle #Grand Hotel Serre#0577.704777 #Pazzaglia Antonio #$Hotel##
+Toscana#Serre di Rapolano#Via Serraia #La Sosta#0577.704177 #Pazzaglia Carlo #$Ristorante#www.lasostaristorante.it #43.25730$11.61742
+Toscana#Siena#Via Custoza, 2 #Garden#0577.567111 #Guerrini Andrea Note:  #$Hotel##
+Toscana#Siena#Via del Porrione, 65 #Grotta Gallo Nero#0577.284356 #Tigli Mauro #$Ristorante##
+Toscana#Siena#Via Vittorio Veneto, 29 #Il Campino#0577.236545/338.9751919 #Catarina Maria #$Trattoria##
+Toscana#Siena#Via dei Pellegrini, 26 #Il Ghibellino#0577.288079 #Brizzi Roberto #$Ristorante##

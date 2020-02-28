@@ -1,0 +1,49 @@
+Abruzzo#Avezzano#Via Don Minzoni, 5 #Barone Rosso#0863.453155 #Franchi Claudio #$Pizzeria##
+Abruzzo#Bugnara#Via Nolfese,2 #H.Sagittario/Rist.Tre Archi#0864.46463 #D'Agnillo Arnaldo Note:  #$Hotel$Ristorante##
+Abruzzo#Carsoli#Via Tiburtina Km.6930 #Quo Vadis#0863.909243 #Salera Roberta #$Ristorante$Pizzeria##
+Abruzzo#Celano#Via Michele Carusi #La Cittadella#0863.791293 #Simplicio #$Trattoria##
+Abruzzo#Celano#Via Ranelletti, 278-280 #Le Mirage#0863.790830 #Anna #$Pizzeria##42.08113$13.54998
+Abruzzo#Cese di Preturo#Via Sant'Anna #Il Girasole#0862.461290 #Sebastiani Paolo #$Ristorante$Pizzeria##
+Abruzzo#Coppito-L'Aquila#Via Vetoio #L'Isola Che Non C'era#0862.319930 #Pagliaro Patrizia #$Pizzeria##41.958644$13.471835
+Abruzzo#L'Aquila#S.S. 17 Zona Ind.le Sassa #AQ 99#328.9022507 #Santanacosta Annalaura Note:  Prezzo min/max:  #$Ristorante$Catering##
+Abruzzo#L'Aquila#Via Caldora,12 #La Conca#0862.405211 #Antonini Rosalba #$Ristorante##42.34591$13.40195
+Abruzzo#Pescasseroli#Via Tre Confini #Faggio Rosso#0863.912879 #Bramonti Giuliana #$Hotel$Ristorante##
+Abruzzo#Pettorano sul Gizio#S.S. 17 km.107 #La Quercia#0864.48202 #Degliaugelli Gigliola #$Ristorante$Pizzeria##
+Abruzzo#Roccaraso#SS. 17 Km.139 #La Fattoria#0864.62980 #Bucci Giuliano #$Pizzeria##
+Abruzzo#S. Demetrio ne' Vestini#Largo Stazione #L'Angolo dello Spuntino#0862.810200 - 348.4733044 #Liberatore Vittorio #$Pizzeria##
+Abruzzo#Atessa#Via Piana La Fara 157 #Royal Garden#0872.895301 #D'Amico Gennaro #$Ristorante$Pizzeria##
+Abruzzo#Brecciarola#Via Aterno,435 #Amadeus#0871.684677 #Librenti Angela #$Ristorante$Pizzeria##42.32135$14.08933
+Abruzzo#Chieti#Via P.ssa di Piemonte, 6 #Nino#0871.63781 #Giampietro Raffaella #$Ristorante##
+Abruzzo#Fara Filiorum Petri#Via S. Eufemia, 125 #S. Eufemia#0871.70154 #De Vitis Patrizia #$Albergo$Ristorante#www.hotelsanteufemia.altervista.org #
+Abruzzo#Francavilla#Viale Kennedy, 2 #La Nave#085.817115 #Mancinelli Vincenzo #$Ristorante##42.42104$14.29136
+Abruzzo#Lanciano#Via del Pescara, 7/a #Pizzangelo#338.3151900 #Ferente Angelo #$Pizzeria#www.pizzangelo.it #
+Abruzzo#Lanciano#Via Follani,138 #Ruhental#0872.44101 #Tristani Miriam #$Pizzeria$Trattoria##42.21288$14.39303
+Abruzzo#Roccamontepiano#Via Corsi,36 #Brancaleone#0871.77571 #Basile Maurizio #$Ristorante#www.ristorantebrancaleone.it #42.26071$13.33198
+Abruzzo#S. Vito Chietino#C.da Murata Alta, 50 #Il Fienile#0872.618288 #Giancristoforo Pasquale #$Ristorante$Pizzeria##
+Abruzzo#Scerni#C.da Caltrucci, 33 #Az Agr. Fontemaggio#0873.914525 #Gravino Raffaella #$Ristorante##
+Abruzzo#Tornareccio#Parco Monte Pallano #Il Ristoro dei Paladini#0872.866621 #Ianni Maria #$Ristorante##
+Abruzzo#Vacri#Via Sterpara, 55 #Il Tucano#0871.720024 - 339.8318620 #Paludi Ademara #$Ristorante$Pizzeria##
+Abruzzo#Vasto#Via G. Leopardi, 6/8 #Peste e Corna#0873.370808 #Messere Olivia #$Pizzeria##
+Abruzzo#Vasto#Via Conti Ricci, 1 #Terzo Tempo Food & Fun#0873.378795 #Terrei Norma #$Ristorante$Bar##
+Abruzzo#Vasto#L.go Siena, 14 #Vecchia Vasto#0873.363420 #D'Orazio Antonio #$Ristorante$Pizzeria##
+Abruzzo#Villamagna#Via Val di Foro SS 263 #Lucky Star#0871.300283 #Neri Emanuelita #$Ristorante##
+Abruzzo#Castellana di Pianella#C.da Astignano, 13 #La Rustica#085.9771650 #Straccini M. Cristina #$Agriturismo#www.agriturismolarustica.com #
+Abruzzo#Cepagatti#Via Nazionale, 58/c #Due Leoni#085.9772685 #Patrizia #$Trattoria##
+Abruzzo#Cittˆ S. Angelo#Via T. De Caesaris, 8 #Miramare Miramare#085.95321 #Di Febo Antonio #$Hotel$Ristorante$Pizzeria##
+Abruzzo#Cittˆ S.Angelo#C.da Madonna della Pace ,100 #La Rusticana#085.959434 #Gridelli Paolo #$Ristorante$Pizzeria#www.larusticana.net #
+Abruzzo#Loreto Aprutino#C.da Remartello, 52 #Carmine#085.8208553 #Ferretti Kristian #$Ristorante#www.ristorantecarmine.it #
+Abruzzo#Loreto Aprutino#C.da Fiorano,83 #Le Magnolie#085.8289534 #Tortorella Mario #$Agriturismo##
+Abruzzo#Montesilvano#C.so Umberto, 303/309 #Guadalquivir#085.4450308 #Marinucci Gimmi #$Ristorante#www.guadalquivir.it #
+Abruzzo#Montesilvano#Via Calabria, 14/1 #Hotel d'Atri#085.4450112 #D'Atri Federico Note:  Prezzo min/max:  #$Hotel$Ristorante##
+Abruzzo#Montesilvano#Via Aldo Moro, 21 #Pirates#085.4451476 #Di Marco Roberto #$Ristorante##
+Abruzzo#Montesilvano#Via Vestina, 415 #Zelig#085.4680673 #Desiderioscioli Angelica #$Ristorante$Pizzeria##
+Abruzzo#Nocciano#C.da Prato S. Lorenzo,36 #Le Nostre Radici#085.847644 #De Angelis Piera #$Agriturismo##42.325349$13.989394
+Abruzzo#Pescara#Via T. Da Celano, 22 #Buffalo Bill#085.63355 #Antonio Note:  #$Ristorante$Pizzeria##
+Abruzzo#Pescara#Via Pisano,61 #Gerardo#085.4212300 #Alberto #$Trattoria##42.47632$14.19627
+Abruzzo#Pescara#Via Bardet, 6 #Grotta del Marinaio#085.690454 #Domenicucci Cinzia #$Ristorante##
+Abruzzo#Pescara#Str. c.le S. Silvestro, 340 #Parc H. Villa Immacolata#085.4980031 #Giorgetti Paolo Note:  #$Albergo$SalaRicevimento$Ristorante##
+Abruzzo#Giulianova#Via Trieste, 181/183 #Compagnia della Pizza#320.5569797 #Valle Valerio #$Pizzeria#www.compagniadellapizza.com #
+Abruzzo#Giulianova#Via Quinto, 5 #Hotel Clipper#085.8028579 #Tafˆ Luca #$Hotel##
+Abruzzo#Mosciano S. Angelo#Str. Selva Alta #Borgo Spoltino#085.8071021 #Marrangoni Gabriele #$Ristorante#www.borgospoltino.it #
+Abruzzo#Mosciano S. Angelo#Via V.Veneto, 8 #Via Veneto#085.8062259 #Lilla Giovanni #$Pizzeria##
+Abruzzo#Tortoreto Lido#Via Leonardo da Vinci, 46 #Rist. Zafferano/H. Aurea#0861.786430 #Lelli Ivana #$Hotel$Ristorante#www.aureahoteltortoreto.it #12.392578$41.442726

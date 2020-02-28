@@ -1,0 +1,40 @@
+Trentino#Ala#Via Ronchiano 1 #Al Giardino#0464.671058 #Zocca Iolanda #$Pizzeria##
+Trentino#Andalo#Via Priori, 8 #Ambiez#0461.585556 #Marchetti Michela #$Hotel#www.hotelambiez.com #
+Trentino#Arco#Via S. Marcello,21 #Da Gianni#0464.516464 #Negri Paolo #$Ristorante#www.dagianni.it #45.92042$10.87052
+Trentino#Baselga di Pinè#Via Miralago, 43 #El Filò#0461.553156 #Colombini Marco #$Ristorante#www.ristoranteelfilo.it #
+Trentino#Bellamonte#Via De L'Or, 8 #Sole#0462.576299 #De Chiusole Michela #$Hotel##
+Trentino#Brentonico#Loc. S.Caterina, 1 #La Pineta#0464.395296 #Zeni Tiziano #$Pizzeria#www.pizzeriapineta.it #
+Trentino#Castello di Fiemme#Via Dolomiti, 13 #Olimpionico#0462.340744 #Nones Cristian #$Hotel##
+Trentino#Cavalese#Via Pizzegoda, 5 #Bellavista#0462.340205 #Larger Paola #$Hotel##
+Trentino#Cavedago#Via de la Viola, 9 #Fiore Blu#0461.654019 #Trenti Lorenza #$Ristorante$Pizzeria##46.18508$11.03055
+Trentino#Centa S. Nicolò#Fraz. Doss, 4 #Martinelli#0461.722125 #Martinelli Lauro #$Agriturismo##45.96209$11.23105
+Trentino#Comano Terme#Via Cesare Battisti, 19 #Cattoni Hotel Plaza#0465.701442 #Alimena Alessandro #$Hotel##
+Trentino#Comano Terme#Via C. Battisti, 26 #Don Pedro#0465.702041 #Cristian #$Pizzeria##
+Trentino#Coredo#Via Moncher,3 #Nardis#0463.538000 #Rigolon Paolo #$Pizzeria##46.35222$11.08944
+Trentino#Costa di Folgaria#Via Fontanelle, 47 #Nevada#0464.721495 #De Nicolais Achille #$Hotel$Ristorante#www.villaggionevada.it #
+Trentino#Daré#Via Civico, 115 #Le Fontane#0465.801601 #Chiappani Giacomo #$Ristorante$Pizzeria##
+Trentino#Fai della Paganella#P.zza Italia Unita, 16 #Agostini#0461.583301 #Agostini Marco #$Pizzeria##
+Trentino#Folgaria#Loc. Gruim Mezzomonte #Az. Agr. La Fonte#0464.720041 #Monti Elisabetta #$Agriturismo#www.la-fonte.org #
+Trentino#Isera#Via Vannetti, 8 #Locanda delle Tre Chiavi#0464.423721 #Di Nunno Anna Rita #$Ristorante#www.locandadelletrechiavi.it #45.88605$11.00880
+Trentino#Malè#Via Degli Alpini ,12 #Michela#0463.901366 #Gusmeroli Paolo #$Hotel#www.hotelmichela.com #46.35524$10.91467
+Trentino#Mezzo Lombardo#Loc. ai Piani, 1 #Al Castagneto da Giorgio#0461.601359 #Montino Manola #$Ristorante$Pizzeria#www.alcastagneto.net #
+Trentino#Moena#Piaz de Sotegrava, 18 #Hotel Faloria#0462.573149 #Farina Manuel #$Albergo##
+Trentino#Moena#Strada de Moene, 47 #La Serenella#0462.573236 #Chiocchetti Donatella #$Hotel$Ristorante#www.hotellaserenella.it #
+Trentino#Molveno#Via Nazionale, 7 #Hotel Des Alpes#0461.586983 #Donini Marianna #$Hotel##
+Trentino#Molveno#Via Nazionale,41 #Hotel Excelsior#0461.586921 #Donini Pietro #$Hotel##
+Trentino#Montagnaga di Pinè#Via Domenica Targa, 49 #Comparsa#0461.557006 #Zanei Matteo #$Pizzeria##
+Trentino#Monte Bondone#Strada di Vason, 84 #Montana#0461.948200 #Gregorovich Anna Note:  #$Hotel$Ristorante##46.04051$11.05767
+Trentino#Montevaccino-Trento#Loc. Montevaccino ,1/d  #Bosco Incantato#0461.960826 #Mattevi Ilaria #$Pizzeria##
+Trentino#Pera di Fassa#Via Dolomiti, 181 #La Ginestra#0462.764204 #Laghi Franco #$Ristorante$Pizzeria##
+Trentino#Pergine Valsugana#Via al Lago, 11 #Antiche Contrade#0461.538228 #Bellè Nicola #$Ristorante$Pizzeria$Bar##
+Trentino#Pergine Valsugana#Loc. Valcanover, 13 #Giropizza Vip#0461.512282 #Gaccione Maurizio #$Pizzeria##
+Trentino#Riva del Garda#Via Marone, 11 #Eden Marone#0464.521520 #Girardelli Valter #$Agriturismo#www.edenmarone.com #
+Trentino#Riva del Garda#Loc. Ceole, 8/b #La Berlera#0464.521149 #Guglielmi Gianluca #$Ristorante#www.laberlera.it #
+Trentino#Riva del Garda#V.le Cattoni, 5 #Villa Nicolli#0464.552589 #Gostner Luca #$Hotel##
+Trentino#Rovereto#Corso Verona,76/A #Bar Botti#0464.432521 #Botti Franco #$Ristorante$Pizzeria##45.87490$11.03321
+Trentino#S. Valentino Brentonico#Loc. S. Valentino #Al Passo#0464.391460 #Soldavini Roberto #$Trattoria#www.alpasso.it #
+Trentino#Trento#Via Torre Verde, 50 #America#0461.983010 #Lanzinger M. Teresa #$Albergo$Ristorante#www.hotelamerica.it #
+Trentino#Trento#Via Petrarca, 1/4 #Bouganville#0461.236666 #Rech Ciro #$Ristorante$Pizzeria##
+Trentino#Trento#C.so degli Alpini,16 #Everest#0461.825300 #Valerio Claudio Note:  #$Hotel$Ristorante##46.07833$11.11833
+Trentino#Trento#Via Dietro le Mura, A35 #Uva & Menta#0461.1903162 #Menta Maurizio #$Pizzeria##
+Trentino#Vermiglio#Via Borgonuovo,44 #Milano#0463.758124 #Longhi Monica #$Hotel$Ristorante##46.29988$10.70344

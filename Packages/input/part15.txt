@@ -1,0 +1,112 @@
+Liguria#Arenzano#Via Manni, 25 #Aranciamara#010.9135095 #Vaglica Alessandro #$Ristorante$Pizzeria##44.40638$8.68568
+Liguria#Busalla#Via Milite Ignoto, 13/a, 13/b #Verdebasilico#010.9642557 #Romeo Salvatore #$Ristorante$Pizzeria##
+Liguria#Camogli#L.go F. Casabona,11 #Rosa#0185.773411 #Costa M.Rosa #$Ristorante##
+Liguria#Casarza Ligure#Via Monsignore Podestà, 1 #San Giovanni#0185.467244 #Rolli Rosanna #$Ristorante##
+Liguria#Cavi di Lavagna#Via Aurelia - Loc. Lo Scoglio #Ziki Paki#0185.390285 #Cappelli Eugenia #$Pizzeria#www.zikipaki.com #
+Liguria#Chiavari#Via Entella,18 #Boccon Divino#0185.362964 #Feller Izrael #$Ristorante##44.31652$9.32799
+Liguria#Genova#V. Dietro il Coro d. Maddalena, 26/R #Antica Cantina i Tre Merli#010.2474095 #Bozzi Eleonora #$Ristorante#www.itremerli.it #
+Liguria#Genova#Via Quarto, 12 #Antica Osteria del Bai#010.387478 #Malagoli G./Maistrello M. #$Trattoria#www.osteriadelbai.it #
+Liguria#Genova#Via Fereggiano, 43/r #Bar Cose Buone#010.810834 #Bertolina Marcella #$Bar$TavolaCalda##
+Liguria#Genova#Via C. Barabino, 62/r #Boccascena#010.5740006 #Senatore Cristina Note:  #$Hotel##
+Liguria#Genova#Via Raffaele Pratolongo, 6/R #Capurro Ricevimenti#010.3773514 #Arduino Andrea #$Catering##
+Liguria#Genova#Viale Brigate Bisagno, 69 R #Gran Gotto#010.564344 #Bertola Paolo #$Ristorante##
+Liguria#Genova#Piazza della Nunziata, 1 #Helvetia#010.2465468 #Mennella Elisabetta #$Hotel##
+Liguria#Genova#C.so Martinetti, 48/R #I Cuxin#010.6450993 #Accardo Manuela #$Trattoria##
+Liguria#Genova#Via Calata Cattaneo, 17 (ex Porto Antico Edif. Millo) #I Tre Merli Restaurant & Wine Bar#010.2464416 #Secondo Marco #$Ristorante#www.itremerli.it #
+Liguria#Genova#Via 5 Maggio ,20N #Il Focone#010.3773313 #Squeri Emanuele Note:  #$Pizzeria##
+Liguria#Genova#Via Operai,1 #Il Focone/Centro Divert."La Fiumara"#010.413999 #Apicella Gaetano #$Pizzeria##
+Liguria#Genova#Via G. Rossetti, 3 #Iris#010.3760703 #Canforato Luciana #$Hotel##
+Liguria#Genova#Stradone S. Agostino #J'Aime Les Crêpes#010.2465345 #Caccia Mauro e Stefano #$Ristorante##
+Liguria#Genova#V.co dei Lavatoi, 6/r #Kapperi Cucina Medit. e Sushi#010.8696901 #Musella Salvatore #$Ristorante##
+Liguria#Genova#Via Quinto, 14/r canc. #La Ola#010.3202817 #Ottieri Marina #$Pizzeria#www.pizzerialaola.it #44.38531$9.0108
+Liguria#Genova#Via Porta degli Archi, 21/r #Le Bistrot#010.590649 #Sessarego Gianfranco #$Bar$Ristorante##
+Liguria#Genova#S.ta alla Chiesa di Fontanegli, 13/R #Osteria da Pippo#010.809351 #Christian/Villa Carlo #$Ristorante##
+Liguria#Genova#Via Serra di Bavari, 15 #Osteria dei Cacciatori#010.3450323 #Taddei Paolo #$Trattoria$Pizzeria##44.43401$9.01915
+Liguria#Genova#Via Oberdan, 157/R #Patan Trattoria#010.323897 #D'Urso Anna #$Ristorante$Catering##
+Liguria#Genova#Via Felice Cavallotti, 1a/R #Pizza Rò#010.395542 #Russello Enzo #$Pizzeria##
+Liguria#Genova#Via D. Oliva,42 R #Scabeccio#010.6591511 #Roberta #$Ristorante##44.43387$8.85130
+Liguria#Genova#Salita del Prione, 53 R #Trattoria Alle Due Torri#010.2513637 #Zanzola Lucia #$Trattoria#www.alleduetorri.com #
+Liguria#Genova#Vico Cicala, 3 #Veronese#010.2510771 #Senatore Marco Note:  Prezzo min/max:  #$Hotel##
+Liguria#Genova#Via XX Settembre, 20/7 #Zeffirino#010.5705939 #Belloni Odino e Luciano #$Ristorante#www.zeffirino.com #44.40391$8.93968
+Liguria#Genova Pegli#Via Carloforte,8 R #Alla Tavola di Malq'#010.6965049 #Cicala Luciano #$Ristorante##
+Liguria#Genova Pegli#Via Ronchi, 12 #Cafè Rest.and More La Porcigna#393.3363349 #Carrara Luca/Dagnino Barbara #$TavolaCalda#www.laporcigna.it #
+Liguria#Genova Pegli#L.re di Pegli, 79/R #La Rose en Table Vino e Desinare#010.4074156 #Leoncini Elisabetta #$Ristorante#www.laroseentable.com #
+Liguria#Genova Pegli#P.zza Lido, 5/6 R #Teresa#010.6973774 #Cosenza Tina #$Ristorante#www.ristoranteteresa.it #
+Liguria#Genova-S. Quirico#Via Gallesi, 64/12 #I Buongustai Catering#010.710036/347.0784306 #Schenone Flaviano #$Catering#www.ibuongustaigenova.it #
+Liguria#Lavagna#Via S. Benedetto, 26 #Il Gabbiano#0185.390228 #Masini Massimo #$Ristorante#www.ristoranteilgabbiano.com #44.30567$9.35894
+Liguria#Lorsica#Via Cona,94 #Il Sogno#0185.952003 #De Martini Marina #$Agriturismo##44.43500$9.27916
+Liguria#Moneglia#Via Figarolo Monte,1 #Moneglia/Pizz. La Pagoda#0185.49778 #Chiappella Mara #$Pizzeria##
+Liguria#Moneglia#Via Venino,12 #Villa Edera#0185.49291 #Schiaffino Orietta #$Hotel$Ristorante#www.villaedera.com #
+Liguria#Neirone#Via Banchella, 29 #Trattoria Bain#0185.936011 #Razore Paola #$Ristorante##
+Liguria#Pieve Ligure#Via Massone, 1 #La Cucina di Gian Paolo Belloni#010.3460154 #Belloni Gian Paolo #$Ristorante##
+Liguria#Rapallo#P.zza IV Novembre, 3 #Best Western Tigullio Royal#0185.273805 #Gesualdi Angela #$Hotel##
+Liguria#Rapallo#Via Mameli, 322 #Ciro#0185.51000 #Romano Ciro #$Pizzeria##
+Liguria#Rapallo#Via Pietrafraccia, 15 #Hotel Canali#0185.50369 #Chiaudano Luisa #$Hotel##
+Liguria#Rapallo#Salita al Pianello,17/b #L'Arca tra gli Ulivi#0185.50890 #Ruffato Gina Note:  #$Agriturismo##44.34904$9.24244
+Liguria#Recco#Via Roma,160 #da O Vittorio#0185.74029 #Bisso Paola #$Albergo$Ristorante##44.36377$9.14555
+Liguria#Recco#Via Cavour,79 #La Giara#0185.74224 #Capurro Luisa #$Hotel$SalaRicevimento##
+Liguria#Recco#Via Roma,70 #Lino#0185.74336 #Macchiavello Maura #$Ristorante##44.36377$9.14555
+Liguria#Recco#Via dei Giustiniani, 50 #Vitturin 1860#0185.720225 #Squarzati Gianbattista #$Ristorante#www.vitturin.it #44.40629$8.93154
+Liguria#S. Margherita Ligure#Via Aurelia,95 #da Paladini#0185.261405 #Cantinotti Monica #$Trattoria##
+Liguria#S. Stefano d'Aveto#Via Badinelli,1 #Groppo Rosso#0185.88054 #Mazza Federica #$Albergo##
+Liguria#S.Margherita Ligure#L.re Milite Ignoto,44 #Regina Elena#0185.287003 #Ciana Piergiorgio Note:  #$Hotel##
+Liguria#Sestri Levante#Via Sara , 111 #Campeggio Tigullio#0185.482199 #Nervo Mauro #$Ristorante$Pizzeria##44.27038$9.42678
+Liguria#Sestri Levante#Via Nazionale, 500 #I Due Gabbiani#0185.43807 #Parodi Monica #$Ristorante$Pizzeria##
+Liguria#Arma di Taggia#Via Colombo, 290 #Giuan#0184.43059 #Nattero Alberto #$Ristorante$SalaRicevimento$Albergo#www.giuan.it #
+Liguria#Badalucco#Via Ortai, 3/5 #Il Ponte#0184.408000 #Bellocco Sandro #$Ristorante#www.ristoranteilponte.it #43.91396$7.84735
+Liguria#Ceriana#Via Armea Sud, 2006 #Vecchia Fattoria#0184.551742 #Valerga Fabio #$Ristorante$Pizzeria$Albergo##
+Liguria#Chiusavecchia#Via XX Settembre,14 - Sarola #Le Giare#349.3788253 #Losno Giovanna #$Agriturismo$Ristorante$Albergo##
+Liguria#Diano Marina#V.le Matteotti, 24 #Da Paola#0183.495788 #Porcellotti Paola #$Ristorante##43.908529$8.079704
+Liguria#Diano Marina#C.so Garibaldi, 2 #Fra Diavolo#0183.494655 #Giacometti Emilio #$Hotel$Ristorante$Pizzeria##
+Liguria#Diano Marina#Via degli Oleandri, 15 #G.H. Diana Majestic#0183.402727 #Marchese Daniele #$Hotel$Ristorante#www.dianamajestic.com #
+Liguria#Diano Marina#P.zza Mazzini,10 #Olympic#0183.498844 #Montebelli Pascale #$Hotel##43.90956$8.07881
+Liguria#Dolceacqua#Via Barberis Colomba, 11 #La Rampa#0184.206198 #Mariotti Matteo #$Pizzeria##
+Liguria#Imperia#Via Ospedale, 31 #Dalla Padella alla Brace#0183.294159 #Massa Silvia #$Trattoria##
+Liguria#Imperia#V.le Matteotti, 76 #Didù#347.1549366 #Greco Gianna #$Ristorante##
+Liguria#Imperia#P.zza Rossini, 14 #Hotel Rossini al Teatro#0183.74000 #Michelis M. /Costantini A. #$Hotel##
+Liguria#Imperia#Via C. Colombo, 200 #Il Vascello#0183.667269 #Faid Mamdouh #$Pizzeria##
+Liguria#Sanremo#C.so Imperatrice, 45 #Salsadrena#0184.663754 #Falcione Alessandra #$Pizzeria#www.salsadrena.it #
+Liguria#Sanremo#C.so Trento Trieste,16 #Victory Morgana Bay#0184.591620 #Frezza M. Teresa #$Ristorante#www.victorymorganabay.it #43.81918$7.78289
+Liguria#Sanremo fraz. Verezzo#Str. S. Antonio, 5 #Tratt. del Ponte/Cat. Sanremo#0184.559028 #Filippi Giuliano Note:  #$Trattoria$Catering##
+Liguria#Terzorio#Strada per Pompeiana #Antichi Sapori#335.7847010 #Ferrari Paolo #$Ristorante$Pizzeria##
+Liguria#Ventimiglia#Passeggiata Oberdan, 23 #La Grotta#0184.33440 #Corigliano Antonino #$Ristorante$Pizzeria##
+Liguria#Bonassola#Via Garibaldi, 8 #Hotel delle Rose#0187.813713 #Bernardin Enrico e Roberto #$Hotel#www.hoteldellerosebonassola.it #38.28878$15.80468
+Liguria#Castelnuovo Magra#Via Aurelia,235 #Al Bacio#0187.676255 #Berardi Maria Gianna #$Pizzeria#www.pizzeriaalbacio.it #
+Liguria#La Spezia#Via Fabio Filzi,19 #A' Fainà de l'Orso#0187.700645 #Marsili Gianfranco #$Pizzeria##44.10474$9.80317
+Liguria#La Spezia#Via Baracchini, 16 #Hosteria al Leon d'Oro#0187.702295 #Varisco Alberto #$Ristorante##44.10503$9.80334
+Liguria#La Spezia#P.zza Cesare Battisti, 38 #Il Lagora#0187.22242 #Isoppo Federico Note:  #$Pizzeria##
+Liguria#La Spezia#Via Gramsci, 175 #La Bella Napoli#0187.714750 #Naclerio Alfonso #$Pizzeria#www.bellanapolionline.it #
+Liguria#La Spezia#Via dei Pioppi, 1 #Parco del Colombaio#0187.712336 #Castagna Marcello #$Ristorante##44.10444$9.80417
+Liguria#La Spezia#Via S. Bartolomeo,833 #Vesuvio#0187.520646 #Corsi Cristian #$Ristorante$Pizzeria##44.10013$9.86116
+Liguria#Le Grazie#Via della Libertà, 143 #Il Gambero#0187.798023 #Sommovigo Diego #$Ristorante##
+Liguria#Lerici#Loc. Monti Branzi,16 #La Rosa Canina#0187.966719 #Bonvicini Marco Note:  #$Agriturismo##44.07917$9.93583
+Liguria#Levanto#P.zza del Popolo, 7 #La Loggia#0187.808107 #Viviani Alessandro #$Ristorante##
+Liguria#Monterosso al Mare#Via Molinelli,6/8 #La Barcaccia#0187.829009 #Rondine Andrea #$Ristorante##44.1461$9.64648
+Liguria#Ortonovo#Via per Nicola,46 #da Fiorella#0187.66857 #Bertucci Nicola #$Ristorante##44.07822$10.03961
+Liguria#S. Terenzio-Lerici#P.zza Cavallotti, 3 #C'era una Volta#0187.971382 #Ferrari Daniela #$Ristorante##
+Liguria#Sarzana#Via San Bartolomeo,1 #Arribabà#0187.620533 #Masetti Simonetta #$Pizzeria##
+Liguria#Sarzana#Via dei Molini, 112 #Il Giardinetto del Mauri#0187.620333 #Angeli Maurizio #$Pizzeria##
+Liguria#Alassio#Via XX Settembre, 142 #Golfo Blu#0182.640492 #Mollica Tiziano #$Pizzeria##
+Liguria#Albenga#Via Del Roggetto ,2 #Planet Pizza#0182.52024 #Barla Simone #$Ristorante$Pizzeria##
+Liguria#Albisola Sup.#C.so Ferrari, 221 #Isla Morada#019.4004372 #Valenza Alessandro #$Ristorante$Pizzeria##44.424341$8.811293
+Liguria#Albissola Marina#Via Isola,12 #Au Caruggiu#019.485252 #Legname Maria #$Ristorante$Pizzeria#www.pizzaworld.it #
+Liguria#Celle Ligure#Via Lagorio, 24 #Albergo Gioiello#019.990201 #Damele Daniela #$Albergo#www.albergogioiello.it #44.34546$8.55422
+Liguria#Celle Ligure#Via Aurelia, 20 #Torre#019.993465 #Vasile Mara #$Hotel$Ristorante$SalaRicevimento#www.hoteristorantetorre.it #
+Liguria#Cosseria#Via Bosio, 12 #Al Castello#019.519615 #Pera Roberto/Magliano Enrica #$Albergo$Ristorante##
+Liguria#Cosseria#Fraz. Lidora , 83M #Le 4 Ruote#0195.17328 #Ferrando Monica #$Bar$Ristorante$Pizzeria##
+Liguria#Finale Ligure#Via Genova, 4 #Hotel del Bambino-Villa Ada#019.601611 #Oldano Donatella #$Hotel#www.hoteldelbambino.it #
+Liguria#Finale Ligure#Loc. Chiazzari,2 #La Rocca di Perti#019.695513 #Venitti Tiziana #$Agriturismo##
+Liguria#Finale Ligure#Via Torino,111 #Villa Italia#019.690617 #Bizzi Walter #$Albergo##
+Liguria#Loano#V.le Tito Minniti,5 #Aurora#019.669992 #Colli Secondina Note:  #$Hotel$Ristorante##
+Liguria#Loano#Corso Roma, 64 #Da Rino Mare#019.671278 #D'Angela Simona/Banu Marivari #$Pizzeria##44.12749$8.260474
+Liguria#Loano#Via Stella, 2 #La Buona Luna#019.673239 #Gallo Giovanni #$Ristorante##44.12707$8.26006
+Liguria#Loano#Corso Roma, 22 #La Sciara#019.666194 #Scarale Giulio #$Ristorante##
+Liguria#Loano#Via Ghilini, 26 #Trattoria Matamà#019.677459 #Iacoangeli Mauro #$Ristorante##
+Liguria#Mallare#Via Santuario Eremita,2 R #All'Eremo#019.586402 #Leoncino Cinzia #$Ristorante##44.28315$8.29499
+Liguria#Orco Feglino#Via S. Rocco, 34 #Il Portico#019.699207 #Scosseria Germano #$Ristorante##
+Liguria#Pietra Ligure#Via Maglio, 2 #Ca' di Trincia#019.615591 #Fazio Anna #$Agriturismo#www.caditrincia.it #44.15814$8.286545
+Liguria#Pietra Ligure#Via Cappelletta, 63 fraz. Ranzi #Il Capanno#019.625198 #Rembado Franca #$Ristorante##
+Liguria#Pietra Ligure#C.so Italia, 221 #Villa Marina#019.615823 #Caldana Giuseppe #$Hotel$Ristorante##44.15059$8.28707
+Liguria#Rialto#Via Alpe, 6 #La Ca' dell'Alpe#019.688030 #Garavaglia Daniela #$Agriturismo##
+Liguria#Savona#C.so Mazzini 97-99 R #Marechiaro#019.812861 #Orlando Silvia #$Pizzeria##44.30417$8.47806
+Liguria#Spotorno#Via Laiolo, 73 #A Mae Vigna#019.747666 #Vecchi Francesca #$Agriturismo#www.amaevigna.it #

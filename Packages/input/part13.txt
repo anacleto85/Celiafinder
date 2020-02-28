@@ -1,0 +1,41 @@
+Friuli Venezia Giulia#Gradisca d'Isonzo#P.zza G. Marconi,5 #Al Pellegrino#0481.99918 #Di Martino Francesco #$Ristorante$Pizzeria##45.89256$13.49990
+Friuli Venezia Giulia#S. Floriano del Collio#Loc.tà Sovenza, 7 #Osteria Gostilna Korsic#0481.884248 #Corsi Hadrijana #$Ristorante##
+Friuli Venezia Giulia#San Canzian d'Isonzo#Via Risiera San Sabba, 17 #Arcimboldo#0481.76089 #Fumis Enzo #$Ristorante#www.arcimboldo.go.it #
+Friuli Venezia Giulia#Savogna d'Isonzo#Via Brezici, 22 #Locanda Devetak#0481.882488 #Gottali Gabriella #$Ristorante#www.devetak.com #
+Friuli Venezia Giulia#Aviano#Via Sacile, 23 #Aviano Inn#0434.651050 #Perini Irene #$Ristorante$Pizzeria##
+Friuli Venezia Giulia#Trieste#Via Rossetti, 75 #Ainoa La Cucina delle 4 Stagioni#040.2601283 #Sironich Giada #$Ristorante$Pizzeria#www.ainoa.it #
+Friuli Venezia Giulia#Trieste#Riva del Mandracchio, 4 #Hotel Savoy Excelsior Palace#040.7794730 #Vascotto Cristian #$Hotel$Ristorante#www.savoytrieste.it #
+Friuli Venezia Giulia#Trieste#Via Rittmeyer, 14/a #Pepenero Pepebianco#040.7600716 #Grandi Michele #$Ristorante#www.pepeneropepebianco.it #
+Friuli Venezia Giulia#Ariis di Rivignano#Via Chiesa, 2 #Principato di Ariis#0432.775008 #Papait Tiziana #$Albergo$Ristorante#www.principatodiariis.com #13.086508$45.872538
+Friuli Venezia Giulia#Castello di Porpetto#Via Palmanova 13/a #Al Vecchio Mulino#0431.60498 #Di Bert Enrico #$Ristorante$Pizzeria#www.alvecchiomulino.net #
+Friuli Venezia Giulia#Castions di Strada#Vicolo Cornelio Gallo #Andronute#0432.768363 #Basello Serena #$Agriturismo#www.agriturismoandronute.it #
+Friuli Venezia Giulia#Castions di Strada#Via D. da Tolmezzo #La Rucola#0432.769624 #Monte Domenico #$Ristorante#www.larucolaristorante.it #
+Friuli Venezia Giulia#Cervignano#Via Carnia, 2 #Chichibio#0431.32704 #Mansi Chiara #$Ristorante$Pizzeria#www.ristorantechichibio.it #
+Friuli Venezia Giulia#Cervignano del Friuli#Via Ramazzotti, 2 #H. Internazionale/Rist. La Rotonda#0431.30751 #Lastella Pino #$Hotel$Ristorante#www.hotelinternazionale.it #
+Friuli Venezia Giulia#Cimano S. Daniele#Via dei Ponti, 36 #Dal Piciul#0432.957390 #De Monte Monica #$Ristorante##
+Friuli Venezia Giulia#Cividale del Friuli#Via Ristori, 9 #Al Monastero#0432.700808 #Pavan Cristina #$Ristorante##
+Friuli Venezia Giulia#Codroipo#Via Circonvallazione Ovest, 12 #Ai Gelsi#0432.907064 #Dell'Ova Massimiliano #$Albergo$Ristorante#www.gelsi.com #
+Friuli Venezia Giulia#Colloredo di Prato#Via Udine, 60 #Al Cercjeben#0432.652527 #Del Torre Davide #$Trattoria#www.alcercjeben.it #
+Friuli Venezia Giulia#Fagagna#Via Casali Lini, 11 #Agrit. Casale Cjanor#0432.801810 #Missana Luigina #$Agriturismo$Ristorante#www.casalecjanor.com #46.113808$13.092082
+Friuli Venezia Giulia#Fagagna#Via S. Bartolomeo,18 #Al Castello#0432.800185 #Negrini Angelo #$Ristorante#www.ristorantealcastello.com #46.11493$13.09274
+Friuli Venezia Giulia#Forni Avoltri#Loc. Piani di Luzza #Vill. Turistico M.no Ge.Tur.#0433.72041 #Miron Giuliana #$Ristorante$Ristorante##
+Friuli Venezia Giulia#Forni di Sopra#Via Tagliamento, 26 #Davost#0433.88103 #Da Rin Bianco Martina #$Hotel$Ristorante#www.hoteldavost.it #
+Friuli Venezia Giulia#Grions del Torre-Povoletto#Via Fluidane, 10 #Trattoria da Maria#0432.679292 #Bearzi Emiliano #$Ristorante##
+Friuli Venezia Giulia#Latisana#Via Lignano Sud, 55 #La Fattoria dei Gelsi#0431.53100 #Simonutti Gabriele #$Ristorante#www.gelsigroup.com #45.67766$13.08190
+Friuli Venezia Giulia#Lignano Pineta#Via Arco del Grecale, 18/a #Hotel Bella Venezia Mare#0431.422184 #Dal Cero Alberto #$Albergo##
+Friuli Venezia Giulia#Lignano Sabbiadoro#Via dell'Acquedotto, 6 #Al Mirelia#0431.73064 #Barbiero Willy #$Ristorante##
+Friuli Venezia Giulia#Lignano Sabbiadoro#Raggio dell'Ostro, 14 #Al Soreli#0431.422766 #Barbiero Willy #$Ristorante##
+Friuli Venezia Giulia#Lignano Sabbiadoro#Lungomare Trieste, 160 #Atlantic#0431.71101 #Scarpa Elisabetta #$Albergo#www.hotelatlantic.it #
+Friuli Venezia Giulia#Lignano Sabbiadoro#Via Aquileia, 47 #Désirée#0431.71415 #Quarto Roberta #$Albergo#www.hoteldesiree.it #45.68917$13.14417
+Friuli Venezia Giulia#Manzano#Via Orsaria, 50 #Elliot#0432.751383 #Beltrame A./Bonetti P. #$Ristorante#www.elliotenoteca.com #
+Friuli Venezia Giulia#Mortegliano#Via Divisione Julia , 14 #Da Nando#0432.760187 #Uanetto Sandro #$Trattoria$Albergo#www.danando.it #45.94268$13.17607
+Friuli Venezia Giulia#Ravascletto#Via Roma, 22 #Bellavista#0433.66089 #Biancotto Dina #$Albergo$Ristorante##46.52558$12.92311
+Friuli Venezia Giulia#S. Daniele del Friuli#Piazza Dante Alighieri, 7/9 #Al Portonat#0432.940880 #De Rosa Alessandra #$Trattoria#www.alportonat.it #
+Friuli Venezia Giulia#S. Daniele del Friuli#Via S. Andrat, 3 #Picaron#0432.940688 #Zucchiatti Michele #$Albergo$Ristorante#www.alpicaron.it #
+Friuli Venezia Giulia#Spessa di Cividale#Str. di Planez, 60 #Agrit. Borgo dei Sapori#0432.732477 #Cencig Irene #$Agriturismo#www.borgodeisapori.net #
+Friuli Venezia Giulia#Tarcento#Via Pontebbana, 12 #Costantini#0432.792372 #Costantini Pio #$Ristorante$Albergo##
+Friuli Venezia Giulia#Tricesimo#Via Michelangelo 30 - loc. Morena #Moby Dick#0432.851711 #Santelia Salvatore #$Ristorante$Pizzeria##
+Friuli Venezia Giulia#Udine#V.le Tricesimo, 101 #Ancona 2#0432.545262/0432.471414 #Buonocore Luca #$Ristorante$Pizzeria##
+Friuli Venezia Giulia#Udine#Via Po, 82 #Da Guido#0432.282812 #Milocco Alessio #$Ristorante$Pizzeria##
+Friuli Venezia Giulia#Udine#Via Valvason, 4 #Vitello d'Oro#0432.508982 #Sabinot Massimiliano #$Ristorante#www.vitellodoro.com #
+Friuli Venezia Giulia#Villa Vicentina#Via Trieste, 18 #Al Ragno d'Oro#0431.96058 #Merluzzi Aurelia #$Albergo$Ristorante##

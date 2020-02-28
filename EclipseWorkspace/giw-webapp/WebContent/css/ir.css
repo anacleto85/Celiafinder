@@ -1,0 +1,226 @@
+@CHARSET "ISO-8859-1";
+
+body 
+{
+	background-image: url(../img/background.jpg);
+	background-color: black;
+	background-attachment: fixed;
+	padding-bottom: 2%;
+	margin: 0%;
+}
+
+.container
+{
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-bottom: 3%;
+}
+
+.container-footer
+{
+	width: 20%;
+	color: red;
+	font: bold;
+	font-size: 15px;
+	margin-top: 1%;
+	margin-bottom:1%;
+	margin-left: 40%;
+	margin-right: 40%;
+	padding: 5px;
+	display: inline;
+	border: 1px solid white;
+}
+
+.container-footer:hover
+{
+	cursor: pointer;
+	border: 1px solid red;
+}
+
+.banner
+{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: white;
+	padding: 10px;
+}
+
+.logo
+{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.queryform
+{
+	width: 95%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 3px;
+}
+
+.inputbox 
+{
+	background-color: white;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	display: inline;
+}
+
+.textinput
+{
+	width: 55%;
+	margin-left: 9%;
+	border: 3px solid #B5EAAA;
+	padding: 5px;
+}
+
+.button
+{
+	width: 20%;
+	margin-left: 2%;
+	font: 14px bold;
+	padding: 5px;
+	color: white;
+	background: #E42217;
+	border: 3px solid white;
+}
+
+.button:HOVER
+{
+	cursor: pointer;
+}
+
+.separator
+{
+	margin-top:1%;
+	margin-bottom:1%;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	height:15px;
+	background-color: #E42217;
+}
+
+.result-header
+{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 5px;
+	font-size: 12px;
+	color: #E42217;
+}
+
+.pagine
+{
+	padding: 5px;
+	margin-left: 20px;
+	font-size: 15px;
+}
+
+.pagina
+{
+	padding: 5px;
+}
+
+.pagina:hover
+{
+	cursor: pointer;
+	font-size: 18px;
+	font: bold;
+	padding: 10px;
+	border: 1px;
+	border-color: #E42217;
+	border-style: solid;
+}
+
+.paginacorrente
+{
+	font-size: 18px;
+	font: bold;
+	padding: 10px;
+	border: 1px;
+	border-color: #E42217;
+	border-style: solid;
+}
+
+.result-list
+{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.result-row
+{
+	color: grey;
+	width: 100%;
+	margin-bottom: 5px;
+	padding: 2px;
+	padding-bottom: 5px;
+	border: 3px;
+	border-color: silver;
+	border-style: double;
+}
+
+.result-row:hover
+{
+	background-color: #B5EAAA;
+}
+
+.nome 
+{
+	color: black;
+	font: bold;
+	margin: 3px;
+	display: block;
+	font-size: 18px;
+}
+
+.indirizzo 
+{
+	font: bold;
+	font-size: 11px; 
+	margin: 2px;
+	padding-left: 13px;
+	font-size: 15px;
+}
+
+.telefono
+{
+	margin: 2px;
+	padding-left: 5px;
+	font-size: 13px;
+}
+
+.dettaglio
+{
+	margin: 2px;
+	padding-left: 13px;
+	font-size: 13px;
+	display: block;
+}
+
+.sitoweb
+{
+	margin-bottom: 5px;
+	padding-bottom: 2px;
+	padding-left: 13px;
+	font-size: 13px;
+	color: blue;
+}
+
+.sitoweb:hover
+{
+	cursor: pointer;	
+}

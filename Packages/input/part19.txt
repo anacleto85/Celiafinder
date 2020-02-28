@@ -1,0 +1,13 @@
+Valle D'Aosta#Antey Saint-Andrè#Fraz. Bourg, 7 #Au Jardin Fleuri#329.7508762 #Manuela Rolfo #$Agriturismo##
+Valle D'Aosta#Aosta#Via Paravera, 4 #Gros Cidac#0165.237611 #Galizio Silvio/Mallamaci L. #$Ristorante#www.groscidac.it #
+Valle D'Aosta#Bionaz#Fraz. Perquis, 3 #La Renardiere#340.3954920 - 0165.710887 #Pypers Anne Marie #$Agriturismo##
+Valle D'Aosta#Breuil-Cervinia#Via Guido Rey, 18 #Hotel Edelweiss#0166.949078 #Neyroz Palmira #$Hotel#www.matterhorn.it #
+Valle D'Aosta#Cogne#Via Dr. Grappein, 93 #Les Pertzes#0165.749227 #Comiotto Emanuele #$Ristorante$Bar##
+Valle D'Aosta#Courmayeur#Strada la Palud, 5 fraz. Entréves #Hotel Aigle#0165.869700 #Alessandro Moro #$Hotel$Ristorante#www.hotelaigle.it #
+Valle D'Aosta#Gressan#Fraz. Borettaz, 7 #Le Bon Plat#0165.251621 #Rinaldi Marilisa #$Ristorante#www.paginegiallelebonplat.it #
+Valle D'Aosta#Gressoney La Trinité#Loc. Edelboden Sup. , 31 #Romantik Hotel Jolanda Sport#0125.366140 #Corsico Annamaria #$Hotel$Ristorante##
+Valle D'Aosta#Gressoney Saint Jean#Loc.tà Tschoarde, 1 #Lyshaus-Carducci#0125.356643 #Germano Marco #$Hotel$Ristorante#www.lyshaus.com #
+Valle D'Aosta#Pont St. Martin#P.zza IV Novembre,14 #Ponte Romano#0125.804821 #Rotella Franco #$Ristorante##
+Valle D'Aosta#Saint Vincent#Via Roma, 42 #Il Ritrovo#0166.510098 #Atzei Vincenzo #$Ristorante#www.ilritrovo-restaurant.it #
+Valle D'Aosta#Sarre#Fraz. Arensod, 39 #Il Pirata#0165.257988 #Ravazzini Giovanna-Marenghi F. #$Ristorante$Pizzeria##
+Valle D'Aosta#Valtournenche#Località Cime Bianche #Lo Baracon Dou Téne#0166.93023/347.6477157 #Capietto Christele #$Ristorante##

@@ -1,0 +1,127 @@
+Emilia Romagna#Anzola dell'Emilia#Via Suor Orsola Donati,108 #I Salici#051.739418 #Guerra Antonella #$Agriturismo##44.546245$11.194895
+Emilia Romagna#Bologna#Via Murri, 168/d #Acqua Pazza#051.443422 #Anderson Davies Camilla L. #$Ristorante##
+Emilia Romagna#Bologna#Via Firenze, 6/b #Bar Firenze#051.450256 #Venturi Angela #$TavolaCalda##
+Emilia Romagna#Bologna#Via Nino Bertocchi 1 #Due Lune#051.567569 #Vaccaro Maria #$Ristorante$Pizzeria##
+Emilia Romagna#Bologna#Corte Isolani, 1/e #La Capriata#051.236932 #Rofrano Pasquale #$Ristorante#www.lacapriata.com #44.293396$11.205369
+Emilia Romagna#Bologna#Via Cleto Tomba, 14 A #Pantera Rosa 1 (via C.Tomba)#051.5870544 #Rosa Giuseppe #$Ristorante$Pizzeria##
+Emilia Romagna#Bologna#Via Guelfa, 74 #Pantera Rosa 2 (via Guelfa)#051.6011069 #Rosa Paolo #$Pizzeria$Bar##
+Emilia Romagna#Bologna#Via Malcontenti, 13/a #Zazie#0510.950461 #De Pieri Giovanni Marco #$Bar$Ristorante##
+Emilia Romagna#Calderara di Reno#Via Roma 81/a #Itaca#051.720383 #Zullo Peter #$Ristorante$Pizzeria#www.pizzeriaitaca.it #
+Emilia Romagna#Castel di Casio#Via Prostima, 2 #La Prossima#0534.42572 #D'Agostino Gabriele #$Agriturismo$Ristorante$Pizzeria#www.laprossima.com #
+Emilia Romagna#Fontanelice#Via Casolana, 53 #La Taverna#0542.92714/340.1516595 #Di Maria Nadia #$Agriturismo##
+Emilia Romagna#Imola#Via della Milana, 21 #Milana#054.242200 #Bertozzi Gaetano #$Pizzeria##
+Emilia Romagna#Imola#Via Pisacane, 69/d #Pit Stop#0542.28884 #Zanotti Lorena #$Ristorante$Pizzeria##
+Emilia Romagna#Marzabotto#Via Quercia, 22 #Agrit. Rustico La Quercia#051.6775397 #Bignardi Beatrice #$Agriturismo#www.lallegroturismo.it #44.305731$11.203394
+Emilia Romagna#Medicina#Via Fiorentina, 3780 #Il Murello#051.6962054 #Ventura Valeria #$Agriturismo#www.agriturismoilmurello.it #
+Emilia Romagna#Pianoro#Via Gorgognano, 4 #Il Poggiolo#051.6510208 #Zambonelli Daniel #$Agriturismo##
+Emilia Romagna#San Giovanni in Persiceto#Via Crevalcore 84 - loc. Amola #La Fattoria#051.827072 #Zuntini Mauro #$Pizzeria##
+Emilia Romagna#Toscanella di Dozza#Via 1° Maggio, 12 #Millevoglie#0542.673509 #Viadana Daniela #$Pizzeria##
+Emilia Romagna#Zola Pedrosa#Via Risorgimento, 432/8c #C'è Pizza Per Te#051.756905-377.3151692 #Basso Pietro #$Pizzeria##
+Emilia Romagna#Zola Pedrosa#Via Gessi, 2 #Nuovo Parco dei Ciliegi#051.750759 #Pancaldi Nicola #$Ristorante$Pizzeria#www.parcodeiciliegi.it #
+Emilia Romagna#Cesena#Via Emilia Levante, 2223 #I Girasoli#0547.303737 #Alessandrini Michela #$Ristorante$Pizzeria##
+Emilia Romagna#Cesenatico#V.le Trento, 68 #Al Cenacolo#0547.672820 #Rossi Massimo #$Ristorante$Pizzeria#www.ristorantealcenacolo.com #
+Emilia Romagna#Cesenatico#Via Ippolito Nievo, 2 #Hotel Vera#0547.80342 #Di Salvo Luigi #$Hotel##
+Emilia Romagna#Forlì#Corso della Repubblica, 209 #Del Corso#0543.32674 #Nardi Fabiola #$Ristorante$Pizzeria##
+Emilia Romagna#Forlì#C.so Garibaldi, 28 #Hotel Masini#0543.28072 #Bacchilega Marianna #$Hotel##
+Emilia Romagna#Forlì#Via dell'Appennino, 697 #Los Locos#0543.480735 #Mengozzi Mirko #$Ristorante$Pizzeria##
+Emilia Romagna#Forlimpopoli#Via Emilia per Forlì, 1387 #America Graffiti Fast Food#0543.744945 #Vandi Nicola Note:  Prezzo min/max:  #$Ristorante##
+Emilia Romagna#Longiano#Via A. Moro, 1 #Borgonovo#0547.57357 #Alessandrini Michela #$Albergo$Ristorante$Pizzeria#www.ristorantealbergoborgonovo.com #
+Emilia Romagna#Mercato Saraceno#Via P.Togliatti 1945 #Pontegiorgi#0547.96581 #Giorgi Guglielmo #$Ristorante$Pizzeria$Bar##
+Emilia Romagna#San Mauro Pascoli#P.zza Giorgi, 29 #Bio Pizza#0541.818413 #Pentimalli Giuseppe Note:  #$Pizzeria##
+Emilia Romagna#Copparo#Via I Maggio, 141 #Angolo di Mare#0532.871107 #Polzella Luca #$Ristorante##
+Emilia Romagna#Ferrara#P.za Repubblica, 5 #Albergo Annunziata#0532.201111 #Govoni Biancamaria #$Hotel##
+Emilia Romagna#Ferrara#Via M.Boiardo 5 #Bella Napoli#0532.205015 #Lo Chiano Salvatore #$Ristorante$Pizzeria##
+Emilia Romagna#Ferrara#Via Garibaldi, 93 #Carlton#0532.211130 #Benvenuti Carla #$Hotel##
+Emilia Romagna#Ferrara#Via M.Bellonci,18/A #Mangiolino#0532.756175 #Pazzi Barbara #$Pizzeria##44.842497$11.643105
+Emilia Romagna#Ferrara#Via Fondo Banchetto, 2/a #Zafferano Ristorante#0532.763492 #Angelini Stefania #$Ristorante#www.zafferanoristorante.it #
+Emilia Romagna#Lido Estensi#Via Spiaggia,13 #Bagno Astra#0533.327953 #Bigoni Roberta #$Ristorante$Bar##44.66957$12.24546
+Emilia Romagna#Lido Estensi#Viale delle Querce, 109 #Osteria dei Golosi#0533.993869 #Brancato Ignazio #$Ristorante#www.osteriadeigolosi.it #
+Emilia Romagna#Renazzo-Cento#Via Tassinari, 30 #La Pergola#051.909124 #Gallerani Mirco #$Ristorante$Pizzeria##
+Emilia Romagna#S. Agostino#Via Canale Angelino, 4/a #C'Era Una Volta Il West#0532.350299 #Goretti Valter #$Pizzeria#www.ceraunavoltailwest.it #
+Emilia Romagna#S. Egidio#Via Rocca, 69 #La Rocchetta#0532.725824 #Piffanelli Franca Elsa #$Agriturismo##44.73756$11.67177
+Emilia Romagna#Campazzo di Nonantola#Via Farini,82 #Trattoria del Campazzo#059.547552 #Soncini Gianluca #$Ristorante##44.7003$11.03525
+Emilia Romagna#Carpi#Via Nuova Ponente 22/a #Guado#059.645733 #Folloni Marco #$Ristorante$Pizzeria##
+Emilia Romagna#Colombaro di Formigine#Via Maestri del Lavoro, 16 #Antica Pieve#059.553040 #Bacile Vincenzo #$Ristorante$Pizzeria##
+Emilia Romagna#Faidello-Fiumalbo#Via Giardini, 281 #Albergo K 2#0536.73913 #Latini Alice #$Hotel$Ristorante$Bar##44.18065$10.64466
+Emilia Romagna#Fanano#Via Don Battistini 20 #Lo Chalet#0536.68442 #Zanarini Marzia #$Ristorante$Pizzeria##
+Emilia Romagna#Farneta di Montefiorino#via Palloncino,2 #Al Ciocco#0536.974018 #Costi Gabriella #$Hotel$Ristorante#www.alciocco.com #44.34721$10.5687
+Emilia Romagna#Formigine#Via Quattro Passi 21 #Harlow#059.5750204 #Muzzarelli Stefano #$Ristorante$Pizzeria##
+Emilia Romagna#Modena#Via Mar Mediterraneo, 6 #Anissa#059.252392 #Veipi Bardhyl #$Pizzeria##44.653131$10.944679
+Emilia Romagna#Modena#Via P. Giardini, 739 #Le Macine#059.344646 #Santelia Pasquale #$Pizzeria#www.lemacineristorante.it #
+Emilia Romagna#Modena#Largo Hannover,63 #Osteria Stallo del Pomodoro#059.214664 #Telloli Massimiliano #$Ristorante$Enoteca##
+Emilia Romagna#Montecenere di Lama Mocogno#Via Torre, 5 #Bacio del Cimone - Prosciutteria#0536.41662 - 335.6771487 #Baldoni Raffaella #$Ristorante##
+Emilia Romagna#Montombraro di Zocca#Via della Piscina 109/b #Cuenca Club#059.989118 #Dotolo Mariarosa #$Ristorante$Pizzeria#www.piscinadimontrombraro.it #
+Emilia Romagna#Monzone di Pavullo#Via per Montecenere,30 #Casa Minelli#0536.41580 #Chesi Graziella #$Agriturismo##
+Emilia Romagna#Nonantola#Via Costa, 6/1 #La Bodeguita#059.546858 #Poggi Andrea #$Ristorante$Pizzeria##
+Emilia Romagna#Pavullo nel Frignano#Via Fondovalle Panaro, 39 #Da Martino#0536.48062 #Verardi Patrizia #$Ristorante$Pizzeria##
+Emilia Romagna#Sassuolo#Via Pia, 183 #Aragosta#0536.805153 #Comentale Gaetano #$Ristorante$Pizzeria##
+Emilia Romagna#Sassuolo#Via Ancora, 378 #Harlow Sassuolo#0536.806422 #Muzzarelli Christian #$Pizzeria#www.pizzeriaharlow.it #
+Emilia Romagna#Sestola#Via Poggioraso, 88 #Al Poggio#0536.61147 #Bettini Mariarosa #$Hotel$Ristorante##44.23659$10.78556
+Emilia Romagna#Vignola#Via A. Plessi,3 ant.D #Bar Plessi#059.765900 #Piccioli Anna #$Ristorante##
+Emilia Romagna#Agazzano#P.zza Europa, 26 #Fricandò il Ristolocale#340.6970402 #Molaschi Stefania #$Ristorante##
+Emilia Romagna#Cadeo#Str. Del Riglio - Loc. Scottina #Relais Cascina Scottina/R.Ant.Ost.della Pesa#0523.504232 #Cesena Claudio Note:  #$Hotel$Ristorante##
+Emilia Romagna#Gazzola#Loc. Tuna, 48 #La Locanda#0523.978103 #Gambino Maria Pia #$Ristorante##
+Emilia Romagna#Piacenza#Via Trebbia, 22 #Trattoria del Borgo#0523.484176 #Androni Simona #$Ristorante#www.tdb-trattoriadelborgo.it #
+Emilia Romagna#Quarto di Gossolengo#Via Terracini, 10 #Molto Pizza#0523.557132 #Mirashi Arjan #$Ristorante$Pizzeria##
+Emilia Romagna#Corcagnano#Via Langhirano, 431 #Il Don Giovanni#0521.1715291/347.0602635 #Bossi Stefano #$Ristorante$Pizzeria##
+Emilia Romagna#Fidenza#Via Tabiano ,58 #Il Tondino#0524.62106 #Bertoletti Andrea #$Agriturismo##44.78223$10.061
+Emilia Romagna#Lemignano di Collecchio#Via Spezia, ang. Via Antolini #Timeout#0521.804503 #Galati Francesco #$Ristorante$Pizzeria#www.ristorantetimeout.it #
+Emilia Romagna#Mamiano di Traversetolo#str. Dei Mulini,3 #Il Mulino di Sopra#0521.848185 #Polizza Ilenia #$Ristorante##44.64122$10.37942
+Emilia Romagna#Parma#Via P. Torelli, 1/a #Al Petitot#0521.235594 #Tagliaferro Angelita #$Ristorante$Pizzeria$Bar##
+Emilia Romagna#Parma#Borgo Paglia, 3 #Il Cortile#0521.285779 #Rossi Mauro/Apicella Maria #$Ristorante##
+Emilia Romagna#Parma#Via XX Settembre, 3/A #Savoy#0521.281101 #Garioni Alessandra #$Hotel##
+Emilia Romagna#Roncole Verdi#Via della Processione,179 #Le Roncole#0524.930015 #Pedretti Carduccio #$Ristorante##
+Emilia Romagna#S. Andrea Bagni#Via Circonvallazione, 51 #Andrea's#0525.431818 #Vivant Valter #$Ristorante$Pizzeria##
+Emilia Romagna#San Prospero#Via Emilio Lepido 285 #Ligabue#0521.645101 #Zhou Shaofel #$Ristorante$Pizzeria##
+Emilia Romagna#Cà di Lugo - Lugo#Via Fiumazzo, 176 #Osteria del Tempo Perso#0545.73069 #Parrucci Candido #$Ristorante$Pizzeria##
+Emilia Romagna#Cervia#Viale Italia, 92 #Ca' D'oro#0544.71939 #Martelli Gabriele #$Hotel##
+Emilia Romagna#Cervia#Via Caduti per la Libertà,85 #La Fontanina#0544.971828 #Convertino Vitantonio #$Ristorante$Pizzeria##
+Emilia Romagna#Cervia#L.re D'Annunzio, 26 #Re Sale e Regina Salina#0544.970442/335.375316 #Fabbretti Katia #$Ristorante$Pizzeria#www.emmehotels.com #
+Emilia Romagna#Cotignola#Via Madrara, 1 #Ponte di Ferro#0545.992464 #Pagani Roberto #$Pizzeria##
+Emilia Romagna#Faenza#Via Firenze, 561 #Jack#0546.43071 #Baruzzi Christian #$Ristorante$Pizzeria##
+Emilia Romagna#Lido di Savio#Via Marina, 5 #Ai Pioppi#0544.948000 #Capatti Marcello #$Ristorante$Pizzeria##
+Emilia Romagna#Lugo#V.le degli Orsini,5 #Tatì#0545.25901 #Balbi Luca/Arbia Andrea #$Pizzeria##
+Emilia Romagna#Marina di Ravenna#Via Lungomare, 80 #Bagno Luana Beach#0544.531156 #Spada Gabriella #$Ristorante##
+Emilia Romagna#Marina Romea#V.le Italia, 46 #Bagno Malaika#0544.446368 #Giacobbi Mara #$Ristorante##
+Emilia Romagna#Punta Marina Terme#Lungomare C. Colombo, 24 #Bagno Vela#0544.438789 #Montroni Bruna #$Ristorante#www.bagnovela.it #
+Emilia Romagna#Punta Marina Terme#V.le delle Ondine, 11 #H. Ambra/Rist. Eulalia#0544.437108/437421 #Scollo Eulalia #$Hotel$Ristorante$Pizzeria#www.ristoranteeulalia.it #
+Emilia Romagna#Ravenna#Via Masotti, 2 #Cube#0544.464691 #Bacchilega Marianna #$Hotel##
+Emilia Romagna#Ravenna#Via Marconi, 57 #Il Brigantino#0544.402598 #Amadori Angelo #$Ristorante$Pizzeria#www.ilbrigantino.org #
+Emilia Romagna#Santerno#Via Canala, 355 #Vecchiacanala#0544.417245 #Piani Federica #$Ristorante$Ristorante#www.vecchiacanala.it #
+Emilia Romagna#Tagliata di Cervia#Viale Italia, 368 #Ranch#0544.987355 #Buda Alessandro #$Ristorante##44.22669$12.3802
+Emilia Romagna#Bagno#Via Lasagni,29 #Villabagno#0522.343188 #Bonacini Giordano #$Agriturismo##
+Emilia Romagna#Caprara Campegine#Via Nenni, 2/b #Il Porto#0522.676625 #Baldelli Liliana #$Ristorante##
+Emilia Romagna#Casalgrande#Via del Bosco, 14 #Gianni#0536.823379 #Fontanesi Rossano #$Ristorante$Pizzeria#www.gianniristorante.it #
+Emilia Romagna#Guastalla#Via Sacco e Vanzetti, 2/g #La Mandragola#0522.219810 #Ciervo Valerio #$Ristorante#www.lamandragola.it #
+Emilia Romagna#Montecchio Emilia#Via Montegrappa,30 #La Grattugia#0522.871520 #Bonati Maria Teresa #$Ristorante##
+Emilia Romagna#Puianello#Via C. Marx, 29/B #Il Pomodorino#0522.880374/334.1720396 #Palumbo Roberto Note:  #$Pizzeria##
+Emilia Romagna#Reggio Emilia#Via Martiri di Cervarolo, 76 #Amarcord#0522.555017 #Campani Stefano #$Ristorante$Pizzeria##
+Emilia Romagna#Reggio Emilia#Via Fratelli Cervi, 40/b #Twiga#0522.791029 #Cucinelli A./Calabrese G. #$Pizzeria##
+Emilia Romagna#Reggio Emilia-Canali#Via Monterampino,6 #La Razza#0522.599342 #Zoboli Paolo #$Agriturismo##
+Emilia Romagna#Salvaterra di Casalgrande#Via Reverberi, 30 #La Pantera Rosa#0522.849988 #Attilio Romano #$Ristorante$Pizzeria##
+Emilia Romagna#Vezzano sul Crostolo#Via Caduti della Bettola, 119 #Podere Elisa#0522.200014 #Brancatelli Giovanni #$Ristorante##
+Emilia Romagna#Bellaria#L.re Colombo,21 #Aurea#0541.345665 #Quadrelli Sonia #$Hotel##
+Emilia Romagna#Bellaria#Via Pirano,3 #Club Hotel Angelini#0541.345001 #Angelini Luca #$Hotel##
+Emilia Romagna#Bellaria Igea Marina#Via Tacito, 10 #Hotel Chris#0541.330354 #Scarabelli Fiorangela #$Hotel##
+Emilia Romagna#Bellaria Igea Marina#Via Panzini,73 #Imperiale#0541.344122 #Magnani Fabrizio #$Hotel#www.nellyhotels.com #
+Emilia Romagna#Bellaria Igea Marina#Via Panzini,150 #Taverna da Bruno#0541.344556 #Giannotte Matteo #$Ristorante$Pizzeria##
+Emilia Romagna#Cattolica#Via Rossini, 16 #L'Anfora#0541.953702 #Massalini Michele #$Ristorante$Pizzeria##
+Emilia Romagna#Cerasolo di Coriano#Via Ausa, 138 #Pizz'Osteria da Mazza#0541.759060 #Mazza Fabio e Marco #$Ristorante$Pizzeria##
+Emilia Romagna#Croce di Montecolombo#Via Canepa, 172 #Villa Leri#0541.985262 #Grossi Barbara Note:  #$Hotel$Ristorante##
+Emilia Romagna#Igea Marina#V.le Pinzon, 72 #Internazionale#0541.331447 #Zavatta Rosella #$Hotel##44.14059$12.47605
+Emilia Romagna#Igea Marina#Via Tibullo,28 #Missouri#0541.331730 #Magnani Delia #$Hotel##
+Emilia Romagna#Miramare di Rimini#V.le Tirrenia,7 #Albergo Sabrina#0541.372213 #Falconi Maria Paola #$Hotel##
+Emilia Romagna#Misano Adriatico#Via Scacciano, 15 #I Due Fratelli#0541.606363 #Giovanetti Marco #$Ristorante$Pizzeria##
+Emilia Romagna#Misano Adriatico#S.S. Adriatica, 11 #L'Angelo Azzurro#0541.615341 #Mezzanotti Elena #$Ristorante$Pizzeria##
+Emilia Romagna#Monte Colombo#Via Sarciano, 5 #I Muretti#0541.985146 #Varo Ilia #$Agriturismo#www.imuretti.net #
+Emilia Romagna#Riccione#Via Tasso, 137  #Laila#0541.640626 #Di Luca Maddalena #$Hotel##44.01196$12.64486
+Emilia Romagna#Riccione#V.le Tasso, 40 #Niagara#0541.648664 #Dettori Anna #$Hotel##
+Emilia Romagna#Riccione#Passeggiata Goethe, 10 #Sirena#0541.660416 #Filipucci Ezio #$Ristorante##
+Emilia Romagna#Rimini#V.le Cristoforo Colombo, 4 #Bikini#0541.25700 #Ligi Barbara #$Hotel##
+Emilia Romagna#Rimini#V.le Vespucci, 46 #Corallo#0541.390732 #Rivi Fabio #$Hotel$Ristorante##
+Emilia Romagna#Rimini#Via Circon.ne Meridionale, 28 #Da Biagio#0541.782403 #Biagetti Enrico #$Trattoria$Pizzeria##
+Emilia Romagna#Rimini#Via Della Fiera, 103 #Matiss#0541.776060 #Parere Ivan #$Ristorante$Pizzeria##
+Emilia Romagna#Rivabella di Rimini#Via XXV Marzo, 21 #Brezza#0541.732327 #Bernardi Gisberto #$Hotel##44.077967$12.550356
+Emilia Romagna#Villa Verucchio#Via Tenuta, 53 #Al Pesce Azzurro#0541.678237 #Accetta Antonio #$Ristorante##
+Emilia Romagna#Viserba di Rimini#Via Dati, 182 #Aurora#0541.738337 #Guidi Francesco #$Hotel#www.haurora.it #
+Emilia Romagna#Viserbella#Via S. Cenci,1 #Cadiz#0541.721713 #Ricci Wilma #$Hotel#www.hotelcadiz.it #

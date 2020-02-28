@@ -1,0 +1,106 @@
+Veneto#Belluno#Via Anconetta, 8 #Al Borgo#0437.926755 #Viel Luca #$Ristorante##
+Veneto#Belluno#Via Travazzoi, 8 #Zodiaco#0437.941478 #Fusco Antonio #$Ristorante$Pizzeria##46.14474$12.20375
+Veneto#Cencenighe#Via Roma, 62 #Da Makram#0437.580328 #Sergi Patrizia #$Ristorante$Pizzeria##
+Veneto#Chies d'Alpago#Via Don Ermolao Barattin, 23 #San Martino#0437.40111 #Barattin Norina e Gabriella #$Ristorante$Bar##
+Veneto#Cortina d'Ampezzo#Via G. Marconi, 8 #Al Passetto#0436.2254/335.8110650 #Ghedina Giorgio #$Ristorante$Pizzeria#www.alpassettoghedina.it #
+Veneto#Limana#Via Triches, 25 #L'Oasi#0437.967298 #Cavalet Mauro #$Trattoria##
+Veneto#Pieve di Cadore#Via Nazionale, 4 #Cavallino#0435.500467 #Vecellio Antonio #$Hotel$Ristorante##46.42806$12.37284
+Veneto#Pieve di Cadore#Via XX Settembre, 50 #Mangia la Foglia#0435.31012 #Michela Maggiolini #$Ristorante##
+Veneto#Sappada#Via Borgata Bach,155 #Bladen#0435.469233 #Solero Alessandro Note:  #$Hotel$Ristorante##46.56346$12.68398
+Veneto#Cadoneghe#Via L. Bordin, 39 #Silvio#049.702150 #Poletto Livia #$Pizzeria$Trattoria##45.44789$11.90015
+Veneto#Campodarsego#Via Antoniana, 230 #Ariston#049.9314401 #Golirni Alessandro Note:  Prezzo min/max:  #$Hotel##
+Veneto#Campodarsego#Via Antoniana, 232 #Recanto c/o H. Ariston#049.5566306 #Golirni Alessandro #$Ristorante##
+Veneto#Caselle di Selvazzano Dentro#Via Pelosa, 50 #Piadineria Zio Toni#049.8976250 #Padoanello Antonio #$Ristorante$Pizzeria##45.41083$11.81528
+Veneto#Cittadella#Via Ca' Nave, 2/d #Torre di Malta#0499.401761 #Peruzzo Francesca #$Ristorante#www.ristorantepizzeriatorredimalta.it #
+Veneto#Este#Via Atheste, 44/d #Strapizzami#042.955894 #Giovaniello Carmela #$Pizzeria#www.strapizzami.com #
+Veneto#Montegrotto Terme#Corso delle Terme, 108/a #Caffè del Corso#340.2952513 #Vettore Elisabetta #$TavolaCalda##
+Veneto#Montegrotto Terme#Corso Terme, 7 #Hotel Garden Terme#049.8911699 #Gottardo Gianni #$Hotel$Ristorante##
+Veneto#Padova#P.zza Petrarca, 8 #Al Carmine#049.8764952 #Alessandro Golirni #$Ristorante$Pizzeria##
+Veneto#Padova#Via P. Bronzetti, 18 #Bastioni del Moro#049.8710006 #Toniolo Alessia #$Ristorante#www.bastionidelmoro.it #
+Veneto#Padova#Via A. da Bassano, 45-47 #Da Nadia#049.8641661 #Casanova Giuseppe #$Hotel$Ristorante$Pizzeria##
+Veneto#Padova#Piazzale Pontecorvo, 10 #Per Bacco#049.8752883 #Carraro Loris #$Ristorante#www.per-bacco.it #
+Veneto#Peraga di Vigonza#Via Germania, 9 #Le Midì Ristoservice#049.629675 #Toniolo Matteo #$Ristorante$TavolaCalda#www.lemidi.it #
+Veneto#Piazzola sul Brenta#Via delle Logge Palladiane, 6 #Alle Logge#049.9601432 #Mescolin Mario #$Ristorante#www.ristoranteallelogge.it #
+Veneto#Saccolongo#Via Roma, 4 #Il Console#049.8016648 #Vincenzo Allegra #$Ristorante##
+Veneto#Torreglia#Via S. Daniele, 39 #La Griglia#049.5211158 #Tramontan Valerio #$Ristorante##
+Veneto#Vigorovea#Via Trieste, 1 #Papillon#049.9701891 #Maniero Elvio #$Pizzeria##
+Veneto#Arquà Polesine#Via Valmolin inf. Dx, 340/1 #Ostello Canalbianco#0425.465213-346.6650573 #Caniato Luca #$Albergo$Ristorante#www.ostellocanalbianco.it #
+Veneto#Arquà Polesine#Via Quirina, 4 #Trattoria degli Amici#0425.91045 #Chiarion Nicola #$Ristorante#www.trattoriadegliamici.it #
+Veneto#Castelmassa#Via Ferrari, 15/a #Negri Ricevimenti#329.2120805 #Negri Luisa #$Catering##
+Veneto#Costa di Rovigo#P.zza San Rocco,41 #La Rosa#0425.497197/348.2948822 #Ernesto e Carla #$Pizzeria##45.04904$11.69449
+Veneto#Fratta Polesine#Via S. Giorgio, 188 #Villa Gardenia#0425.668497 #Bonaguro Annalisa #$Ristorante#www.villa-gardenia.it #
+Veneto#Rosolina Loc. Volto#Via S. Teresa, 27 #Al Bocon#0426.666124 #Crivellari Simonetta #$Ristorante#www.ristorantealbocon.it #
+Veneto#Rovigo#Via Petrarca, 20 #Re Artù#0425.33330 #Caovilla Jacqueline #$Pizzeria##
+Veneto#Taglio di Po#Via Milite Ignoto, 99 #Osteria La Pioppa#0426.660440 #Moretti Rita #$Ristorante##
+Veneto#Trecenta#Via Argine Circondario, 255 #Al Villaggio#0425.712177 #Romani Francesca #$Albergo$Pizzeria$Ristorante#www.alvillaggio.com #
+Veneto#Asolo#Via Schiavonesca Marosticana, 15 #Villa Razzolin Loredana#0423.951088 #Pusceddu Piero #$Ristorante$Catering##
+Veneto#Breda di Piave#Via Giuseppe Garibaldi, 44 loc. Pero #Da Teddy#042.2904418 #Sottosanti Taddeo #$Trattoria$Pizzeria##
+Veneto#Castelcucco#Viale Montegrappa, 8 #Montegrappa#0423.563123 #Bolzon Luca #$Hotel$Ristorante$Pizzeria#www.hotelmontegrappa.it #
+Veneto#Dosson di Casier#Via Marie, 3 #Osteria alla Pasina#0422.382112 #Simone #$Ristorante#www.pasina.it #
+Veneto#Monastier di Treviso#P.zza Lancieri di Milano, 11 #Da Roberto#0422.898232 #Pillon Nicola #$Ristorante$Pizzeria##
+Veneto#Montebelluna#Via Feltrina Sud, 181 #Al Grappolo d'Oro#0423.303516 #Martignago Adriano #$Pizzeria#www.grappolodoro.com #45.77027$12.07583
+Veneto#Nervesa della Battaglia#Via Frati, 1 #Bosco della Serenissima#0422.885432 #Giacomazzi Nada #$Pizzeria#www.boscodellaserenissima.com #
+Veneto#Olmi di S. Biagio di Callalta#S.S. Postumia km.66,700 #Zona Franca#0422.842212 #Chieregato Cosetta #$Pizzeria#www.zonafranca.it #
+Veneto#Pieve di Soligo#Via Tacchini, 45 #Agli Angeli#0438.1794966 #Casagrande Nicola #$Pizzeria#www.angeli.it #
+Veneto#Preganziol#Via Terraglio, 249 #L'Albera di Zeus#0422.1721856 #Carotenuto Giovanni/Basso Silvia #$Pizzeria#zeuspizza@libero.it #
+Veneto#Roncade#Via Roma, 48 #Pasqualino 90#0422.708377 #Mansi Pasquale #$Ristorante$Pizzeria##
+Veneto#S. Zenone degli Ezzelini#Via Marconi,55 #Ezzelino#0423.964070 #Caraccioli Vladi #$Hotel$Ristorante$Pizzeria##
+Veneto#Treviso#Via T. Salsa, 351/G #Conca d'Oro#0422.420623 #Vasta Vincenzo #$Bar$TavolaCalda##
+Veneto#Treviso#Via S. Ambrogio da Fiera, 3/b #Grigio Perla#0422.541456 #Pennetta Matteo #$Pizzeria##
+Veneto#Vittorio Veneto#Via Dalmazia,120 #Europa#0438.59890 #Andreello Vittorina #$Pizzeria##45.99095$12.30516
+Veneto#Vittorio Veneto#Via Pontavai, 102 #Giancarlo#0438.1791902 - 348.0177072 #Rizzo Giancarlo/Tavanier D. #$Ristorante##
+Veneto#Bibione#Via Delle Colonie 2 #Al Villaggio c/o V.T.I.#0431.442630 #Querin Anna Maria #$Ristorante$Pizzeria#www.vti.it #
+Veneto#Caorle#Via dei Calamari, 6 #Hotel Angelo#0421.211728 #Nicora Claudia #$Hotel##
+Veneto#Caorle#L.re Trieste, 48 #Hotel Doriana#0421.81104 #Gambato Doriana #$Hotel##
+Veneto#Cavallino Treporti#Via Fausta, 266 #Ai Pini c/o Union Lido#041.968297 #Gobbo Emanuele Note: (da ott a apr) Chiusura:mar a c e gio #$Ristorante##
+Veneto#Cavallino Treporti#Via Fausta, 258 #Al Mare c/o Union Lido#041.658917 #Castelli Andrea #$Ristorante##
+Veneto#Cavallino Treporti#Via Fausta, 245 #Alla Fattoria c/o Union Lido#041.968376 #Nardini Paola #$Ristorante#www.lafattoria.it #
+Veneto#Cavallino Treporti#Via Fausta, 270 #Art & Park Union Lido Hotel#041.968043 #Ballarin Andrea #$Hotel##
+Veneto#Cavallino Treporti#Via Fausta, 258 #Cavallo Marino c/o Union Lido#041.5370840 #Salvalaio Paolo #$Ristorante##
+Veneto#Cavallino Treporti#Via Fausta, 258 #Riviera c/o Union Lido#041.5371344 #Memo Luciana #$Ristorante##
+Veneto#Jesolo#Via Roma Sinistra, 25 #da Guido#0421.350380 #Fasan Andrea #$Ristorante#www.ristorantedaguido.com #
+Veneto#Jesolo Lido#Via Gorizia, 31 #Hotel Domingo#0421.971922 #Pasqualinotto Luigi #$Hotel##
+Veneto#Jesolo Lido#Via Bafile, 538 #Hotel Imperia#0421.370718 #Faloppa Angelo #$Hotel##
+Veneto#Jesolo Lido#Via Treviso, 9/11 #Hotel Universo#0421.972298 #Polesello Gianfranco #$Hotel##
+Veneto#Marghera#Via Catene, 24 #Nova Catene#041.922607 #Esposito Giovanni #$Ristorante$Pizzeria##
+Veneto#Mestre#C.so del Popolo, 37 #Al Corso#041.981642 #Cassano Antonio #$Pizzeria##
+Veneto#Mestre#via A. Ceccherini, 21 #Novotel Venezia/Novotelcafé#041.5066511 #Paglialonga Roberto Note:  #$Hotel$Ristorante##
+Veneto#Mira#Riviera S. Trentin, 13 #Isola di Caprera#041.4265255 #Frezza Roberto #$Hotel#www.isoladicaprera.com #
+Veneto#Musile di Piave#Via Fossetta, 31 #Antica Trattoria alla Fossetta#0421.330296 #Doretto Alessandro #$Ristorante$Bar#www.fossetta.it #
+Veneto#Peseggia#Via Vecchia Moglianese, 186 #La Torre#041.5830590 #Buonocore Pietro #$Pizzeria##
+Veneto#S. Giuliano - Venezia#Via Orlanda, 4 #Russott Hotel Venezia#041.5310500 Persona/e di riferimento:  Note:  #45 #$Hotel$Ristorante##
+Veneto#Salzano#Via Roma, 234 #Belfiore#041.437010 #Preo Denis #$Pizzeria#www.belfiorehotel.it #
+Veneto#Spinea#Via Roma ,32 #All'Antico Graspo d'Uva#041.992759 #Merlo Claudio #$Pizzeria##45.49277$12.16221
+Veneto#Venezia#Rio terrà de La Madalena, 2103 Cannaregio #da Poggi#392.6818463 #Aldreghetti Stefano #$Ristorante#www.ristorantedapoggi.it #45.443515$12.330695
+Veneto#Zelarino#Via Castellana, 105 #Aromatica#320.0709961 #Pacchiele Francesca #$Ristorante#www.aromaticaristorante.com #
+Veneto#Asiago#Via Rendola, 41 #Albergo Rendola#042.4464148 #Carraro Pino #$Albergo$Ristorante$Pizzeria##
+Veneto#Asiago#Via 4 Novembre, 77 #La Tana c/o Sporting Residence H. Asiago#0424.462521 #Dal Degan Alessandro #$Ristorante##
+Veneto#Asiago#Via 4 Novembre, 77 #Sporting Residence Hotel#0424.462177 #Fracaro Stefano #$Hotel##
+Veneto#Caldogno#Via Cà Alta, 111 #Al Marinante#0444.986039 #Boscolo Roberto #$Ristorante#www.almarinante.it #
+Veneto#Caldogno#Via Giaroni, 116 #Molin Vecio#0444.585168 #Boschetto Sergio #$Trattoria#www.molinvecio.it #45.60833$11.50944
+Veneto#Cismon del Grappa#Via Giarre di Sicilia, 5 #Val Goccia#0424.432126 #Alessio Monica #$Ristorante$Pizzeria#www.valgoccia.com #
+Veneto#Cornedo Vicentino#Via V. Alfieri,1  #Metrò#0445.430435 #Crestani Michele e Marina #$Pizzeria#www.barpizzeriametro.it #45.62108$11.32043
+Veneto#Costabissara#Via Mazzini, 8/10 #Ca' Nostra#0444.971181 #Crosara Stefano #$Pizzeria##
+Veneto#Mason Vicentino#Via S. Pietro, 6 #Icio & Paola#0424.708232 #Zorzo Fabrizio #$Pizzeria##
+Veneto#Montemezzo di Sovizzo#Via Fontanalunga, 13 #La Grippia#0444.551011 #Selena Folco #$Pizzeria##
+Veneto#Monticello Conte Otto#Via Revoloni, 2 #Ristorante Hotel Rizzi#0444.946099 #Rizzi Giancarlo #$Hotel$Ristorante$Pizzeria##
+Veneto#Noventa Vicentina#Via Bergoncino, 1 #LG#0444.887690 #Campesato Lino #$Pizzeria##
+Veneto#Recoaro Terme#Via Roma, 19 #La Linte#0445.75566 #Grendele Stefano #$Ristorante##
+Veneto#Romano d'Ezzelino#Via Barbarigo, 13 #Al Pioppeto#0424.570502 #Campagnola Andrea #$Ristorante$Catering##
+Veneto#Romano d'Ezzelino#Via Valle S. Felicita, 14 #Dalla Mena#0424.36481 #Zappia Massimo #$Albergo$Ristorante##
+Veneto#Sandrigo#Via Chiesa, 7/a fraz. Lupia #La Colombara#0444.750767 #Mendo Bice #$Ristorante$Pizzeria##
+Veneto#Vicenza#c.da Pedemuro S. Biagio,92 #Antico Guelfo#0444.547897 #Balbi Elena #$Ristorante#www.anticoguelfo.it #45.54947$11.54166
+Veneto#Vicenza#Via Cà Balbi, 377 #Giorgio e Chiara#0444.911004 #Zenaro Chiara #$Pizzeria##
+Veneto#Bosco Chiesanuova#Via M. Piccoli, 61 #Lenci Tre#045.7050057/346.1811249 #Benedetti Fernando #$Pizzeria##
+Veneto#Caprino Veronese#Via Pertini 10/h #Athena#045.6230813 #Centomo Giovanni #$Pizzeria##
+Veneto#Caselle di Sommacampagna#Via Tezze, 82 #da Brinchi#045.8581106 #Toffalori Diego/Sartori Erika #$Trattoria#www.trattoriadabrinchi.com #45.41448$10.89268
+Veneto#Castel D'Azzano#Via Pietro Mascagni, 92 #Ventaglio#045.512591 #Ischia Renè #$Pizzeria#www.pizzerialventaglio.it #
+Veneto#Cologna Veneta#Via S.Andrea 27 #Acquario#0442.85667 #Fiumicetti Simone #$Pizzeria##
+Veneto#Montecchia di Crosara#Via Campitelli, 1 #Tregnago#045.7460036 #Tregnago Fabrizio e Daniela #$Ristorante#www.ristorantetregnago.com #
+Veneto#Palazzolo di Sona#Via Prele, 48 #Cà Fileno#045.6080891 #Conti Piergiorgio #$Ristorante#www.ristorantecafileno.com #
+Veneto#Peschiera del Garda#Lungolago Mazzini, 1 #Bellavista#045.7553252 #Zailli Laura #$Pizzeria##
+Veneto#S. Zeno di Colognola ai Colli#Via Cesare Battisti #La Fenice#045.6152686 #Framarin Maria Teresa #$Pizzeria$Trattoria##
+Veneto#Verona#Via Don Carlo Steeb, 25 #Fata Zucchina#045.597897 #Braioni Nazarena #$Ristorante$Catering#www.sucabaruca.com #
+Veneto#Veronella#Via O. Fontana #Prima o poi#0442.480130 #Diamante Andrea #$Pizzeria##45.32126$11.32508
+Veneto#Villafranca di Verona#Via della Pace, 137 #Il Gargano#045.6301800 #Valenzano Cristoforo #$Ristorante#www.ristoranteilgargano.com #
+Veneto#Villafranca di Verona#Via Nino Bixio, 370 #La Filanda#045.6303583 #Manzato Cristina #$Trattoria#www.osterialafilanda.com #

@@ -1,0 +1,41 @@
+Umbria#Assisi#Via del Paduletto, 24 #Agrit. Tordoni Daniela#075.8065810 Persona/e di riferimento:  #Chiusura:lun #$Agriturismo##
+Umbria#Assisi#Via P. d'Italia, 39 #Villa Cherubino#075.8040226 #Cappucci Paolo #$Ristorante##
+Umbria#Bastia Umbra#Via S. Lucia, 34 #Pane e Ciliegie#075.8004959 #Branchinelli Simona #$Catering#www.paneeciliegie.it #43.066865$12.548515
+Umbria#Bastia Umbra#Strada Assisiana,147 - Bastiola #Villa Rabasco#075.8010011 #Rabasco Canio #$Hotel$Ristorante##
+Umbria#Bevagna#Via Dante Alighieri, 1 #Redibis#0742.360130 #Falcone Antonio #$Ristorante##
+Umbria#Cannara#Via Baglioni #In Bocca al Lupo#0742.730004 #Zurino Antonio Note:  #$Ristorante##
+Umbria#Casalina#Via della Rocca, 2 #Country House L'Antico Forziere#075.9724314 #Rodella Stefano #$Ristorante#www.anticoforziere.it #
+Umbria#Castiglione del Lago#Via Vitt. Emanuele, 91 #H. Aganoor/R. La Cantina#075.9652463 #Gasparella Daniela #$Hotel$Ristorante##
+Umbria#Castiglione del Lago#Loc. Isola Polvese #Isola Polvese#075.9659545 #Morganti Matteo #$Ristorante##
+Umbria#Castiglione del Lago#Via Divis. Partigiani Garibaldi #La Pigra Tinca#075.9652480 #Iaquinta Carmela #$Ristorante##
+Umbria#Cenerente#Str. Forcella, 49/a #Poggio del Sole#075.690752/349.7845333 #Lucaroni Paolo #$Ristorante$Pizzeria##
+Umbria#Ellera di Corciano#Via Juri Gagarin #Revolution Restaurant#075.5170367 #Rizzo Gaetano #$Ristorante$Pizzeria$SalaRicevimento##
+Umbria#Fighille#Loc. Petriolo #L'Isola Che Non C'è#0758.593336 #Giovagnoli Graziano #$Ristorante$Pizzeria##
+Umbria#Foligno#P.zza don Minzoni, 1-3 #Premiata Officina del Gusto#074.2620452 #Berti Paolo #$Ristorante##
+Umbria#Foligno#Giacomini, 44 #Voglia di Pizza#0742.342371 #Marchitelli Luigi #$Pizzeria##
+Umbria#Gualdo Tadino#Via G. Matteotti, 80 e Loc.Valsorda #Da Clelia#075.913261 - 075.916232 #Maurizio Minelli #$Ristorante##43.22976$12.78575
+Umbria#Gubbio#Via della Repubblica, 41 #Alla Balestra#075.9273810 #Paciotti Marco #$Ristorante$Pizzeria##43.35223$12.57856
+Umbria#Gubbio#Via Cairoli 24 #San Francesco e il Lupo#075.9272344 #Manucci Alessandro #$Ristorante$Pizzeria##
+Umbria#Perugia#Via Corcianese,260 #Golf Hotel Quattrotorri#075.5171722 #Guglielmelli Bianca #$Hotel$Ristorante##43.08293$12.31911
+Umbria#Perugia#Via Agostino di Duccio, 1 #Ilgo Hotel-I Girasoli#075.5736641 #Esther Alva #$Albergo$Ristorante##
+Umbria#Perugia#Via Settevalli, 838 - Loc. Pila #La Luna Nel Pozzo#075.5287839 #Brizzi Pietro #$Ristorante$Pizzeria##
+Umbria#Perugia#P.zza Danti (Pozzo Etrusco) #Les Crè Fantastique#392.5742917 #Conte Monica Claudia #$Ristorante##
+Umbria#Perugia#Via Pontani,15 #S. Martino RO.ME.#075.5053366 #Rossi Leonardo #$Ristorante##
+Umbria#Perugia#C.so Garibaldi, 15 #Tuttotesto#0755.736666 #Tacconi Chiara #$Ristorante$Creperia##
+Umbria#Perugia#Str. Fratticciola,2 #Villa Taticchi-Agrit. Il Covone#075.694503 #Taticchi Francesca #$Ristorante$Agriturismo##
+Umbria#Perugia#Strada Bellocchio S. Faustino, 54 #Zero7Cinque#075.5058294 #Mion Massimo #$Ristorante$Pizzeria##
+Umbria#Perugia- loc. Ponte Valleceppi#Strada di Montalcino, 2/A #Pegaso-Hotel Vega#075.6929534 #Mariani Ivana #$Hotel$Ristorante$Pizzeria##43.11457$12.46017
+Umbria#S. Anatolia di Narco#P.zza del Convento,4 #Country Resort Con.to di S.Croce#0743.618305 #Mari Loredana #$Ristorante##
+Umbria#San Terenziano#Via Collazzone,11/2 #Alla Casella#0742.98989 #Falchetti Luca #$Ristorante##42.86337$12.47145
+Umbria#Spoleto#Loc. Poreta, 1 #Borgo della Marmotta#0743.274137 #Copolutti Irene #$Agriturismo##
+Umbria#Spoleto#P.zza Sordini,6 #Clitunno#0743.223340 #Tomassoni F.sco #$Ristorante##
+Umbria#Spoleto#V.le Martiri della Resistenza, 51 #Le Logge#0743.225225 #Rosati Paola #$Ristorante$Pizzeria##
+Umbria#Spoleto#Loc. S. Pietro #S. Pietro#0743.46788 #Viola Roberta - Buccai Giorgio #$Ristorante$Pizzeria##42.72035$12.73942
+Umbria#Torricella-Magione#Via del Lavoro #Caravelle#075.843330 #Bellini Vincenzo #$Pizzeria##
+Umbria#Valfabbrica#Voc. Camazzetto, 22 #Ca' Mazzetto#075.9029409 #Heliste Anne Marjatta Note:  #$Agriturismo##43.172035$12.580195
+Umbria#Avigliano Umbro#Loc. Casa Pancallo,3 #La Tenuta dei Ciclamini#0744.93431 #Fraschini Vania Note:  #$Agriturismo##42.65393$12.42655
+Umbria#Ferentillo#Case Sparse, 5 #Monterivoso#0744.780772 #Fraticcioli Luca #$Hotel$Ristorante$Pizzeria##
+Umbria#Ferentillo#Via F. Ancaiano, 23 #Piermarini#0744.780714 #Piermarini Primo #$Ristorante##42.62095$12.78405
+Umbria#Narni#Via Flaminia Ternana, 145 #Grano e Sale#0744.715519 #Posati Massimo #$Pizzeria#www.granoesale.it #
+Umbria#Sangemini#Loc. Valle Antica, 280 #Soc. Agric. Vallantica#0744.243454 #Goracci Andrea #$Ristorante$SalaRicevimento$Enoteca#www.vallantica.com #
+Umbria#Terni#Viale Cesare Battisti 69 #Livingstone Pub#0744.409746 - 338.7675597 #Valentina Zitti #$Pub$Pizzeria#www.livingstonepub.it #

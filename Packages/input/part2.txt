@@ -1,0 +1,148 @@
+Piemonte#Acqui Terme#P.zza Matteotti,3 #Alfredo Cucina & Vino#0144.56586 #Barberis Enrica #$Ristorante##
+Piemonte#Acqui Terme#Via alla Bollente,44 #Vineria Angolo Divino#0144.321005 - 349.8169895 #Prato Donatella #$Ristorante##44.67750$8.46056
+Piemonte#Alessandria#Via Legnano,2 #Arcimboldo#0131.52022 #Ivaldi Angela #$Ristorante#www.ristorantearcimboldo.it #
+Piemonte#Alessandria#Via Vochieri,108 #Torino#0131.55752 #Tamburrino Michele #$Ristorante##44.91589$8.61109
+Piemonte#Cassine#Str. Ricaldone di Sotto, 28 #LA.TI.MI.DA.#0144.715371 #Ulivi Francesca e Danila Note:  #$Agriturismo##
+Piemonte#Cassine Fraz. S. Andrea#Via Della Chiesa, 3 #Agriturismo Surì#0144.767079 #Orsi Danila #$Agriturismo#www.suri.it #
+Piemonte#Cuccaro Monf.to#Via Marconi,9 #La Cantina in Collina#0131.771111 #Porrati Luisella #$Agriturismo##44.990255$8.45285
+Piemonte#Fubine#C.so Aldo Porro, 22 #Bar di Sotto#0131.798972 #Amato Marianna #$TavolaCalda$Bar##
+Piemonte#Novi Ligure#Via Garibaldi, 91 #La Terrazza#0143.76688 #De Rosa Carmen #$Ristorante$Pizzeria##
+Piemonte#Novi Ligure#Via F.lli Rosselli, 2 #L'ultima Spiaggia c/o Aquarium#0143.743789/339.8051205 #Riella Giovanni #$Ristorante$Pizzeria##
+Piemonte#Parodi Ligure#Via Cadegualchi, 1 #Al Ghiottone#0143.681213 #Tavella Simona #$Agriturismo##
+Piemonte#Pozzolo Formigaro#Str. Barbotti, 1 fraz. Bettolle #La Locanda dei Narcisi#0143.319822 #Narcisi Enza #$Ristorante#www.lalocandadeinarcisi.it #
+Piemonte#S. Salvatore Monferrato#Via Prevignano, 7 #Stella#0131.233107 #Avitabile Mauro #$Ristorante$Pizzeria##
+Piemonte#Terruggia#P.zza Vitt. Emanuele III, 9 #Il Melograno#0142.401531 #Mereatur Carlo #$Ristorante#www.osteriailmelograno.com #
+Piemonte#Tortona#Via Arzani 10/d #Mediterraneo#0131.814782 #Miranda Carmine #$Ristorante$Pizzeria#www.ristorantemediterraneo.net #
+Piemonte#Albugnano#Via Serra, 4 #Le Tre Colline#011.9922038 #Baltieri Cristina #$Agriturismo#www.letrecolline.com #
+Piemonte#Costigliole d'Asti#P.zza Umberto I #Enoteca Caffè Roma#0141.966544 #Luigi Risso #$Enoteca##
+Piemonte#Costigliole d'Asti#P.zza Umberto I, 27 #Sinoira#0141.966012 #Stefano Sconfienza #$Ristorante#www.sinoira.it #
+Piemonte#Fontanile#Str. Stazione, 13 #Bastian#0141.774475 #Candelo Nicoletta #$Agriturismo##
+Piemonte#Moncucco Torinese#Via Mosso, 6 #Trattoria del Freisa#011.9874765 #Olia Alessandro #$Ristorante#www.trattoriadelfreisa.it #
+Piemonte#S.Damiano d'Asti#Piazza 1275 , 2 #La Lanterna#0141.982217 #Roagna Lucia #$Ristorante##
+Piemonte#Scurzolengo#Via Maiocco, 4 #La Raviola Galante#0141.203015/347.7909458 #Ferraris Giulio #$Ristorante#www.laraviolagalante.it #44.96622$8.27778
+Piemonte#Villanova d'Asti#Strada per Chieri, 92 #Il Valdichiesa da Enzo#333.3444941 #Delmastro Enzo #$Ristorante$Pizzeria##
+Piemonte#Villanova d'Asti#Strada Cappello, 29 #La Stella Polare#0141.946245 #Eleonora Ronco #$Agriturismo##
+Piemonte#Biella#Viale Matteotti,17 #Al Buon Ricordo#015.23831 #Savioli Luca #$Ristorante##45.56482$8.05907
+Piemonte#Biella#Via Q. Sella-Museo del Territorio #Caffè del Chiostro#015.2523112 #Pavignano Itala #$Ristorante##
+Piemonte#Biella#Via Italia, 50 #Caffetteria del Corso#015.22345 #Rizzi Orietta #$Bar$TavolaCalda##
+Piemonte#Biella#Via Delleani, 33 #Giordano#015.405306 #Giordano Vittorio #$Pizzeria##
+Piemonte#Biella#Via Garibaldi,6 #La Pace#015.21930 #Apicella Raffaele e Luigi #$Ristorante$Pizzeria##
+Piemonte#Campiglia Cervo#Via Santuario, 2 #Albergo S. Giovanni#015.60007 #Martinazzo Gabriele #$Albergo$Ristorante#www.albergosangiovanni.it #
+Piemonte#Cossato#Via Mazzini,42 #La Bussola#015.921702 #Francese Vito #$Ristorante$Pizzeria##45.56686$8.17569
+Piemonte#Cossato#Via Martiri Libertà, 67 #Panta Rei#015.921084 #Borsetto Annamaria Note:  #$Ristorante##
+Piemonte#Oropa#Via Santuario Oropa, 480 #Croce Bianca#015.2455923 #Ramella Trafighet Ivan Note:  #$Hotel$Ristorante$Catering##45.59804$8.00460
+Piemonte#Sagliano Micca#Via Trento, 2 #Az. Agrit. Ca' d'Andrei#015.2475013 #Finco Monica #$Agriturismo##
+Piemonte#Salussola#Cascina Emilia,1 #Fattoria delle Rose#0161.999955/333.8453710 #De Rossi Eliseo #$Trattoria$Agriturismo#www.fattoriadellerose.com #45.47591$8.1121
+Piemonte#Sordevolo#Via B. Bona, 78 #Antico Ca' d'Gamba#015.2568813 #Militano Francesco #$Ristorante##
+Piemonte#Bagnolo P.te#Via Cave, 305 #Il Provenzale#0175.391510/339.1127811 #Costanzo Patrizia #$Ristorante$Pizzeria$Catering#www.ristoranteilprovenzale.it #44.75387$7.28856
+Piemonte#Baldissero D'Alba#Strada Belvedere, 10 #Trattoria del Roero#0172.410369 #Angonoa Davide #$Ristorante#www.trattoriadelroero.it #
+Piemonte#Benevello#Località Manera, 6 #Spaghettoteca Campoleone#0173.529034 #Pagliarino Maurizio #$Ristorante##
+Piemonte#Brondello#Via Villa, 35/a #La Torre#0175.76198 #Maero Ivano G. #$Ristorante#www.ristorantelatorrebrondello.com #
+Piemonte#Canosio#Frazione Preit, 1 #Lou Lindal#0171.998301 #Palonta Patrizia #$Albergo$Ristorante##
+Piemonte#Castiglione Falletto#Via Alba Barolo, 23 #De Kip Brasserie#0173.231640 #Caudera Nadia/Calli Viviana #$Ristorante##
+Piemonte#Castiglione Tinella#Via Balbi, 22 #Campagna Verde#0141.855108 #Arione Massimo #$Ristorante##
+Piemonte#Cerretto Langhe#Località Cavallotti, 9 #Trattoria del Bivio#0173.520383/339.2299474 #Promo Selia #$Ristorante#www.trattoriadelbivio.it #
+Piemonte#Cervere#P.zza S. Sebastiano, 30 #Primi Dolci#0172.474471 #Piumatti Massimo #$Ristorante#www.primidolci.it #
+Piemonte#Cherasco#Via Moglia, 12 #Locanda Pane e Vino#0172.489108 #Emiliana Morino #$Ristorante##
+Piemonte#Cuneo#Via Bra, 1 #Alpigrill#0171.413249 #Tortora Cristian Note:  #$Ristorante##
+Piemonte#Cuneo#Via Statuto, 3 #Les Gourmands#335.7548416 #Panarelli Gisella #$Ristorante#www.lesgourmands.it #
+Piemonte#Dogliani#Borgata Piandeltroglio, 16 #Tenuta Larenzania#0173.71086 #Sobrero Simona #$Hotel$Ristorante#www.larenzania.it #
+Piemonte#Grinzane Cavour#Via IV Novembre, 19 #La Salinera#0173.262915 #Pinuccia Cortese #$Ristorante##44.65496$7.99861
+Piemonte#Guarene#Fraz. Montebello, 1 #Io e Luna#0173.611724 #Odone Davide #$Ristorante#www.ioeluna.com #
+Piemonte#Manta#Strada Statale 193 #I Sapori#0175.289538 #Gulino Giuseppe #$Ristorante$Pizzeria##
+Piemonte#Manta di Saluzzo#S.S. Laghi di Avigliana, 171 #Il Pithosforo#0175.88174/340.4894567 #Cetera Mario #$Ristorante$Pizzeria#www.hotelcicerone.it #
+Piemonte#Mondovì#Via del Crhist, 2 #La Borsarella#0174.42999 #Basso Andrea #$Ristorante#www.laborsarella.it #
+Piemonte#Mondovì#Via Delvecchio, 2 #Park H. Rist. Villa Nasi#0174.46666 #Bovi Emanuele #$Hotel$Ristorante#www.parkhotelmondovi.it #
+Piemonte#Monforte d'Alba#Località S.Giuseppe, 11 #Cascina Pian Borga#0173.789212/333.9277056 #Cavallo Ketty #$Agriturismo##
+Piemonte#Montà d'Alba#Vicolo San Giovanni, 3 #Belvedere#0173.976156 #Triverio Emilia #$Albergo$Ristorante#www.albergobelvedere.com #
+Piemonte#Monteu Roero#Fraz. Sant'Anna, 6 #Cascina Vrona#0173.90629 #Sandri Monica #$Agriturismo##44.77927$7.97678
+Piemonte#Pietraporzio#Via Longa fraz. Pontebernardo #La Pecora Nera#333.3508716 #Costantini Lucio #$Trattoria#www.osterialapecoranera.net #
+Piemonte#Piobesi d'Alba#Località Carretta, 2 #Tenuta Carretta#0173.619261 #Torrero M.-Casetta V. #$Ristorante#www.tenutacarretta.com #
+Piemonte#Pocapaglia#Strada America Boschi, 4 #Eden#0172.473351 #Carosso M. Angela #$Ristorante#www.eden-osteria.com #44.72145$7.86521
+Piemonte#Polonghera#Via Dellera, 4 #La Via del Sale#011.974413 #D'Ambrosio Paolo #$Trattoria#www.trattorialaviadelsale.com #44.80514$7.59857
+Piemonte#Racconigi#Via Carlo Costa, 17/a #La Torre#0172.811539 #Foco Carlo #$Ristorante#www.ristorantelatorre.info #
+Piemonte#Revello#Via Valle Po, 77 #La Virginia#0175.259026 #Battisti Gianfranco #$Agriturismo#www.lavirginia.it #
+Piemonte#S. Giacomo di Roburent#Via Sant'Anna, 111 #Nazionale#0174.227127 #Salvatico Mirella #$Hotel$Ristorante##
+Piemonte#S. Maria di La Morra#Borgata Cappallotti, 2 #Eremo della Gasprina#0173.50498/335.5287967 #Sampò Alessandro #$Ristorante##
+Piemonte#S. Stefano Belbo#Via Cesare Pavese, 16/a #Osteria dal Gal Vestì#0141.843379 #Vitrotti Edoardo #$Trattoria#www.osteriadelgalvesti.com #
+Piemonte#Saluzzo#Via Volta, 21 #Le Quattro Stagioni d'Italia#0175.47470/348.2283304 #Sassone Pierino/Rizzi Mario #$Ristorante$Pizzeria##44.643865$7.49181
+Piemonte#Savigliano#Via Cuneo, 23 #Gran Baita#0172.712060 #Colella Gianluca Note:  #$Hotel$Ristorante##
+Piemonte#Savigliano#Via Solerette 9/a #La Sirenetta#0172.377193 #Alesso Bruno #$Pizzeria##
+Piemonte#Scarnafigi#Strada Tetti Olio, 2 #Nuovo Monarca#0175.74420 #Madala Davide #$Ristorante##
+Piemonte#Serralunga D'Alba#Loc. Parafada, 4 #La Rosa dei Vini#0173.613219 #Fontana Giorgio #$Ristorante#www.larosadeivini.com #44.61775$7.99121
+Piemonte#Valloriate#Fraz. Airale, 11 #Fungo Reale#0171.717039 #Odestri Manuel #$Hotel$Ristorante##
+Piemonte#Verduno#Borgata Molino, 15 #Due Lanterne#0172.470127 #Boffa Flavio #$Ristorante#www.ristoranteduelanterne.it #
+Piemonte#Vicoforte#P.zza Carlo Emanuele I, 4 #La Tavola del Chiostro#0174.565300 #Sernia M. Cristina Note:  #$Hotel$Ristorante##
+Piemonte#Villanova Solaro#Via Vitale, 4 #Castello dei Solaro#0172.99365 #Boselli Fabio #$Ristorante#www.castellodeisolaro.it #
+Piemonte#Gattico#Via Madonna ,69  #La Rustica#0322.838781 #Fusco Giuseppe #$Ristorante$Pizzeria##45.70881$8.50904
+Piemonte#Ghemme#Via Novara,162 #Al Gufo Nero#0163.840251 #Bertani Diego #$Ristorante##45.59298$8.42561
+Piemonte#Lumellogno#P.zza Martiri, 8 #Roma#0321.469033 #Vitagliano Attilio #$Pizzeria#www.trattoriapizzeriaroma.com #
+Piemonte#Maggiora#Via Fornaci,25 #La Vecchia Fornace#0322.870086 #Zanetta Cinzia #$Agriturismo##45.694085$8.418832
+Piemonte#Novara#Via Magnani Ricotti, 14/b #20 Regioni - Bar Cucina Shop#0321.331504 #Maffè Mauro #$Ristorante$Bar#www.20r.it #
+Piemonte#Novara#Via Pontida, 6/a #Pontida#0321.35045 #Maniscalco Marta #$Trattoria##
+Piemonte#Oleggio#Via Paganini, 5 #New Dinamo#0321.998333 #Stanzione Vincenzo #$Ristorante$Pizzeria##
+Piemonte#Orta S. Giulio#Via Gippini, 11 #S. Rocco#0322.911977 #Viviani Paolo Note:  #$Hotel##
+Piemonte#Prato Sesia#Via Don Minzoni, 1 #Lo Scoglio#0163.850581 #Anna e Laura Gaeta #$Ristorante$Pizzeria##
+Piemonte#Alpette Canavese#Borgata Trione via Saler, 59 #Hosteria Alpina#0124.809143 #Seren Rosso Michelina #$Hotel$Ristorante$Bar##
+Piemonte#Alpignano#Via Cavour, 46 #Farenheit 451#011.9787379 #Ferrara Alessandro #$Ristorante$Pizzeria##
+Piemonte#Avigliana#Via Giaveno, 4 #Domus#011.9369059 #Di Paolo Antonio #$Hotel$Ristorante$Pizzeria#www.ristorantedomus.it #
+Piemonte#Bardonecchia#Via Medail, 82 #Etable#0122.96973 #Milic Antonella #$Ristorante##
+Piemonte#Bardonecchia#Fraz. Melezet, 119 #La Pigna#0122.880303/348.0525741 #Vachet Luca #$Hotel$Ristorante#www.hotel-lapigna.it #
+Piemonte#Beinasco#Via Torino, 68 bis #Pentegallo#011.3497669/349.8078197 #Crocco Dante #$Ristorante$Pizzeria#www.ristorantepentegallo.it #45.02160$7.58539
+Piemonte#Carignano#Strada Castagnole, 29 #Il Canonico#011.9692388 #Pulli Piero Note:  #$Ristorante$Catering##44.9096$7.66268
+Piemonte#Ciriè#Località Ghe, 1 #L'Isola che Non C'è#011.9205669 #Ferrero Tiziana #$Agriturismo#www.agriturismolisolachenonce.it #
+Piemonte#Favria Canavese#C.so Matteotti, 25 #Gli Amici#0124.360798 #Norcia Nicola #$Hotel$Ristorante$Pizzeria##
+Piemonte#Fenestrelle#Località Pra Catinat #Pracatinat#0121.884884 #Gaude Anna Note:  #$Albergo##
+Piemonte#Giaglione#Fraz. S. Rocco, 10 #Cre' Seren#0122.629264 #Sereno Serena #$Agriturismo#www.agriturismogiaglione.it #
+Piemonte#Giaveno#P.zza San Rocco, 5/6 #Locanda San Roch#011.9374185 #Alessandrini Mirella #$Ristorante##45.044176$7.350883
+Piemonte#Giaveno#Via Pontepietra, 34 #Orchidea#011.9363936 #Pirrotta Giuseppe #$Ristorante#www.ristorantepizzeriaorchidea.it #
+Piemonte#Grosso#Via Corio, 8/a #Locanda Vecchio Novecento#011.9268614 #Chiadò Caponet Luca #$Ristorante#www.vecchionovecento.it #
+Piemonte#Grugliasco#Strada del Portone,197 #Coop. Agricola del Duc#011.3149929 #Grandi Laura #$Agriturismo#www.cascinaduc.it #
+Piemonte#Nichelino#Via Superga, 18 #da Zio#011.0676603/320.3492018 #Macheda Francesca #$Ristorante$Pizzeria#www.pizzeriadazio.com #
+Piemonte#None#Via Roma, 71 #L'Orologio#011.9904296 #Russo Marcella/Pireddu Alessio #$Ristorante##44.93092$7.53273
+Piemonte#Oulx#Via Des Ambrois, 28 #Chez Toi#0122.830883 #Buono Francesca #$Hotel$Ristorante#www.hotelcheztoi.it #
+Piemonte#Pecetto Torinese#Via Circonvallazione, 22 #L'Escalier#011.8609845 #Chiaravallotti Riccardo #$Ristorante$Pizzeria#www.granclasse.com #
+Piemonte#Pianezza#Via Caduti per la Libertà, 26/A #Osteria del Musicante#011.9661249 #Roy Viviana #$Trattoria#www.osteriadelmusicante.com #
+Piemonte#Pinerolo#C.so Torino, 151 #Macumba#0121.374115 #Jahier Alessandro #$Ristorante$Pizzeria#www.macumba.it #44.888025$7.35275
+Piemonte#Pinerolo#P.zza S. Donato, 8 #Perbacco#0121.397487/335.2824800 #Cavallaro Riccardo #$Ristorante##
+Piemonte#Pino Torinese#Via Roma, 3 #Pinocchio#011.842451 #Giuliano/Manconi #$Ristorante##45.043295$7.768005
+Piemonte#Pragelato#Via Nazionale, 2/a fraz. Ruà #Villaggio Gofree Camping#0122.78045 #Laurent Patrizia #$Ristorante$Ristorante#www.villaggiogofree.com #
+Piemonte#Pragelato loc.Plan#Via del Beth,9 #La Greppia#0122.78409 #Lach Franca #$Ristorante##
+Piemonte#S. Maurizio C.se#Via Gabrielli, 14 #Banqueting & Banqueting#011.9278201 #Bettas Ernesto #$Catering##
+Piemonte#S. Secondo di Pinerolo#Via Castello di Miradolo, 2 #Hosteria La Ciau#0121.500611 #Gasparello Gianpiero #$Ristorante#www.laciau.it #
+Piemonte#Torino#Strada Comunale del Cartman, 59 #Antica Trattoria con Calma#011.8980229 #Pristeri Renata #$Ristorante##
+Piemonte#Torino#Via San Paolo, 5/8 #Claudio Cavalieri Banqueting#011.3823513 #Vigilante Diego Note:  Prezzo min/max:  #$Catering##
+Piemonte#Torino#Via Gioberti, 4 #Curryzone#011.4546875/327.0874180 #Ehsan Mohammad #$Ristorante##
+Piemonte#Torino#Via Nizza, 223/a #Il Pizzotto#011.6598670/328.8690366 #Tappari M. Carmen Note:  #$Pizzeria##
+Piemonte#Torino#Via Melchiorre Gioia,3/D #Il Vicolo#011.535233 #Bianchini Andrea #$Ristorante##45.06401$7.67594
+Piemonte#Torino#C.so Dante, 53/a #La Barrique#011.657900 #Gallo Stefano #$Ristorante#www.labarriqueristorante.it #
+Piemonte#Torino#Via Barbaroux, 25 #La Birba/Il Briccone#011.533376 #Stefano Brinatti #$Ristorante$Catering##
+Piemonte#Torino#P.zza Pasini, 3 #La Medusa#011.8980371/392.9817964 #Iacona Ignazio #$Ristorante$Pizzeria#www.ristorantelamedusa.com #
+Piemonte#Torino#Via Bellezia, 15/f #Las Rosas#011.5213907/339.6680293 #Calì Antonello #$Ristorante#www.lasrosas.it #
+Piemonte#Torino#Via Giachino, 71 #Las Rosas Restaurante#011.290485 #Orozco Sandra #$Ristorante#www.lasrosas.it #
+Piemonte#Torino#Via Guala, 120 #Noè#011.3174520 #Disperso Francesco #$Ristorante$Pizzeria##
+Piemonte#Torino#C.so Giulio Cesare 338/34 #Novotel Torino/Novotelcafé#011.2601211 #Grappeccia Cristiano Note:  #$Hotel$Ristorante##45.10872$7.70471
+Piemonte#Torino#Via Conte Verde, 7/a #Panperfocaccia#346.8520279 #Scapino Martina #$Ristorante$Pizzeria#www.panxfocaccia.com #
+Piemonte#Torino#P.zza Peyron, 15/b #Pizzeria Ristoro Qeendici#011.4378150 #Vinci Carmelo #$Ristorante$Pizzeria##
+Piemonte#Torino#Via XX Settembre, 79/c/e #Rist. La Campana/H. Chelsea#011.5214011 - 011.4360100 #Lentini Mario #$Ristorante$Hotel#www.hotelchelsea.it #
+Piemonte#Torino#Via Borgo Dora, 25/h #Sapordivino#011.4365104 #Viarengo Enrico #$Ristorante#www.sapordivino.net #45.07914$7.68352
+Piemonte#Torino#Via S. Dalmazzo, 8/a #Soup & Go#011.0712763 #Fausto Martino #$Ristorante#www.soupandgo.it #
+Piemonte#Torino#Via Manzoni, 0/f #Statuto da Carmen#011.537363 #Panaro M. Carmela #$Ristorante$Pizzeria##
+Piemonte#Torino#C.so Raffaello, 5 #Tratt. Raffaello 5#011.6694723 #Montagna Fabio #$Trattoria#www.raffaello5.com #
+Piemonte#Torre Pellice#P.zza Pietro Micca,4 #La Civetta#333.6741005 #Allasia Piercarlo #$Ristorante##44.82109$7.22814
+Piemonte#Venaria#Via Verga,14 #La Smorfia#011.4246595 #Dorelli Mario #$Pizzeria##45.11597$7.62154
+Piemonte#Vistrorio#Regione Selva, 30 #Fior di Zucca#0125.76405 #Chioso Pierluigi #$Agriturismo##
+Piemonte#Volpiano#Regione Cravero, 30 #La Lenza#011.9882385 #Ghiosso Enza e Silvia #$Ristorante#www.lalenza.it #
+Piemonte#Crevoladossola#Via Sempione,57 #Rosa dei Venti#0324.33570 #Loredana Ughetti #$Ristorante$Pizzeria##46.142615$8.295622
+Piemonte#Crodo#Fraz. Mozzio, 24 #Belvedere Resort#032.461055 #Tabladini Marinella #$Albergo$Ristorante#www.belvederemozzio.it #
+Piemonte#S. Bernardino V.#Via Fondotoce,1 #S. Antonio#349.5485868 #Brunello Antonella #$Ristorante##
+Piemonte#Someraro di Stresa#Via degli Alpini, 16 #Al Rustico#0323.32172 #Marino M.R. #$Ristorante##45.88652$8.51353
+Piemonte#Stresa#C.so Umberto I, 67 #G.H. Des Iles Borromees#0323.938938 #Grassi Elisabetta #$Hotel#www.borromees.it #
+Piemonte#Stresa#C.so Umberto I, 33 #La Palma#032.332401 #Zanetta Davide #$Hotel##
+Piemonte#Stresa#C.so Umberto I, 29 #Regina Hotel#0323.936936 #Padulazzi Giuditta Note:  #$Hotel##
+Piemonte#Verbania#P.zza Mercato, 25 #Edenatura#0323.404314 #Acquafredda Nadia #$Ristorante$Bar##
+Piemonte#Vignone#Via Bèe,1 #Monte Cimolo#0323.551403 #Dellamora Carole #$Ristorante$Pizzeria##45.96461$8.56544
+Piemonte#Villadossola#C.so Italia, 4 #La Tavernetta#0324.54303 #Renè Ietti #$Ristorante##
+Piemonte#Desana#P.zza Castello, 8 #Agriturismo Oryza#0161.318565/335.7163334 #Vercellone Edoardo #$Agriturismo#www.oryzariso.it #
+Piemonte#Guardabosone#P.zza Repubblica,11 #La Barrique#015.761119 #Di Rienzo Leonardo #$Ristorante##45.70163$8.251315
+Piemonte#Vercelli - Cascine Strá#Via Torino 12 #Anema & Core by La Botte#0161.313164 #Battiloro Monica #$Pizzeria##

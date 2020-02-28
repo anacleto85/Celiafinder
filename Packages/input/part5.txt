@@ -1,0 +1,181 @@
+Calabria#Acri#V.co I Montessori, 40/42 #Antico Rustico#0984.954432 #Coschignano Mario #$Ristorante$Pizzeria##
+Calabria#Acri#C.da Cocozzello, 197/a #Il Carpaccio#0984.949205 #Miceli Gianluigi #$Ristorante#www.ilcarpaccio.it #
+Calabria#Acri#C.da Duglia, 226 #Lulù#0984.950695 #Belsito Luigi #$Ristorante$Pizzeria##
+Calabria#Acri#Via Alcide De Gasperi, 305 #Panoramik#0984.941809 #Ferraro Francesco #$Ristorante$Pizzeria##
+Calabria#Amantea#Via Tonnara, 13 #Hotel La Tonnara#0982.424272 #Perri Gabriele Note:  #$Hotel$Ristorante##
+Calabria#Amantea#Via Lungomare #Il Sombrero#0982.428469 #Perri Saveria #$Ristorante$Pizzeria#www.ilsombrero.it #
+Calabria#Bonifati#C.da Sparvasile #Pietrabianca#0982.96322 #D'Amico Ciriaco #$Ristorante$Pizzeria##
+Calabria#Buonvicino#Via Parco del Corvino (Diamante) #Il Vecchio Frantoio#0985.876578 #Mastromarchi Roberto #$Ristorante#www.vecchiofrantoio.com #
+Calabria#Campora S. Giovanni#SS 18 #La Principessa#0982.46903 #Epifano M./Angelini O. Note:  #$Ristorante$SalaRicevimento##
+Calabria#Cariati#Via S. Patrizi #Pedro's#0983.969311 #Tangari Pietro #$Ristorante$Pizzeria##
+Calabria#Castrolibero#Via Papa Giovanni XXIII #Blade Runner#0984.852859 #Filippelli Valentino #$Pizzeria##
+Calabria#Castrovillari#Via Falconara - contr. Pietà #La Falconara#0981.44109 #Pellicano Carlo #$Hotel$Ristorante#www.lafalconarahotel.it #
+Calabria#Castrovillari#Via Po, 21 #La Napoletana#0981.22604 #Esposito Vincenzo #$Ristorante$Pizzeria##
+Calabria#Castrovillari#Piazzale Madonna del Castello #La Terrazza by Emilio#0981.21041 #Vattimo Emilio #$Ristorante$Pizzeria#www.laterrazzabyemilio.it #
+Calabria#Castrovillari#P.zza Indipendenza, 8 #Palm Tavern Pub#334.2626695 #Trocino Franco #$Ristorante##
+Calabria#Castrovillari#Via Roma, 101 #Sottosopra/Bar Marilyn#0981.21600 #Malomo Antonio Note:  #$Pub$Bar##
+Calabria#Corigliano Calabro#C.da Torricella Inf. #5 Gradini#0983.851277 #Mollo Francesco #$Ristorante##
+Calabria#Corigliano Calabro#Via Berlinguer #Il Sombrero#339.2850724 #Sisca Francesco #$Ristorante$Pizzeria#www.pizzeriailsombreo.it #
+Calabria#Corigliano Calabro#Via Nazionale, 138 #La Bottega della Salute#0983.201180 #Sacchetti Domenico #$TavolaCalda##
+Calabria#Corigliano Calabro#Via Nazionale #Rossopomodoro#0983.888115 #Abbruzzese Santo #$Ristorante$Pizzeria##
+Calabria#Cosenza#C.da S. Pietro - Donnici Superiore #A Cannarutia#0984.781856 #Filice Ernesto #$Ristorante$Pizzeria##
+Calabria#Cosenza#Via Simonetta,7-9-11 #Al Vicoletto#0984.791609 #Vallo Roberto #$Ristorante##39.30292$16.25109
+Calabria#Cosenza#Via Alimena, 125 #Da Tonino#0984.1811285 #Multari Giuseppina #$TavolaCalda$Catering##
+Calabria#Cosenza#Via Panebianco #Holiday Inn Cosenza#0984.31109 #Giorno Michele Note:  #$Hotel##
+Calabria#Fuscaldo#Via S. Giorgio #L'Etoile#0982.687886 #Lanzillotta Mario #$Catering##39.41536$16.01507
+Calabria#Fuscaldo#C.da Valle Santa Maria #Solero Beach#0982.618200 #Luca Rosetta #$Pizzeria$Ristorante##
+Calabria#Montalto Offugo Scalo#Via G. Gentile, 16 #Il Rombo#0984.934824 #Rovale Marco #$Ristorante##
+Calabria#Morano Calabro#Via Vincenzo Severini, 1 #Al Convento#0981.1896138 #Federico De Rosa #$Ristorante$Pizzeria#www.alconvento.it #
+Calabria#Morano Calabro#C.da Campotenese #Hotel Regina#0981.33768 #Piragino Vittorio/Leccese P. #$Hotel$Ristorante$Pizzeria#www.reginahotel.calabria.it #
+Calabria#Mormanno#Vico I S. Francesco, 5 #Osteria del Vicolo#0981.80475 #Armentano Francesco V. #$Ristorante$Pizzeria##
+Calabria#Paola#Rione Croce S.S. 18 #Free Time#0982.611298 #Gino e Pino #$Ristorante$Pizzeria$Ristorante##
+Calabria#Paola#Via Melissa, 2 #Gran Caffe' Vitale#0982.610271 #Bono Biagio A. #$Pizzeria$Bar##
+Calabria#Paola#Via della Libertà, 8 #Il Pavone#0982.583661 #Chiara e Andrea #$Pizzeria##
+Calabria#Paola#P.zza del Popolo, 2 #Pa Pla#0982.611080 #Pizzini Anna Daniela #$Ristorante##
+Calabria#Paola#Via Sant'Agata, 38 #Sancho Panza#0982.612155 #Mazzei Carmine #$Ristorante$Pizzeria##39.36716$16.02895
+Calabria#Praia a Mare#Via L. Sturzo, 3 #Escopocodisera#0985.777623 #Bello Gianluca #$Pizzeria##
+Calabria#Rende#Via G. De Chirico, 140/a #Antichi Sapori#349.8446434 #Costabile Michele #$Ristorante##
+Calabria#Rende#Via G. De Chirico, X trav. 13/15 #Il Lucignolo#0984.467616 #Brogno Angelo #$Pizzeria##
+Calabria#Rende#Via Rocchi, 3 #La Cantina del Contadino#0984.403679 #Quercia Vincenzo N. #$Agriturismo##
+Calabria#Rende#Via G. Marconi, 114 #Nettuno#0984.403959 #Minervini Giacomo #$Ristorante$Pizzeria##
+Calabria#Rende#C.da Marchesino - Parco Robinson #Palagarden#0984.464529 #Voltasio Luigi #$Ristorante$Pizzeria$SalaRicevimento##
+Calabria#Rende#Via Ungaretti, 2 #S. Francesco#0984.461721 #Vilardi Giancarlo Note:  #$Hotel##
+Calabria#Rende#C.da Frattini #Tenuta Villa dei Fiori#0984.446516 #Belvedere Carmine/Giuffrè G. Note:  #$SalaRicevimento##
+Calabria#Rossano#Contrada Cutura #Pascia'#0983.565493 #Abbruzzese Vincenzo #$Ristorante$Pizzeria##
+Calabria#Rossano Calabro#Loc. Zolfara #Eurovillage Club Nausicaa#0983.569276 Persona/e di riferimento:  #Chiusura:da ott a apr Prezzo min/max:  #$Ristorante##
+Calabria#Rossano Calabro#Loc. Zolfara #Hotel Club Itaca#335.6212207 Persona/e di riferimento:  #Chiusura:da ott a apr Prezzo min/max:  #$Ristorante##
+Calabria#Rossano Calabro#Contrada Ciminata #Primofiore Agriturismo#398.8532958 #Attadia Giuseppe #$Agriturismo##
+Calabria#Rossano Scalo#Via Ippocrate, 24 #Il Drago#0983.512189 #Fabbricatore Giuseppe #$Ristorante$Pizzeria##
+Calabria#Rossano Scalo#Piazza Dante, 22 #Il Graticcio#0983.510605 #Rugna Antonello #$Ristorante$Pizzeria##
+Calabria#Rossano Scalo#V.le Margherita, 244 #Red Tavern#0983.290338 #Pedace Fabio #$Ristorante$Pub$Pizzeria##
+Calabria#Rovito#Via G. Marconi, 4 #Catering Center#0984.433288 #Terzo Emanuela Note:  #$Catering##
+Calabria#Rovito#Via S. Nicola, 28 #My Dream#346.6669399 #Bosco Alfredo #$Ristorante$Pizzeria##
+Calabria#S. Fili#Via Gramsci #Il Carro#349.1789439 #Fortini Federica #$Agriturismo#www.agriturismoilcarro.it #
+Calabria#S. Nicola Arcella#C.da Marinella #Il Furano#0985.300644 #Grammatica Francesca #$Ristorante#www.ristorantefurano.it #
+Calabria#S. Pietro in Guarano#Via del Redentore, 13 #La Cantina di Emilio#340.5389327 #Nigro Francesco Note:  #$Ristorante##
+Calabria#San Giovanni in Fiore#V.le della Repubblica, 248 #Dino's Hotel#0984.992090 #Laratta Piero Note:  #$Hotel$Ristorante$Pizzeria##
+Calabria#San Lucido#Corso Umberto, I #Eat and Drink#0982.84705 #Tenuta Antonella #$Pizzeria$Catering$Ristorante##
+Calabria#San Lucido#Via Roma, 4 #La Rupe#0982.81222 #Spada Francesco #$Ristorante$Pizzeria##
+Calabria#San Lucido#Via Marina Taverna, 22 #Rist. Dragut/H. La Fortezza#0982.848784 #Provenzano Antonio Note:  #$Hotel$Ristorante##
+Calabria#San Marco Argentano#C.da Iotta #L'Europa#0984.522028 #langella Amalia #$Ristorante$Pizzeria$Catering##
+Calabria#San Vincenzo la Costa#C.da Greco Battista, 15 #La Locanda del Greco#0984.936615 #Saullo Marcello #$Agriturismo##39.3678$16.13047
+Calabria#Sangineto#S.S. 18 n° 41 #Sachsenhausen#0982.96378 - 328.6729209 #Papasergio Patrizia #$Ristorante$Pizzeria##
+Calabria#Scalea#C.so Mediterraneo,66 #Hotel Talao#0985.20444 #Leo Ada #$Hotel#www.hoteltalao.it #
+Calabria#Spezzano della Sila#Via Tasso - Camigliatello Silano #Hotel Tasso#0984.578113 #Lo Celso William Note:  #$Hotel##
+Calabria#Spezzano della Sila#C.da Malarotta - Camigliatello S.no #La Pignanella#0984.578443 #Pantusa Giovanni #$Ristorante##
+Calabria#Terranova da Sibari#Viale Castello 17 #Hostaria Antico Borgo#0981.955964 #Cianciaruso Francesco #$Ristorante$Pizzeria##
+Calabria#Trebisacce#Via 25 Aprile, 36 #Capraro#0981.58281 #Capraro Katia #$Pizzeria##
+Calabria#Villapiana#C.da Orto della Signora #Orto della Signora#0981.505688 #Girolamo Antonio #$Ristorante$Pizzeria#www.ortodellasignora.it #
+Calabria#Belcastro Marina#Loc. Arango-Magliacane #Nirvana Club Village#0961.967580 #Ascoli Modesto #$Ristorante##16.8880$38.9298
+Calabria#Borgia#Contrada Fiego #Feudo degli Ulivi#0961.956435 #Oliveri Giovanni Note:  #$Albergo$Ristorante##
+Calabria#Botricello#Via Zaccagnini, 2 #La Casa di Botro#0961.966592 #Romeo Antonio #$Agriturismo#www.botro.it #
+Calabria#Caraffa#Loc. Profeta #Ristorart Toscana#0961.954904 #Berardelli Giuseppe #$Catering##
+Calabria#Catanzaro#V.le degli Angioini #A Tijana#0961.751838 #Virgillo Flora #$Trattoria$Pizzeria##
+Calabria#Catanzaro#C.da Sangue di Cristo loc. Siano #Ai Reduci#0961.469771 #Pavone Saverio #$Agriturismo##
+Calabria#Catanzaro#V.le dei Normanni,57 #Bacchus#0961.753013 #Fontana Giuseppe #$Ristorante##38.90398$16.59858
+Calabria#Catanzaro#Via V. Gattoleo, 5 loc. Pitera #Il Gufo#0961.741650 #Nicoletti Tonino Note:  #$Ristorante##38.93827$16.58041
+Calabria#Catanzaro#V.le M. Grecia 81/83a #Le Palme#0961.780064 #Cristallo Ottavio #$Ristorante##38.84447$16.61286
+Calabria#Catanzaro#Via De Grazia, 11/13 #Topolino#339.2475136 #Currao Raffaele #$Pizzeria##
+Calabria#Catanzaro Lido#Via M. Manfredi, 20 #Grand H. Paradiso#0961.32193 #Conte Gregorio Note:  #$Hotel$Ristorante##
+Calabria#Catanzaro Lido#Via Caprera, 395 #Happy Pizza#380.3641913 #Scarpino Teresa #$TavolaCalda$Pizzeria##
+Calabria#Catanzaro Lido#Via Lungomare #Il Porto#0961.31562 #Russo Antonio #$Ristorante$Pizzeria##
+Calabria#Catanzaro Lido#Via Lungomare, 289 #Tortuga Pub#0961.31953 #Lomardo Angela #$Ristorante$Pizzeria$Ristorante#www.tortugapub.net #
+Calabria#Cropani Marina#L.tà Sena Vill. Mimosa #Prima o Poi#0961.960944 #Marasci Salvatore #$Ristorante$Pizzeria##38.92417$16.81111
+Calabria#Cropani Marina#V.le Venezia, sn #San Marco#0961.962127/328.4290380 #Pulera Salvatore #$Ristorante$Pizzeria##
+Calabria#Decollatura#Villaggio Cesariello #Cardel#0968.61334 #Butera Benito #$Hotel$Ristorante#www.hotelcardel.com #39.05722$16.34972
+Calabria#Decollatura#Loc. Sorbello #La Vecchia Fattoria#0968.61815 #Talarico Angela #$Agriturismo#www.agriturismolavecchiafattoria.it #
+Calabria#Falerna#C.da Petraro, 10 #Al Mangiar Sano#0968.97658 #Bellomo Valentina #$Ristorante##38.98556$16.14045
+Calabria#Falerna#S.S. 18 #Hotel Torino#0968.93053 #Bonacci Gianna #$Hotel$Ristorante##
+Calabria#Feroleto Antico#Contrada Malaspina #Il Casale Osteria Tipica#0968.455023 #Serra Giuseppe #$Ristorante$Pizzeria##
+Calabria#Gasperina#Via Sandro Pertini #Paladina#0967.48094 #Macrina Nicola #$Ristorante$Pizzeria##
+Calabria#Gasperina#C.da Pilinga #Park H. Mirabeau#0967.577656 #Codispoti Giuseppe #$Hotel$Ristorante##
+Calabria#Germaneto#Viale Europa, 31/33 #L'Arcipelago del Gusto#0961.368073 #Manfredi Carmine #$Ristorante$Pizzeria$TavolaCalda##
+Calabria#Girifalco#Via Montecovello #Parco Attrez. Monte Covello#0968.749514 #Vonella Battista #$Ristorante$Pizzeria##
+Calabria#Gizzeria Lido#Contrada Mortella #L'Oasi#0968.466181 #Pellegrino Vittorio #$Ristorante##38.942922$16.211057
+Calabria#Lametia Terme#C.da Trigna #Agriturismo Trigna#0968.209034 #La Ferla Francesco #$Agriturismo#www.agriturismotrigna.it #
+Calabria#Lamezia Terme#Via S. Giovanni #Rua Sao Joao#0968.25486 #Piacente Salvatore #$Ristorante##
+Calabria#Lamezia Terme#Via Riccardo Lombardo #Villa Donna Mazza#0968.462555 #Ghedini Vania #$Albergo$Ristorante##
+Calabria#Marcellinara#Via Sanseverino, 11 #Raggio di Sole#338.8614243 #Sanseverino Giovanna Note:  Prezzo min/max:  #$Catering##38.86387$16.56616
+Calabria#Montauro Scalo#Calalunga #Lido On The Beach#0567.577351 #Tangari Loredana #$Ristorante$Pizzeria$Bar##
+Calabria#Montepaone Lido#Via F. Turati #Alba Chiara#0967.578624 #Marinaro Giovanbattista #$Hotel$Ristorante##38.71929$16.53005
+Calabria#Montepaone Lido#Via Nazionale, 229 #Il Capriccio#0967.576654 #Cappuccino Luciano #$Ristorante$Pizzeria#www.ilcapriccioristorante.it #
+Calabria#Montepaone Lido#Via Mazzini, 38 #Il Ghiottone#0967.576837 #Lombardo Franco #$Ristorante$Pizzeria##38.72972$16.53996
+Calabria#Nicastro#Via G. Murat #La Brace#0968.453610 #Mascaro Roberto #$Ristorante$Pizzeria##
+Calabria#Roccelletta di Borgia#Via Risorgimento S.S. 110 #Il Veliero#0961.391389 #Corosiniti Giuseppe #$Ristorante$Pizzeria##
+Calabria#S. Caterina dello Jonio#Via delle Serre, 21/23 #Excalibur#0967.83407 - 333.9886438 #Rudi Nazzareno G.ppe #$Ristorante$Pizzeria##38.52704$16.56828
+Calabria#San Sostene#Via delle Magnolie #Residence Paradise#0967.71648 #Salvatore/Jerry #$Ristorante$Pizzeria##
+Calabria#Settingiano#Contrada Gambieri #L'Orso Cattivo#0961.998149 - 800.904544 #Rotella Vincenzo #$Ristorante$Pizzeria#www.orsocattivo.com #
+Calabria#Sorbo San Basile#Contrada Cutura #Il Faro#0961.921214 #Mancuso Mario #$Ristorante##39.01939$16.5688
+Calabria#Soverato#Via Marina,24/30 #Braxtor#0967.528456 #Nisticò Gianfranco #$Pizzeria##38.69056$16.54697
+Calabria#Soverato#Via Carlo Amirante, 22 #La Sfiziosa#0967.23446 #Cappuccino Sergio Note:  #$Ristorante$Pizzeria##
+Calabria#Soverato#Via della Vittoria, 1/3 #La Tavola di Melusinda#349.3766493 #Quintieri Luigi #$Ristorante#www.latavoladimelusinda.it #
+Calabria#Stalettì#Via Caminia #Baia dell'Est#0961.911352 #Sinigallia G./Gratta B. Note:  #$Hotel$Ristorante##
+Calabria#Stalettì#Via Lido di Copanello, 12 #Hotel Club Poseidon#0961.911252 #Funaro Francesco Note:  #$Hotel$SalaRicevimento##
+Calabria#Stalettì#Via del Mare #La Cabana - Europark#0961.911093 #Proganò Tommaso #$Ristorante$Pizzeria##
+Calabria#Stalettì#Via Nazionale #Le Terrazze/H. Hamilton#0961.910845 #Saverio Alcaro #$Hotel$Ristorante#www.hotelhamilton-leterrazze.com #
+Calabria#Taverna#Via Villaggio Mancuso #Hotel Sila#0961.922032 #Lia Clemente #$Hotel$Ristorante#www.hotelsila.com #
+Calabria#Crotone#Via Nazioni Unite, 47 #Bar Pizzeria Degli Amici#0962.962330 #Poerio Francesco #$Pizzeria$Bar##39.049935$17.112865
+Calabria#Crotone#Via Mario Nicoletta,176-178 #Capriccio#328.9164833 #Maiorano Francesco #$Ristorante$Pizzeria##39.081465$17.12355
+Calabria#Crotone#Via Capo Colonna, 103 #Il Convivio di Hera#0962.934153 #Mittica Antonio #$Hotel$Ristorante$Agriturismo#www.conviviodihera.it #
+Calabria#Crotone#V.le Magna Grecia #Lido degli Scogli#0962.28625 #Sposato Mario #$Hotel$Pizzeria$Ristorante$SalaRicevimento##
+Calabria#Crotone#Via A. Tedeschi,81 #Zzà Rosì#0962.900422 #Lucà Rossella #$Ristorante$Pizzeria##39.08022$17.12573
+Calabria#Roccabernarda#Via dei Bizantini,13 #Al Favaloro#0962.56551 #Vona Antonio #$Ristorante$Pizzeria##39.13807$16.87531
+Calabria#S. Leonardo di Cutro#Loc. Marinella #Villaggio Serenè#0962.7700 #Piazza Salvatore #$Ristorante##
+Calabria#Archi#Via Nazionale, 55/b #Il Buon Gustaio#0965.655434 #Polimeni Maurizio #$Pizzeria##
+Calabria#Bagnara Calabra#P.zza Marconi,4 #G.H. Victoria#0966.376126 #Minutolo Francesco Note:  #$Hotel##
+Calabria#Bova Marina#Via Umberto I, 187 #Jaluk#338.8915822 #Iaria Giacomo #$Ristorante$Pizzeria##37.93061$15.92126
+Calabria#Bova Marina#Loc. S. Pasquale #La Perla Jonica#0965.764366 #Dieni Concetta/Nucera Giovanni Note:  #$Ristorante$Ristorante$Pizzeria##
+Calabria#Candidoni#Contrada Sovereto #La Fattoria della Piana#348.1000710 #Gerace Giulia #$Agriturismo#www.fattoriadellapiana.it #
+Calabria#Catona-Reggio Calabria#Via Mercato, 9 #Regent Hotel della Cisca#0965.301067 #Benabdelkader Hamid Note:  #$Hotel$Ristorante$Pizzeria$Catering##
+Calabria#Cittanova#Via Bruzio, 19 #Alexander#0966.655583 #Franchetti Pasquale #$Pizzeria##
+Calabria#Gallico Marina#Via Marina, 37 #La Madonnina#0965.370023 #Dell'Osso Valerio #$Ristorante$Pizzeria##
+Calabria#Gallina R.C.#P.zza S. Francesco di Sales #Windy Hill#0965.682656 #Ventura Antonio #$Ristorante$Pizzeria##
+Calabria#Lazzaro#S.S. 106, 261 #L'Antico Casale#0965.714146 #Montoli Egidio #$Ristorante$Pizzeria##
+Calabria#Locri#C.so Vitt. Emanuele, 87 #Winter Cactus#338.4396246 #Bumbara David #$Ristorante$Pizzeria$Catering#www.cactusclub.it #
+Calabria#Marina di Gioiosa Jonica#Via Montezemolo, 65/67 #Gambero Rosso#0964.415806 #Sculli Riccardo #$Ristorante#www.gamberorosso.rc.it #38.17934$16.19632
+Calabria#Melia di S. Roberto#Via Purgatorio #La Locanda di Marcello#0965.755407 #Briganti Fortunata Note:  #$Hotel$Ristorante$SalaRicevimento##
+Calabria#Melito Porto Salvo#Via Madonnuzza, 5 #L'Angelo Biondo#345.0661905 #Montoli Massimo #$Ristorante$Pizzeria##
+Calabria#Motta San Giovanni#L.re Cicerone - Lazzaro #L'Accademia#0965.714132 #Albano Demetrio #$Ristorante#www.accademia.it #37.965$15.6698
+Calabria#Reggio Calabria#Via S. Barbara,13 - Gallina #Arca di Joli#0965.682156 #Polimeno Vittoria #$Ristorante##
+Calabria#Reggio Calabria#Via Vico Leone, 1-3-5 #Baylik#0965.48624/338.7876375 #Zappia Fortunato #$Ristorante#www.baylik.it #
+Calabria#Reggio Calabria#Via Sbarre C.li, 775 (Ponte S. Agata) #Bridge Lounge Pub#0965.025504 #Vinci Stefano #$Pub##
+Calabria#Reggio Calabria#c/o la Fac. di Archit.-salita Melissari #Caffetteria Biesse#0965.800213 #Stilo Gabriella #$TavolaCalda##
+Calabria#Reggio Calabria#Via Paolo Renosto - Bocale 2° #Calipso (ex La Baita)#0965.676017 #Riggio Antonio #$Ristorante$Pizzeria##
+Calabria#Reggio Calabria#Via Condera Marianazzo, 31 #Circolo Ricreativo Villeggiante#0965.324943 #Morabito Diego  #$Ristorante#www.circoloricreativovilleggiante.org #
+Calabria#Reggio Calabria#Via Giunchi, 6 #E' Hotel#0965.893000 #Boccia Giovanna Note:  #$Hotel$Ristorante##
+Calabria#Reggio Calabria#Via Sbarre Centrali, 765 #El Puente#0965.594465 #Pangallo Leo #$Pizzeria##
+Calabria#Reggio Calabria#Via Filippini, 1/a #Giarò#0965.330487 #Condò Gianfranco Note:  #$Ristorante##
+Calabria#Reggio Calabria#Via Torrione, 78 #Il Gusto#329.8528092 #Catona Demetrio #$Ristorante$Catering$TavolaCalda##
+Calabria#Reggio Calabria#Via S. Caterina, 29 #Il Rusticone#0965.44433 #Scipione Alberto #$Pizzeria##
+Calabria#Reggio Calabria#Via del Seminario, 5 #La Tavernaccia#329.9089514 #Brivitello Mario #$Ristorante$Pizzeria##38.09446$15.65128
+Calabria#Reggio Calabria#Via Antonio Cimino, 54 #Le Specialità Senza Glutine#0965.324461/389.5175153 #Curatola Massimo #$Ristorante$Pizzeria##
+Calabria#Reggio Calabria#Via Vitt. Veneto, 57 #Museum Center#0965.890986 #Fiammella Giovanni #$Ristorante$TavolaCalda$Bar##
+Calabria#Reggio Calabria#Via Guglielmo Pepe 12/a #Pizza New#0965.324461 #Curatolo Massimo #$Ristorante$Pizzeria##
+Calabria#Reggio Calabria#Via S. Barbara, 13/a - Gallina #Unicità#0965.680527 #Chilà Paolo #$Pizzeria##
+Calabria#Roccella Jonica#S.S. 106 #La Cascina#0964.866675 #Reale Edmondo #$Ristorante##38.32215$16.40547
+Calabria#Roccella Jonica#S.S. 106 c.da Lacchi #La Pineta#0964.863384 #Apicella Antonio #$Ristorante$Pizzeria##
+Calabria#Roccella Jonica#Via Orlando, 5 #La Taverna di Bacco#0964.85666 #Magrì Isabella #$Ristorante$Pizzeria##
+Calabria#Roccella Jonica#C.da Badessa #Parco dei Principi#0964.860201 #Agostino Joseph Note:  #$Hotel##
+Calabria#Roccella Jonica#C.da Canne #Ranch Sound#0964.863389 #Ferraro Ivana #$Ristorante$Pizzeria##
+Calabria#S. Stefano d'Aspromonte#Via Nazionale Cucullaro #B&B Musolino-La Civetta#0965.740304 #Musolino Francesco #$Ristorante##
+Calabria#S. Stefano d'Aspromonte#Via Nazionale, 53 #Le Fate dei Fiori#0965.749015 #Zema M.T./Blasi V. Note:  #$Albergo$Ristorante##
+Calabria#Saline Joniche#Via Nazionale, 195 #Naif#0965.772968 #Verduci Angelo #$Ristorante$Pizzeria##37.94145$15.71359
+Calabria#Sant'Agata del Bianco#Via Fontana 12 #Nonna Giulia#0964.956180/338.9450306 #Strangio Mario #$Ristorante$Pizzeria##
+Calabria#Santo Stefano in Aspromonte#Via degli Abeti - Gambarie #Rifugio Husky#349.2351243 #Vazzana Giuseppe Note:  #$Ristorante$Pizzeria##38.16455$15.83946
+Calabria#Scilla#Via G. Oriccioli, 26 #Krataiis#0965.754022 #Scarano Domenico #$SalaRicevimento$Ristorante##
+Calabria#Siderno#S.S. 106 #Hotel President#0964.343191 #Passarelli Vincenzo Note:  #$Hotel$Ristorante##
+Calabria#Siderno#Via Mediterraneo, 78 #La Mimosa#0964.342303 #Simone Antonella #$Ristorante$Pizzeria##38.25669$16.28408
+Calabria#Siderno#Via Nazionale #Magia#0964.347989 #Racco Giancarlo #$Ristorante$Pizzeria##
+Calabria#Taurianova#Contrada Pegara #La Cucciarda#0966.612766 #Galluccio Giuseppe #$Ristorante$Pizzeria#www.lacucciarda.it #
+Calabria#Taurianova#C.da Crocicchia c/o Parco Comm.le La Cometa #Metropolis' Pizza#0966.645073/338.9280149 #Sicari Giuseppe #$Ristorante$Pizzeria##
+Calabria#Villa S. Giovanni#Loc. Str. Cannitello #Borgo Santa Trada#0965.795600 #Cuzzola Vincenzo Note:  Prezzo min/max:  #$SalaRicevimento##
+Calabria#Villa S.Giovanni#Via Ammiraglio Curzon #De la Ville#0965.795600 #Cuzzola Vincenzo Note:  #$Hotel$Ristorante##
+Calabria#Mileto#Via Vitt. Emanuele III, 125 #Blue Moon#393.0286364 #Manuli Mike #$Pizzeria##
+Calabria#Pizzo#Via A. Anile, 8 #Hale Bopp#0963.532259 #Chirumbolo Graziella #$Ristorante##
+Calabria#Pizzo#Fondo Gigliolo - Lago Angitolo #Il Borgo sul Lago#0963.253663 #Galati Domenico #$Ristorante#www.ilborgosullago.it #
+Calabria#Ricadi#Contrada Campia #Villaggio Pineta Petto Bianco#0963.665768 #Gembska Maya #$Hotel$Ristorante$Ristorante#www.villaggiopettobianco.it #
+Calabria#Rombiolo#Loc. Romanò str.prov. Nicotera #Il Casolare#340.1512890 #Ranieli Michele #$Agriturismo##
+Calabria#Serra San Bruno#Località La Chiusa #Fondo dei Baroni#0963.71706 #Domenico De Paola #$Agriturismo#www.fondodeibaroni.it #38.57917$16.33250
+Calabria#Vibo Marina#Via Longobardi, 15 #Birreria Tato's#0963.571530 #Calio Salvatore #$Ristorante$Pizzeria#www.tatosonline.com #
+Calabria#Vibo Marina#Via A. Vespucci #La Rada#0963.577030 #Massara Alfonso Note:  #$Ristorante##
+Calabria#Vibo Valentia#S.S. 18 Km.434 #San Leonardo Resort#0963.577317 #Labate Gaetano Note:  #$Hotel$Ristorante##

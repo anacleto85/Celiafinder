@@ -1,0 +1,19 @@
+Basilicata#Matera#P.zza Cesare Firrao, 7 #Alle Fornaci#0835.335037 #Ferrante Michele #$Ristorante##
+Basilicata#Matera#Via Olivetti, 155 #Assapora da Claudio#0835.389383/328.0021486 #Ingusci Mirko #$Ristorante$Pizzeria##
+Basilicata#Matera#Via della Tecnica, 40 zona Paip #Sala Garden#0835.262685 #Moliterni Giuseppe #$SalaRicevimento##
+Basilicata#Matera#Via Dante, 54/56 #Sapere e Sapori#0835.256548 #Fontana Franco - Antezza A. #$Ristorante##
+Basilicata#Metaponto#S.S. 407 svincolo S.S. 106 #Mojito#0835.745439 #Carella Domenico #$Agriturismo$Ristorante$Pizzeria##
+Basilicata#Albano di Lucania#C.da Fontanili #Fontanili#0971.981126 #Tomacci Nicola #$Ristorante$Pizzeria##
+Basilicata#Brienza#Contrada Santa Domenica 17 #Antica Villa#0975.381210 - 333.5966708 #Macchia Paolo #$Ristorante$Pizzeria##
+Basilicata#Grumento Nova#Contrada Traversiti #H. Park Grumentum#0975.65592 #Radesca Nicola Note:  #$Hotel$Ristorante##
+Basilicata#Melfi#Via Cittadinanza Attiva #Sole di Mezzanotte#0972.236819 #Sonnessa Michele #$Ristorante$Pizzeria##
+Basilicata#Monticchio Laghi#Via Lago Grande #Lago Grande#0972.731181 #Carlucci Giuseppina #$Ristorante$Pizzeria##
+Basilicata#Muro Lucano#Via Belvedere #Hotel delle Colline#0976.2284 #Ciaglia Domenico Note:  Prezzo min/max:  #$Hotel$Ristorante$Pizzeria$Catering##40.75239$15.482035
+Basilicata#Muro Lucano#C.da Fontanelle #Miramonti#097.62657 #Tolomeo Antonietta #$Hotel$Ristorante$SalaRicevimento##
+Basilicata#Picerno#C.da Serralta, 12 #La Sosta dei Cavalieri#0971.990035 #Tisci Gustavo #$Agriturismo#www.agritisci.com #
+Basilicata#Pignola#Contrada Tora, c/o Lago Pantano #Hurricane#0971.486204 - 349.2961411 #Santarsiero Giuseppe #$Ristorante$Pizzeria##
+Basilicata#Pignola#C.da Tora, 17/bis #Il Gazebo#0971.471471 #De Stefano Giuseppe #$Ristorante$Pizzeria##40.612$15.75418
+Basilicata#Potenza#Via Due Torri, 6/8 #Due Torri#0971.411661 #Buchiccio Donato #$Ristorante$Catering##
+Basilicata#Potenza#V.le Dell'Unicef cc Galassia #Gambero Rosso#0971.470989 #Barra Gennaro #$Ristorante$Pizzeria#www.gamberorosso.apotenza.it #
+Basilicata#Rionero In Vulture#Via Ronco Rigillo 3 #La Nuit#0972.722052 #Campanella Pietro #$Ristorante$Pizzeria##
+Basilicata#Ruvo del Monte#C.da Serre S. Andrea #Locanda al Giglio D'Oro#0976.97516 #Armiento Maria #$Ristorante#www.gigliodoro@altervista.org #

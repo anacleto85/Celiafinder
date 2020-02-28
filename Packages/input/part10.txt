@@ -1,0 +1,126 @@
+Sicilia#Agrigento#Via Cavaleri Magazzeni #Le Caprice#0922.411364 #Rizzuto Marco #$Ristorante$Pizzeria##37.277$13.6022
+Sicilia#Agrigento#P.zza Lena,7 #Terra & Mare#0922.25413 #Rizzuto Valentina #$Trattoria##37.31176$13.57817
+Sicilia#Cammarata#Via Ugo La Malfa, 10 #S. Martino de Kamerata#0922.905572 #Albanese Dario Davide Note:  #$Ristorante$Pizzeria##
+Sicilia#Campobello di Licata#Via Edison, 162 #La Madonnina#0922.870177 #Gruttadauria Giovanni #$Ristorante$Pizzeria##
+Sicilia#Canicattì#Via Pirandello, 24,28,30 #Pasticceria Termini#0922.851519 #Diana Maria Note:  Prezzo min/max:  #$Catering$TavolaCalda##
+Sicilia#Licata#C.da Piano Cannelle #Parco degli Ulivi Rumè#0922.898369 #Rumè Tommaso #$Ristorante$Pizzeria#wwwparcodegliulivirume.com #
+Sicilia#Menfi#C.da Cinquanta ex via Madonia, 5 #L'Antica Brasserie#349.1247959 #Petruccio Claudio #$Ristorante$Pizzeria##
+Sicilia#Sciacca#Vicolo Sammaritano,10 #Hostaria del Vicolo#0925.23071 #Bentivegna Antonino #$Trattoria##37.51156$13.08046
+Sicilia#Villaseta#Via Fosse Ardeatine, 59 #La Trizzera#0922.512415 #Diego Genova #$Ristorante$Pizzeria##
+Sicilia#Caltanissetta#Via Ten. Lilly Bennardo,11 #Al Rustico#0934.23350 #Cannarozzo Umberto #$Pizzeria##
+Sicilia#Caltanissetta#C.da Canicassè snc #Az. di Turismo Rur. Belvedere#0934.568166 #Lombardo Michele #$Agriturismo##
+Sicilia#Caltanissetta#P.zza Repubblica s.n. #Panineria Calà#0934.591278 #D'Aleo Maria Teresa #$Ristorante##
+Sicilia#Caltanissetta#Via Fasci Siciliani, sn #San Michele#0934.553750 #Cicardo Calogero #$Hotel$Ristorante##
+Sicilia#Caltanissetta#Via P. Leone, 45 c.da Fontanelle #Scuderie La Rana#0934.592437 #Amorelli Michele #$Agriturismo##
+Sicilia#Caltanissetta#Via Piero Leone s.n. #Totò e Peppino#0934.555037 - 348.4751539 #Coniglio Giuseppe #$Ristorante$Pizzeria##
+Sicilia#Mazzarino#Via La Loggia, 4 #Casa Canalotto#0934.1900766 #Ridolfo Nicastro A. Note:  #$Agriturismo##14.241333$37.259262
+Sicilia#Mazzarino#V.le della Resistenza, 17/a #Pizzeria Ciancio#338.9991558 #Bonanno Pina #$Pizzeria##
+Sicilia#S. Caterina Vill.sa#Via Aldisio,52 #La Variante#0934.679843 #Giancarlo Polizzi #$Pizzeria##
+Sicilia#S. Caterina Vill.sa#Via Risorgimento, 32 #Le Delizie#339.4072111 #Angelo Amico #$Ristorante$Pizzeria##
+Sicilia#San Cataldo#V.le Italia, 73 #Mediterranea#0934.571045 #Volo Domenico #$Pizzeria##
+Sicilia#Acicastello#Via Stazione, 32 #Acido Lattico#095.7111001 #Pappalardo Placido #$Pizzeria##37.55617$15.14075
+Sicilia#Acicastello#Via A. Musco,13/a #La Scogliera#095.494634 #Tripodo Francesco #$Ristorante##
+Sicilia#Acireale#P.zza Mazzini, 8 #Gustofree#0952.868405 #Di Mauro Maurizio #$Bar$TavolaCalda##
+Sicilia#Acireale#Via Cristoforo Colombo, sn #La Caverna del Mastro Birraio#095.8035019 #Grasso Giacomo #$Ristorante$Pub##
+Sicilia#Acireale#Via Marchese di S. Giuliano,53/57 #Le Quattro Stagioni#095.7634196 #Puglisi Antonino #$Pizzeria##37.61505$15.15912
+Sicilia#Acitrezza#P.zza Verga, 6-7 #Pellegrino#095.276060 #Pellegrino Salvatore Note:  Prezzo min/max:  #$Pizzeria##37.563425$15.16138
+Sicilia#Belpasso#C.da Segreta #Feudo Delizia#095.918950 #Pappalardo Angelo #$Ristorante##37.63252$14.98836
+Sicilia#Belpasso#C.da Davara,15 #Villa Rigoletto#095.355051 #Santoro Pietro Note:  #$SalaRicevimento##
+Sicilia#Biancavilla#Via Cristoforo Colombo 20/a #La Pizza#333.1403775/327.2816028 #Santangelo Aurelio #$Pizzeria##
+Sicilia#Caltagirone#Via Vespri, 20/a #La Piazzetta#0933.24178 #Ascanio Giuseppe #$Ristorante$Pizzeria##37.23971$14.51395
+Sicilia#Cannizzaro#Via A. da Messina, 45 #Il Timo/Sheraton Catania Hotel#095.7114764 #Piazza Saverio Note:  #$Hotel$Ristorante##
+Sicilia#Catania#Via S. Orsola, 15/a #5 Spezie by Gusto#095.2863598 #Patti Alessandro Note:  #$Pub$Ristorante##
+Sicilia#Catania#Via Vitt. Emanuele, 419-421 #Il Capriccio#095.326288 #Lombardo Giuseppe #$Pizzeria#www.pizzeriaceliaci.altervista.org #
+Sicilia#Catania#Via Crociferi, 76 #Metrò#095.322098 #Baciulli Aldo #$Ristorante##37.50613$15.08476
+Sicilia#Catania#Via A. Decurtis, 8 #Primopiano#095.531028 #Vicino Fabio/Leonardi A. #$Ristorante$Pizzeria$Catering$SalaRicevimento##
+Sicilia#Catania#V.le M. Rapisardi,114 #Rigoletto#095.355051 #Pietro Santoro Note:  #$Ristorante##
+Sicilia#Giarre#Via S. d'Acquisto, 10 #Le Cisterne#095.965093 #Pappalardo Davide #$Ristorante$Pizzeria##37.73011$15.16712
+Sicilia#Gravina di Catania#Piazza della Regione, 1 #Al Nord Est#095.394797 #Beffumo Giovanni #$Ristorante$Pizzeria##
+Sicilia#Nicolosi#Via Garibaldi,64 #Nero di Cenere#095.7918513 #Laudani Giusy #$Ristorante##
+Sicilia#Paternò#Piazzale Diritti Umani, 6/7 #Capricci di Gola#340.7296029 #Spartà Salvatore #$Pizzeria##37.56380$14.89972
+Sicilia#S.Giovanni la Punta#Via Piave,3 #Giardino di Bacco#095.7512727 #Trischitta Salvatore #$Ristorante##
+Sicilia#Torre Artirafi#Via E. Pantano, 135/137 #La Torretta di Federico#095.971596 #Curcuruto Federico Note:  #$Ristorante##
+Sicilia#Zafferana Etnea#P.zza Umberto I, 25/26 #Il Castello di Bacco#095.7093009 #Cavallaro Eric #$Ristorante$Enoteca##
+Sicilia#Zafferana Etnea#Via delle Ginestre,1 #Parco dei Principi#095.7082335/339.5875209 #Sorbello Sebastiano #$Ristorante$SalaRicevimento#www.ristoranteparcodeiprincipi.it #
+Sicilia#Zafferana Etnea#Via Zafferrana - Milo, 23 #Villa Mirador#095.7082890 #Torrisi Marco #$Ristorante##37.701825$15.109625
+Sicilia#Agira#C.da Mandre Bianche #Fud Sud Group c/o Sicily Outlet Vill.#0935.594044 #Tudisco Francesco #$Ristorante$Pizzeria##
+Sicilia#Enna#P.zza A. da Messina, 2/4 #Bar Di Maggio#0935.29343 #Di Maggio F.sco Paolo #$TavolaCalda##
+Sicilia#Pergusa-Enna#Via Nazionale, 121 #Park Hotel La Giara#0935.541687 #Messina Giovanni #$Hotel$Ristorante#www.parkhotellagiara.it #
+Sicilia#Pergusa-Enna#Villaggio Pergusa #Riviera Hotel#0935.541267 #Spampinato Giuseppe Note:  #$Hotel$Ristorante$Pizzeria##
+Sicilia#Piazza Armerina(Mirabella Imbaccari)#C.da Gatta #La Rondine#0933.991139 #Berretta Giuseppe #$Ristorante##
+Sicilia#Acquedolci#C.da Oliveto #La Cascina#0941.726193 #Liotta Domenica T. #$Ristorante$Pizzeria##43.64933$13.11066
+Sicilia#Barcellona#Via Giorgio Amendola, 49 #Il Girasole#090.9794534 #Duci Carmelo #$Pizzeria##
+Sicilia#Barcellona P.G.#Via Mons. Angelo Paino,10 #Time Out#090.2404083 #Maio Alessandro #$Pizzeria##
+Sicilia#Barcellona Pozzo G.#Via Acqua Calda 16/5 #Da Tonino#090.9798640 #Genovese Antonino #$Ristorante$Pizzeria##
+Sicilia#Capo D'Orlando#Via Torrente Forno, 54 #Il Torrente#0941.901970 #Conti Giuseppe #$Ristorante$Pizzeria#www.iltorrente.it #
+Sicilia#Castel di Tusa#Via Nazionale, 36 #Il Faraone#0921.334464 #Trippodo Amalia #$Ristorante$Pizzeria##
+Sicilia#Galati Mamertino#C.da Sciara  #Fattoria Fabio#0941.434042 #Fabio Giacomo #$Ristorante##
+Sicilia#Itala#Via S. Caterina, 17 #Le Giare#090.9595006 #Cacciola Giovanna #$Hotel$Ristorante##
+Sicilia#Itala Marina#trav Prov.le 15 #Da Natale#090.953144 #Micalizzi Giuseppe #$Ristorante$Pizzeria##
+Sicilia#Messina#C.so Cavour, 109 #Gli Antenati#090.672430 #Forlì Aldo #$Pizzeria$Pub#www.gliantenatipub.it #
+Sicilia#Messina#Via U. Bassi,51 #La Tartaruga#090.2926754 #Pino Onella-Grego #$Ristorante$Pizzeria##
+Sicilia#Messina#Via XXVII Luglio, 79 #Number One#090.774495 #Ritrovato Fabrizio Note:  #$Ristorante$Pizzeria##
+Sicilia#Messina#Via S. Licandro Piazza XXV Aprile #Pizza Sprint#090.59607 #Costa Carmelo #$Pizzeria##
+Sicilia#Milazzo#Via Manzoni, 3/4 #Da Tonino#090.9283839 #Mento Santo #$Ristorante$Pizzeria##
+Sicilia#S. Teresa di Riva#Via Lungomare, 87 #Le Terrazze#0942.792981 #Di Bella Dario #$Ristorante$Pizzeria##
+Sicilia#Valdina#Contrada S. Antonino #Poggio…del Tempo Perduto#090.9977009/348.3223430 #Sindoni Ezio #$Ristorante$Pizzeria##
+Sicilia#Castelbuono#P.zza Ten. Schicchi, 3 #Antico Baglio#0921.679512 #Allegra Natale #$Ristorante$Pizzeria#www.anticobaglio.it #
+Sicilia#Misilmeri#C.da Ballestreros, 10 #Al Vecchio Maniero#091.8724471/338.9427391 #D'Antoni Salvatore #$Ristorante$Pizzeria$Catering##
+Sicilia#Palermo#Via Paolo Paternostro, 28 #Ai Vecchietti#091.585606 Persona/e di riferimento:  #PL DS PIZZA POINT Prezzo min/max:  #$Ristorante$Pizzeria##
+Sicilia#Palermo#Via Altofonte 317 #Divini Restaurant#091.6631673/346.4756880 #Sciortino Francesco #$Ristorante$Pizzeria##
+Sicilia#Palermo#Via Briuccia,24 #King#091.511098 #Alagna Marco #$Trattoria$Pizzeria##38.15259$13.333725
+Sicilia#Palermo#Via S. Isidoro,23/B #Trinkhouse#091.6731010 #Bosco Nicolò #$Pizzeria##
+Sicilia#Partinico#C.da Garofalo #Villa Teresa#091.8908134 #Marchese Rosalia #$Ristorante$Pizzeria##
+Sicilia#Valledolmo#Via Vittorio Emanuele III,99 #Il Girasole#0921.543497/328.0077798 #Mulè Rosario #$Ristorante$Pizzeria##
+Sicilia#Modica#Via Resistenza Partigiana #G & B#0932.762076/349.2619166 #Blandino Katya #$Ristorante$Pizzeria##
+Sicilia#Pozzallo#Via M. Rapisardi, 179/a #Mastro Pizza#0932.956763 #Carbonaro Pietro Note:  #$Pizzeria##14.853698$36.732846
+Sicilia#Ragusa#Via M. Coffa, 20 #Caffè Bistrò#0932.624634 #Leggio Daniele #$Ristorante$Catering##
+Sicilia#Ragusa#Via M. Rumor #Cuccagna In…#0932.255469 #Roccasalva Vincenzo #$Ristorante$Pizzeria##
+Sicilia#Ragusa#C.da Gaddimeli #L'Abbuffata#0932.239521 #Scrofani Emanuela #$Ristorante$Pizzeria#www.labbuffata.com #36.473867$14.330672
+Sicilia#Augusta#Lungomare Rossini #Red Lions#0931.994086 #Paolini Angelo #$Pizzeria##
+Sicilia#Avola#V.le Sandro Pertini, 43 #Portomatto#0931.822207 #Molisina Gianpaolo #$Pizzeria$Ristorante##
+Sicilia#Avola#Via Aldo Moro, 121 #Rosa Blu#0931.564738 #Salvatore Auricchia #$Ristorante$Pizzeria##
+Sicilia#Lentini#Via Etnea sn #Sicilia Nostra#0957.838582 #Romano Massimiliano #$Ristorante$Pizzeria#www.sicilianostra.it #
+Sicilia#Noto#C.da Fiumara #I Giardini di Noto#0931.839730/339.3519509 #Zacco Gianfranco #$Ristorante$Pizzeria##
+Sicilia#Noto#Via Tommaso Fazello,178 #Mille e una Pizza#0931.571571 #Gulizia Salvatore #$Pizzeria##
+Sicilia#Palazzolo Acreide#Via Antonino Uccello, 1 #La Corte di Eolo#0931.883185 #Migliore Giorgio #$Ristorante##
+Sicilia#Rosolini#Via Aldo Moro,8 #Squillo da Vitaliano e Rosanna#0931.859994 #Fonterrè Vitaliano #$Pizzeria##
+Sicilia#Siracusa#Via Vitt. Veneto, 93 #Algilà#0931.465186 #Taranto Mariella #$Hotel$Ristorante#www.algila.it #
+Sicilia#Siracusa#Via Giuseppe Di Natale,16 #Bar Milano#0931.68720 #Mangiafico Sebastiano #$Pizzeria$Bar##
+Sicilia#Siracusa#Piazza Duomo,16 #Caffè del Duomo#0931.21544 #Romano Carmelo #$Ristorante$Pizzeria##
+Sicilia#Siracusa#Viale Teocrito ,69/A #Don Chisciotte#0931.64324 #Amato Alberto Note:  Prezzo min/max:  #$Pizzeria##
+Sicilia#Siracusa#Trav. Torre Landolina, 11 #Il Podere#0931.449390 #Maria Luca Note:  Prezzo min/max:  #$Hotel$Ristorante##
+Sicilia#Siracusa#V.le Scala Greca, 409 #Vagabunda#0931.493900 #Montalto Graziano #$Ristorante$Pizzeria##
+Sicilia#Sortino#Via Santa Sofia,19 #Nabila#0931.95395 #Privitera Matteo #$Ristorante$Pizzeria##
+Sicilia#Alcamo#C.da S. Gaetano, 1/a #G.F.D. di Impellizzeri (Gulliver)#0924.24012 #Impellizzeri Giuseppe Note:  #$Ristorante$Pizzeria##37.97468$12.96176
+Sicilia#Casa Santa Erice#Via Cosenza, 143 #L'Acquolina in Bocca#0923.1893633 #Cucci Giuseppe #$Ristorante##
+Sicilia#Custonaci#Via S. Vito Locapo, 81 #Le Cave di Cofano#0923.973454 #Carpintieri Giuseppe Note:  Prezzo min/max:  #$SalaRicevimento##
+Sicilia#Erice#Via Clemente, 158 #Panorama#0923.533333 #Evangelista Francesco #$Ristorante##
+Sicilia#Erice#Via Chiaramonte, 45 #Ulisse#0923.869333 #Grammatico Mariano #$Ristorante$Pizzeria#www.sitodiulisse #
+Sicilia#Gibellina#Via Federico dei Roberto #Pizza Time#092.467799 #Binaggi Vincenzo #$Ristorante$Pizzeria##
+Sicilia#Guarrato#C.da Misiliscemi #Agrit. Baglio Vultaggio#0923.864261 #Vultaggio Giuseppe Note:  Prezzo min/max:  #$Agriturismo##
+Sicilia#Locogrande-Trapani#Via Vito Tartamella, 1 #Villa Tina#0923.533333 #Puglia Andrea #$SalaRicevimento##
+Sicilia#Marausa#Via E. Rinaldi, 191 #Villa Speranza#0923.843162 #Buongiardino Francesca #$Ristorante$Pizzeria##
+Sicilia#Marsala#C.da Ciappola, SS 115 #Armony#0923.966551 #Maria Annalisa #$Ristorante$Pizzeria##
+Sicilia#Marsala#Via Giovanni Bovio, 28 #La Corte dei Mangioni#0923.951939 #Agliano Giuseppe #$Ristorante##
+Sicilia#Marsala#Via Vaccari, 6 #Monipia#0923.1954055 #Cirstea Marilena #$Trattoria##
+Sicilia#Marsala#C.da Strasatti, 921 #Peppizza#0923.741403 #Di Girolamo Giuseppe #$Ristorante$Pizzeria##37.72965$12.51626
+Sicilia#Marsala#Corso Gramsci 143 #Sir Damian#0923.71168 #Scavone Pietro #$Ristorante$Pizzeria##
+Sicilia#Mazara del Vallo#Via Punica, 1 #Baby Luna#0923.948622 #Novara Vito #$Ristorante$Pizzeria##37.65153$12.58848
+Sicilia#Mazara del Vallo#Via S. Quasimodo, 11 #La Conchiglia#0923.945333 #Verconti Vincenzo #$Ristorante$Pizzeria##
+Sicilia#Mazara del Vallo#Via Salemi, 63 #Mondo Pizza#0923.944248 #Giacalone Antonia #$Pizzeria##
+Sicilia#S. Vito Lo Capo#Via Savoia, 19 #Dal Cozzaro#0923.972777 #Bua Antonio #$Ristorante##
+Sicilia#S. Vito Lo Capo#Via Mondello, 14 #Frii e Mangia#333.2804234 #Sciarrino Patrizia #$Ristorante##
+Sicilia#S. Vito Lo Capo#Via Dante Alighieri, 3 #Gardenia#0923.972188 #Genna Anna #$Hotel##
+Sicilia#S. Vito Lo Capo#Via Duca degli Abruzzi, 8 #Gna' Sara#0923.974366 #Abrignani Caterina #$Ristorante##
+Sicilia#S. Vito Lo Capo#Via Lungomare, 38 #Pepper Jam Cafè#0923.972795 #Cipolla Ippolito F. #$Ristorante$Pub##
+Sicilia#S. Vito Lo Capo#Via Duca degli Abruzzi, 32 #Thaam#0923.972836 #Spagnolo M. Piera #$Ristorante##
+Sicilia#Santa Ninfa#S.S. 119 Km.42,700 #Due Palme#0924.61044 #Giovanni Lo Curto #$Ristorante$Pizzeria##
+Sicilia#Santa Ninfa#Via Di Stefano Perez #Vecchio Casale#347.6274967 #Bonanno Antonino #$Pizzeria##
+Sicilia#Trapani#Via Ericemazara #Al Ponte#0923.559303 #Burgarella Mario #$Ristorante$Pizzeria##
+Sicilia#Trapani#Via Dante Alighieri, 30 #Amici Miei#0923.25907 #Taranto Giuseppe Note:  Prezzo min/max:  #$Pizzeria##
+Sicilia#Trapani#Via Vespri, 194/196 #C'è Pizza per Te#0923.28810 #Genna Maria Patrizia Note:  #$Ristorante$Pizzeria$Ristorante##
+Sicilia#Trapani#P.zza Ciaccio Montaldo, 4 #Da Peppe#339.6899300 #Gianno Giuseppe #$Pizzeria##
+Sicilia#Trapani#Via Motisi, 3 #Duca di Castelmonte#0923.526139 #Curatolo Salvatore Note:  Prezzo min/max:  #$Agriturismo##
+Sicilia#Trapani#Via S. Francesco d'Assisi, 45 #La Locanda dei Frati#0923.21009 #Scarlata Lorenzo Note:  Prezzo min/max:  #$Ristorante$Pizzeria##
+Sicilia#Trapani#Via Dante Alighieri, 122 #Taverna Paradiso#0923.22303 #Curatolo Francesco Note:  Prezzo min/max:  #$Ristorante##

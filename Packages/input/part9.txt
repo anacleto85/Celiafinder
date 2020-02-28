@@ -1,0 +1,46 @@
+Sardegna#Cagliari#Via S. Freud, 5 #Caesar's Hotel#070.340750 #Atzori M./Cherchi V. Note:  #$Albergo$SalaRicevimento##
+Sardegna#Cagliari#Via Palestrina, 94 #Da Rita#070.498044 #De Maria Sara #$Pizzeria##
+Sardegna#Cagliari#Via Sassari, 45 #Flora#070.664735 #Deplano Laura #$Ristorante#www.florasrl.com #
+Sardegna#Cagliari#Viale La Playa, 18 #Galleria 18#070.680377 #Manconi Efren #$Pizzeria##
+Sardegna#Calasetta#P.zza Belli, 4 #Tore#340.0092174 #Fisanotti Assunta #$Pizzeria##
+Sardegna#Pula#Loc. Su Guventeddu #Baia di Nora#070.9245551 #Casu Salvatore #$Hotel$Ristorante##
+Sardegna#Quartu S. Elena#Viale Colombo, 264 #Colombo#070.820608 #Pisano Enrico #$Pizzeria##
+Sardegna#Villasimius#Via Is Follas, loc. Su Fraili #Galika#070.791523 #Furfaro Alessandro #$Ristorante$Bar#www.galika.it #
+Sardegna#Dorgali#Via Concordia, 38 #S'Adde#0784.94412/333.3292701 #Sale Caterina #$Hotel$Ristorante$Pizzeria#www.hotelsadde.it #
+Sardegna#La Caletta#Via Ciusa, 33 #L'Aragosta#0784.810733 #Floris Massimo #$Hotel$Ristorante#www.laragostahotel.com #
+Sardegna#Macomer#Via Piercy, 15 #Gambrinus#0785.70707 #Vallascas Antonio #$Ristorante$Pizzeria##
+Sardegna#Nuoro#Loc. Monteortobene #Fratelli Sacchi#078.431200 #Muceli Giuseppina #$Ristorante$Pizzeria$Bar##
+Sardegna#Nuoro#Via A. Mereu, 28/36 #Il Rifugio#0784.232355 #Nano Silverio #$Ristorante#www.trattoriarifugio.com #
+Sardegna#Nuoro#c/o Centro Com.le Pratosardo #Tamatta#0784.294147 #Palma Tiziana #$Pizzeria##
+Sardegna#Siniscola#Via G.F. Conteddu, 101 #La Capanna#0784.874110 #Pau Giovanni Torquato #$Pizzeria##
+Sardegna#Torpè#Loc. Santeddu - via Milano, 5 #Sa Inza#328.2579271 #Magrini Andreina #$Agriturismo#www.agriturismosainza.it #
+Sardegna#Siamaggiore#SS. 131 Km.99 #Da Renzo#0783.33685 #Pinna Pina #$Ristorante##
+Sardegna#Arzachena#Loc. Pulicinu, box 1392 #La Rocca#0789.933011 #Tali Chiara #$Ristorante#www.ristorantelarocca.net #
+Sardegna#Badesi#Loc.tà Li Junchi, snc #Resort Le Dune#079.610200 #Spinella Calogero #$Albergo##40.977387$8.857984
+Sardegna#Bortigiadas#SS 127 Km. 53 #Golden Gate#079.627174 #Pulina Gianfranco #$Hotel$Ristorante#www.ristorantegoldegate.ory.it #
+Sardegna#Budoni#Via Agamennone, 9 fraz. Tanaunella #La Volpe#0784.837388 #Limina Luciano #$Ristorante$Pizzeria##
+Sardegna#Cannigione#Loc. Monti Corru #Hotel Cala di Falco#0782.899200 #Canu Guido #$Hotel##41.112501$9.440217
+Sardegna#Luras#Loc. San Leonardo Lago Liscia #Funtana Abbas#079.669000 #Leoni Mario #$Hotel$Ristorante#www.funtanaabbas.net #
+Sardegna#Olbia#V.le Murta Maria, 33 #Caffetteria della Nonna#0789.379025 #Deiana Maurizio Note:  #$Hotel$Ristorante$Bar##
+Sardegna#Olbia#C.so Umberto, 145 #Gallura#078.924648 #Denza Rita #$Ristorante##
+Sardegna#Olbia#Via Puglie, snc #H. Mercure Olbia Hermaea#0789.1890067 #Capellupo Carmine Note:  #$Albergo$Ristorante##
+Sardegna#Palau#Loc. Cala di Lepre #H. Cala di Lepre-Delphina Hotels#0789.702142 #Azara Andrea #$Hotel#www.delphinahotel.it #41.169237$9.410047
+Sardegna#Palau#Loc. Cala Capra #H. Capo d'Orso-Delphina Hotels#0789.702000 #Romanini Claudio #$Albergo##41.169383$9.420862
+Sardegna#Palau#Loc. Cala Capra #Il Paguro#0789.702000 #Malaguarnera Angelo #$Ristorante#www.delphina.it #
+Sardegna#Porto Cervo#Piazzetta di Porto Cervo #Cervo H. Costa Smeralda Resort#0789.931111 #Carta Alessandra #$Hotel$Ristorante$Pizzeria#www.sheraton.com/cervo #
+Sardegna#S. Teodoro#Via del Tirreno Spiaggia La Cinta #Al Faro#0784.865665 #Sanna Giacomo #$Hotel$Ristorante$Pizzeria##
+Sardegna#S. Teresa di Gallura#Loc. Valle dell'Erica #Resort Valle dell'Erica#0789.750020 #Panunzio Giuseppe Antonio #$Albergo#www.hotelvalledellerica.com #41.228668$9.278082
+Sardegna#Tempio Pausania#Loc. Bonvicino km.39,900 SS 127 #Bonvicino#079.674065 #Quargnenti Francesco #$Ristorante$Pizzeria#www.ristorantebonvicino.com #9.094133$40.542868
+Sardegna#Tempio Pausania#P.zza Gallura, 27 #Museum#079.671083 #Mandaresu Salvatore #$Ristorante$Bar##
+Sardegna#Tempio Pausania#S.S. 133 Km.1 #Pausania Inn#079.634037 #Sanna Giovanni #$Hotel$Ristorante#www.hotelpausaniainn.com #
+Sardegna#Trinità D'Agultu#Loc. Isola Rossa #Hotel Marinedda Thalasso & SPA#079.694185 #Zanni Davide #$Hotel#www.delphina.it #41.011268$8.885536
+Sardegna#Trinità D'Agultu#Loc. Isola Rossa #Hotel Relax Torreruja - Delphina Hotels#079.694155 #Fumagalli Alessandro #$Hotel#www.delphina.it #41.013826$8.876824
+Sardegna#Alghero#Via Gramsci, 8 #Aragon#0799.731001 #Pesapane Alessandro #$Ristorante$Pizzeria##
+Sardegna#Castelsardo#Via Sedini #Rocca'ja#079.470164 #Speziga Giorgia #$Ristorante$Pizzeria##
+Sardegna#Ossi#Via Roma 50 #S'Ispidudue#079.348219 #Lubinu Gianpiero #$Ristorante$Pizzeria##
+Sardegna#Ozieri#loc. S. Pantaleo #Terra D'Oro#079.758904 #Rattu Pierfranco #$Pizzeria##
+Sardegna#Porto Torres#Piazza Garibaldi, 13 #Piazza Garibaldi#079.501570 #Massimiliano Cilia #$Ristorante$Pizzeria##
+Sardegna#Sassari#Loc. Bancali SP 218 #I 3 Leoni#079.308041 #Delrio Cristian #$Pizzeria##
+Sardegna#Sassari#Via Carlo Felice, 33 #Tiffany#079.272434 #Nieddu Jessica #$Ristorante$Pizzeria##
+Sardegna#Sardara#P.zza E. Lusso, 11 #Antica Casa Diana#070.9386617 #Vaccargiu Roberto #$Hotel$Ristorante$SalaRicevimento$Catering##
+Sardegna#Segariu#Via Umberto I #Da Taty#340.8659339 #Caddeu Franca #$Catering##

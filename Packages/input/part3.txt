@@ -1,0 +1,19 @@
+Alto Adige#Bolzano#Via Rovigo 14 #La Lanterna#0471.502107 #Frizzera Remo #$Ristorante$Pizzeria##
+Alto Adige#Bressanone#Loc. La Mara 107 #Harpf#0472.851047 #Harpf Peter #$Ristorante$Pizzeria##
+Alto Adige#Caldaro#Via S. Antonio, 23 #Pensione Christl#0471.963173 #Rigott Rosalinde #$Albergo##
+Alto Adige#Campo Tures#Via Wiesenhof, 39/41 #Alphotel Stocker#0474.678113 #Stocker Anna Elisabeth Note:  Prezzo min/max:  #$Hotel##
+Alto Adige#Campo Tures#Via Municipio, 6 #Hotel Drumlerhof#0474.678068 #Ruth Innerhofer #$Hotel$Ristorante#www.drumlerhof.com #
+Alto Adige#Laives#Via Kennedy, 258 #Grill Raif#0471.590681 #Cibien Guerrino #$Ristorante$Pizzeria##
+Alto Adige#Marebbe#La Plì, 29 #Ucia Picio Prè#338.1406452 #Rigo A./Morlang P. #$Ristorante##
+Alto Adige#Meltina#Località Salonetto, 7 #Pensione Schlaneiderhof#0471.668147 #Tratter Elisabeth #$Albergo##
+Alto Adige#Molini di Tures#Via Tures, 23 #Schofflmair#0474.678126 #Unterhofer Johann #$Hotel$Pizzeria##
+Alto Adige#Ortisei#Via Rezia, 308 #Hartmann#0471.774444 #Prinoth Ezio #$Hotel##
+Alto Adige#Parcines#Via Venosta,38 #Hotel Weiss#0473.967067 #Hans Peter/Monica Weiss #$Hotel##
+Alto Adige#Postal#Via Roma 44 #Happy#0473.290057 #Zangrandi Emanuele #$Ristorante$Pizzeria##
+Alto Adige#S. Sigismondo Chienes#Via Pusteria, 16 #Petra#0474.569600/348.7094907 #Plankensteiner Norbert #$Ristorante$Pizzeria##
+Alto Adige#San Candido#Via Hueber, 2 #Acquafan#0474.914102 #Dapoz Marco #$Ristorante$Pizzeria##
+Alto Adige#Selva di Val Gardena#Via Puez, 24 #Acadia Beauty & Relax#0471.774444 #Prinoth Ezio Note:  #$Hotel##
+Alto Adige#Sesto-Sexten#Via S. Giuseppe, 40 #Family Resort Rainer#0474.710366 #Verena Rainer #$Hotel$Ristorante$Pizzeria$Catering##
+Alto Adige#Siusi allo Sciliar#Via Ibsen, 29 #Hotel Villa Madonna#0471.708860 #Minuscoli Enrico Note:  Prezzo min/max:  #$Hotel##
+Alto Adige#Tirolo#Via Principale, 3 #Mair am Turm#0473.923307 #Prantl Christine #$Hotel$Ristorante##
+Alto Adige#Valle Aurina#Via St. Johann,5/6 #Sporthotel e Resid. Griesfeld#0474.671172 #Prenn Josef/Hannelore Note:  #$Hotel##

@@ -1,0 +1,248 @@
+Puglia#Acquaviva delle Fonti#Prov.le 127 per Santeramo in Colle #Villa dei Fiori#080.769293 #Ventura Domenico #$Ristorante$Pizzeria$Catering##
+Puglia#Alberobello#S.S. 172 dei Trulli Km.29,800 #La Chiusa di Chietri#080.4325481 #Masciulli Angelo #$Hotel$Ristorante$SalaRicevimento#www.lachiusadichietri.it #
+Puglia#Alberobello#Via Don F. Gigante,4 #La Foggia#080.4325927 #Piepoli Angelo #$Ristorante$Pizzeria##40.78353$17.23537
+Puglia#Altamura#Via Montecalvario, 69 #Punto Giusto#080.3106004 #Petronella Francesco #$Pizzeria##
+Puglia#Altamura#Via San Michele, 28 #Tre Archi#080.3115569 #Plantamura Mina #$Ristorante$Pizzeria#www.trearchi.it #
+Puglia#Andria#Via F. Ferrucci, 175 #Imperiale#0883.557717 #Fucci Giovanni #$Pizzeria##
+Puglia#Bari#C.so Vitt. Emanuele, 126 #Bacco#080.5275871 #Ricatti Franco #$Ristorante##
+Puglia#Bari#Via Cognetti, 17/19 #Caffè Cognetti#080.5247578 #Roveto Giuseppe #$Ristorante##
+Puglia#Bari#Strada Torrelonga, 10 #Corte di Torrelonga#080.5461876 #Giannini Franco Note:  #$SalaRicevimento##41.06785$16.898206
+Puglia#Bari#Via Piccinni 187/189 #Da Bari Napoli#080.9905452 #Simone Maria #$Pizzeria##
+Puglia#Bari#Strada Cannone,14 #G.M. Giardino Magico#080.5491052 #De Giosa Vincenzo #$Pizzeria##41.106649$$16.923087
+Puglia#Bari#Vle Papa Giovanni XXIII, 16/18 #Galu#080.5614739 #Giovannico Romina #$Pizzeria##
+Puglia#Bari#Via Don Guanella, 15/4 #Hilton Garden Inn#080.5026815 #Saulle Mimmo Note:  #$Hotel$Ristorante##41.09542$16.861935
+Puglia#Bari#Via S. Visconti, 29 #Il Braciere#080.5239638 #Mastrolonardo Monica #$Ristorante##
+Puglia#Bari#Via Aurelio Carrante, 21 #Intrattieno#080.9147972 #Danza Olimpia #$Ristorante#www.intrattieno.it #
+Puglia#Bari#Via Capruzzi, 36 A #La Tana 2#080.5537936 #Urbano Angelo #$Pizzeria$Ristorante##
+Puglia#Bari#Via Hahnneman,4 #Le Veronique#080.5461822 #Carlo Ranieri #$Pizzeria##41.09947$16.88575
+Puglia#Bari#Via Verdi, 59/61 #Lido S. Francesco alla Rena#080.5341542 #Piscitelli Lucrezia #$Pizzeria##
+Puglia#Bari#Via Toma, 109 #L'Osteria di Mario#080.5563725 #Tedone G. Mario #$Ristorante##41.10867$16.87622
+Puglia#Bari#Via Capruzzi,326 #Mercure Villa Romanazzi Carducci#080.5427400 #Paldera Franco #$Hotel$Ristorante#www.villaromanazzi.com #
+Puglia#Bari#Via Pietro Nenni, 9/7 #Opera Prima#080.5024244 #Attivissimo Gaetano #$Pizzeria##
+Puglia#Bari#Via Lombardi,13 #Palace Hotel#080.5216551 #Paradiso Vito #$Hotel$Ristorante##
+Puglia#Bari#Via Pietro Colletta, 36 #Pic Nic#080.5615131 #Romano Vito #$Ristorante$Pizzeria#www.ristorantepicnic.it #
+Puglia#Bari#Via C.A. Ciasca, 27 #Sheraton Nicolaus Hotel#080.5682111 #Caragnano Felice Note:  #$Hotel$Ristorante##
+Puglia#Bari#Via Re David, 14 #Taverna Pane e Vino#080.5566187 #Ungaro Monia #$Ristorante#www.tavernapaneevino.it #
+Puglia#Bari#Via Sparano, 13 #Vox Ristorante#080.5244897 #Romanazzi Giuseppe #$Ristorante#www.voxristorante.it #
+Puglia#Bari#Molo S. Nicola, 5 #Zonno Ricevimenti#080.5212470 #Zonno Giuseppe #$Ristorante$SalaRicevimento##
+Puglia#Bari-Palese#Via Nazionale, 10/f #Vittoria Parc Hotel#080.5306300 #Vasile Rosa Note:  #$Albergo$Ristorante##
+Puglia#Barletta#Via Duomo, 29 #Al Duomo#0883.332816 #Russo Giuseppe #$Ristorante$Pizzeria##
+Puglia#Barletta#Via Cialdini, 47 #Al Pomodorino#0883.880273 #Paolillo Vito #$Pizzeria#www.ilpomodorino.it #
+Puglia#Barletta#Via Milano ,73 #Antica Cucina#0883.521718 #Vivo Giuseppe #$Ristorante##41.31762$16.27618
+Puglia#Barletta#Via Foggia, 40 #Best Western Hotel dei Cavalieri#0883.571461 #Distaso Giuseppe Note:  #$Hotel$Ristorante##
+Puglia#Barletta#Via Duomo, 3 #Crèpes à Porter#349.7190791 #Persia Francesca M. #$Ristorante##
+Puglia#Barletta#Litoranea di Ponente #Ginevra#0883.532262 #Diaferia Pasquale #$Ristorante#www.ristoranteginevra.com #
+Puglia#Barletta#V.le Regina Elena, 19 #Il Brigantino#0883.533345 #Nigro Michela #$Ristorante$Pizzeria##41.32066$16.29674
+Puglia#Barletta#Via Municipio, 61 #La Buca dei 13#0883.332403 #Paolillo Carlo #$Ristorante$Pizzeria##
+Puglia#Barletta#Via Andria, 30 #Nuovo Centaro#330.902812 #Fusaro Giacomo #$Ristorante$Pizzeria##
+Puglia#Barletta#V.le Regina Elena, 33 #Seavofà (ex Bagni Teti)#0883.347177 #Iannone Giuseppe #$Pizzeria#www.bagniteti.it #
+Puglia#Barletta#Via Antonio di Gilio, 4 #Taverna Brancaleone#0883.390622 #Valerio Grazia #$Ristorante##
+Puglia#Barletta#Via Cialdini, 21 #Veleno Fish Restorart#0883.532880 #Petruzzelli Vincenzo #$Ristorante##
+Puglia#Barletta#Via Andria, 42/b/c #Zio Mimmo Pizza House#0883.887958 #Maffione Angelo #$Pizzeria##
+Puglia#Bisceglie#Via La Marina, 49 #Borgo Antico#347.4144322 #Ventura Antonio #$Pizzeria##
+Puglia#Bisceglie#Carrara Le Coppe, 2 #Fermata Facoltativa#080.3986055 #Sciannameo Angela #$Pizzeria##
+Puglia#Bisceglie#P.zza Vittorio Emanuele, 27 #La Fontana#347.8851430 #Di Molfetta Angelo #$Pizzeria##
+Puglia#Bisceglie#Via G. Bovio, 200 #La Piccola Botte#080.3922627 #Cantatore Marta #$Ristorante$Pizzeria##41.24286$16.49481
+Puglia#Bitonto#Via Dante, 43 #Arcobaleno#338.2919099 #Lovero Nicola #$Pizzeria##
+Puglia#Bitonto#Via Abbaticchio, 2/6 #Garden Plaza#080.9903180 #Bitetto Gaetano #$Ristorante$Pizzeria$Catering##
+Puglia#Bitonto#Via Carlo Rosa, 12,14,16 #Gizero#080.2473798 #Alberga Domenico #$Ristorante$Pizzeria$Ristorante##
+Puglia#Bitonto#Via Togliatti, 106 #La Dolce Vita#080.3718509 #Antonino Lorenzo #$Ristorante$Pizzeria##
+Puglia#Cassano delle Murge#Via Mellitto c.da Parete #Come una Volta#329.6571959 #Pellecchia Fabio Savino #$Ristorante$Pizzeria##
+Puglia#Cassano delle Murge#C.da Fradiavolo #La Valle di Pietraluna#080.3466058 #Laterza Claudio #$Ristorante$SalaRicevimento#www.lavalledipietraluna.it #
+Puglia#Castellana Grotte#Via Bovio 38 #Bella Capri#080.4962455 #Carella Domenico #$Pizzeria##
+Puglia#Castellana Grotte#SS.237 per Monopoli, km.11 #Il Piatto Fumante#080.4965630 #Recchia Francesco #$Ristorante$Pizzeria#www.ilpiattofumante.it #
+Puglia#Castellana Grotte#S.C. Ferrone, 6 #Park Hotel La Grave#080.4965443 #Pellegrino Nicola #$Hotel$Ristorante$SalaRicevimento##
+Puglia#Castellana Grotte#Prov.le per Alberobello, 153 #Villa Maria#080.4969833 #Schena Marco #$SalaRicevimento##
+Puglia#Cellamare#C.so Roma, 31 #L'Antico Arco#080.4656280 #Schiavone Angela #$Pizzeria##
+Puglia#Conversano#Via Palmiro Togliatti 47 #Dalis Pizza & Wine#080.4950228 #Miccolis Domenico #$Pizzeria##
+Puglia#Conversano#Via Monopoli, 93 #Flame#366.5006211 #Fontana Leonardo #$Ristorante$Pizzeria#www.flamebar.it #
+Puglia#Conversano#Via S. Donato, 5 #Hotel d'Aragona#080.4952344 #Lestingi Giuseppe Note:  #$Hotel$Ristorante$SalaRicevimento##
+Puglia#Conversano#Via Machiavelli, 27 #Il Sapore Perfetto#080.4956353 #Boccuzzi Nicola #$Ristorante$Pizzeria#www.ilsaporeperfetto.it #
+Puglia#Conversano#Via S. Giacomo, 26/28 #Savì#080.4957140 #Savino Vito Nicola #$Ristorante#www.savicreperia.it #40.96076$17.12013
+Puglia#Giovinazzo#Via L.re Marina Italiana,1 #Al Porticciolo#080.3948289 #Delle Noci Pasquale #$Ristorante##41.188685$16.671815
+Puglia#Giovinazzo#S.S.16 - C.da Torre S.Matteo #Fondaco de' Guelfi#080.3948008 #Armenise Nuccio Note:  #$Agriturismo##
+Puglia#Giovinazzo#Via Devitofrancesco, 31/C #Riva del Sole#080.3943166 #L'Erario Vito #$Hotel$Ristorante$Pizzeria##
+Puglia#Gravina di P.#C.da Aspro Piccolo #Masseria Protomastro#080.3237138 #Torelli M. Carla #$Albergo$Ristorante##
+Puglia#Gravina in Puglia#Viale Orsini, 19 #La Lanterna#080.3264394 #Laterza Vito #$Ristorante$Pizzeria##
+Puglia#Gravina in Puglia#Via Milano, 1 #New Antichi Portici#080.3264225 #Guida Fedele Note:  #$Pizzeria##40.81556$16.41819
+Puglia#Minervino#S.P.le 230 km. 5,850 #Masseria Barbera#0883.692095 #Barbera Riccardo #$Agriturismo#www.masseriabarbera.it #
+Puglia#Minervino Murge#Via Imbriani, 11/13 #La Tradizione Cucina Casalinga#0883.691690 #Di Noia Giacomo #$Ristorante$Trattoria#www.osterialatradizione.net #
+Puglia#Modugno#P.zza De Amicis #De Amicis#080.4037930 #Cirone Francesco #$Ristorante$Pizzeria##
+Puglia#Mola di Bari#Via E. Toti, 66/a #Jam Ski Lit#080.4737561 #Brunetti Anna #$Pizzeria##
+Puglia#Mola di Bari#Prolung. Via Fiume #P.co Giochi Gommoland (Moby Dick)#338.8508884 #Palmitessa Ruggiero #$Pizzeria##
+Puglia#Mola di Bari#C.so Di Vagno, 218 #REMARE#080.4737098 #Ritrovato Carla #$SalaRicevimento$Ristorante#www.remare.it #
+Puglia#Molfetta#Via Vitt. Emanuele,15-17 #Bufi#080.3971597 #Salvatore Bufi #$Ristorante##41.20273$16.59917
+Puglia#Molfetta#Via Madonna dei Martiri, 108 #I Monelli#080.9648792 #Florio Vincenzo #$Pizzeria#www.pizzeriaimonelli.it #
+Puglia#Molfetta#Via Marconi, 18 #Il Vecchio Gazebo#080.3344877 #Petruzzella Giuseppe #$Ristorante$Pizzeria##
+Puglia#Molfetta#P.zza G. Garibaldi, 49 #Melficta#080.3358191 #Spadavecchia Giuseppe #$Pizzeria$Trattoria##
+Puglia#Molfetta#SS 16, km 771,500 #Nettuno#080.3981416 #Bombini Giovanni #$SalaRicevimento##
+Puglia#Molfetta#S.S. 16 bis - Molfetta #New Lions#080.3382143 #Falco Salvatore Note:  Prezzo min/max:  #$SalaRicevimento##
+Puglia#Molfetta#Via S. Salvatore, 16 #Oltre l'Arco#080.3348517 #Cascione Martino #$Pizzeria##
+Puglia#Monopoli#Via Caporale Contento, 2/f #A Crepétt#080.2470353 #Cascione Gaetano #$Ristorante##
+Puglia#Monopoli#Via Rocco Scotellaro, 8/10 #Hakuna Matata (ex Upendi)#080.2373911 #Leoci Paolo #$Trattoria$Pizzeria##
+Puglia#Monopoli#Via dell'Erba 39/41 #Il Guazzetto#080.4107175 #Fiume Francesco #$Ristorante##
+Puglia#Monopoli#C.da Laghezza,132 #Pietra Antica#080.803676 #Longo Rosanna e V.zo #$Ristorante$Pizzeria##40.91007$17.23071
+Puglia#Monopoli#Via Aldo Moro, 19 #Playplanet#080.4107756 #Malerba Giuseppe #$Pizzeria##
+Puglia#Monopoli#Via San Domenico #San Domenico#080.9371992 #Rocco Abbruzzese #$Trattoria##40.951932$17.301836
+Puglia#Monopoli#C.da Vagone, 345 #Victorian Pub#080.6901838 #Brunetti Diego #$Ristorante$Pizzeria$Pub##
+Puglia#Noci#Zona B 102 via per Castellaneta #La Mandra#080.4949882/338.9696499 #Recchia Ida Note:  #$Agriturismo##
+Puglia#Noci#Str. Prov.le per Castellaneta, km 1 #Miramonte Party#080.4978005 #D'Onghia Nicola #$Ristorante$SalaRicevimento#www.miramonteparty.com #
+Puglia#Noci#Via Giorgio La Pira, 16 #Sali e Gusta#080.4970574 #Palermo Pietro #$Ristorante$Pizzeria##
+Puglia#Polignano a Mare#Via Cala Porto, 7/9 #Donna Gina#080.4240914 #Barnabò Franco #$Ristorante#www.donnagina.it #
+Puglia#Polignano a Mare#C.da Bagiolaro #San Tommaso#080.4265573 #Innocente Paolo Note:  Prezzo min/max:  #$SalaRicevimento##
+Puglia#Polignano a Mare#Contrada Fratta #Specchia Sant'Oronzo#080.4240386 #Teofilo Nunzio #$Ristorante$Pizzeria##
+Puglia#Polignano a Mare#Via Caduti di tutte le Guerre, 5/7 #Villa degli Aranci#080.4249161 #Carone Giovanni #$Ristorante$Pizzeria##40.99569$17.21519
+Puglia#Putignano#C.da Madonna del Rosario, 58 #Agribiotrulli#320.6918541/336.563888 #Romanazzi Angela Maria Note:  #$Agriturismo##
+Puglia#Putignano#Via Carlo Rosselli, 32 #Premiata Pizzeria#080.4058523 #Loliva Luigi #$Ristorante$Pizzeria##
+Puglia#Rutigliano#Via G. Falcone #Il Mulino#080.4769029 #Ciavarella Umberto #$Pizzeria#www.ilmulinopizzeria.it #
+Puglia#Rutigliano#Str. Prov.le 84 Rutigliano/Adelfia #Lama San Giorgio#080.4761609-348.3342889 #Scianatico Giovanni Note:  #$Agriturismo$Ristorante$Hotel##
+Puglia#Ruvo di Puglia#Vico S.Agnese, 2 #U.p.e.p.i.d.d.e.#080.3613879 #Saulle Donato /Volpe Maria #$Ristorante##
+Puglia#S. Ferdinando di Puglia#Via Papa Giovanni XXIII, 15 #San Cassano#0883.766178 #Parisi Mauro #$Pizzeria##
+Puglia#Santeramo in Colle#Via Fausto Coppi, 16 #Green Elf#338.7019661 #Porfido Domenico #$Pizzeria$Pub##
+Puglia#Terlizzi#C.so Dante Alighieri, 15 #Alighieri Eventi#080.3514887 #Minutillo Daniele #$Ristorante##
+Puglia#Torre a Mare#Viale Grotta della Regina 50/a #Il Ben Servito#080.5433886 #Ferrara Emanuele #$Pizzeria##
+Puglia#Trani#Via Statuti Marittimi, 32/34 #Amadeus#0883.956358/347.4813157 #Raimo Gaetano #$Ristorante$Pizzeria##
+Puglia#Trani#Via Zanardelli, 27 #Bodeguita#0883.954303 #Franco Domenico #$Pizzeria##
+Puglia#Trani#C.so Vitt. Emanuele, 138 #Donna Rosa#0883.764958 #Mannatrizio F.sco/Poiena Ramona #$Pizzeria##
+Puglia#Trani#Via Giovanni Bovio, 185 #Il Melograno#0883.486966 #Tania Torelli #$Ristorante##
+Puglia#Trani#Vicinale Farucci #Tenuta Donna Lavinia#0883.508925 #Sinigaglia Antonio Note:  #$SalaRicevimento##41.239235$16.424735
+Puglia#Triggiano#Via G. Fortunato, 21/a #Beverly Hills#080.4688637 #D'Ambrosio Sebastiano #$Pizzeria##
+Puglia#Brindisi#Via S. Francesco, 5 #Penny#0831.563013 #Schina Mario #$Ristorante##40.63993$17.947215
+Puglia#Carovigno#C.da Morandi, 9 #Isola Verde#0831.990140 #Marseglia Lucrezia #$Hotel$Ristorante$Pizzeria##
+Puglia#Carovigno#Via della Pineta loc. Specchiolla #Riva Marina Resort#0831.095700 #Di Roma Enzo #$Ristorante$Ristorante#www.rivamarinaresort.it #
+Puglia#Carovigno loc. Specchiolla#Via dei Tamerici s.n. #Il Timone#0831.987900 #Barella Leonardo Note:  #$Hotel$Ristorante##
+Puglia#Ceglie Messapica#V.le Aldo Moro, 64 #Montevicoli#0831.381323 #Conserva Antonella #$Ristorante$Pizzeria#www.montevicoli.it #
+Puglia#Cisternino#C.da Sisto, 18 #Désirée#080.4317760 #Solito Tania #$Ristorante$Pizzeria#www.ristorantedesiree.com #
+Puglia#Erchie#Via Oria #Antica Osteria#347.7075097 #Serio Vincenzo #$Ristorante$Pizzeria##
+Puglia#Erchie#Via Roma, 36 #Da Lucio (sede invernale)#345.7956628 #Carrozzo Lucio #$Pizzeria##
+Puglia#Fasano#Via L. da Vinci, 56 #Renoir#080.4421934 #Semeraro Michele #$Ristorante$Pizzeria#www.ristoranterenoir.it #
+Puglia#Francavilla Fontana#Via Vittorio Alfieri, 23 #La Buona Luna#393.6732455 #D'Angela Franco #$Ristorante$Pizzeria##
+Puglia#Ostuni#C.so Vitt. Emanuele, 218 #Hostaria San Filippo#0831.334546 #De Pascale Francesca #$Ristorante##40.70719$17.658905
+Puglia#Ostuni#Via Mons. Semeraro, 8 #La Bruschetta dell'Oste#0831.304552 #Zaccaria Barbara #$Pizzeria##
+Puglia#Ostuni Marina#S.S. 379 Km. 23,5  #Masseria S. Lucia#0831.3560/304090 #Goffredo Antonio Note:  #$Hotel$Ristorante##
+Puglia#S. Vito dei Normanni#Via Isonzo, 6 #Cheer's Pub Cafè#338.3295901 #Valente Massimo #$Pub##
+Puglia#S. Vito dei Normanni#SS. 16 Km 2,7 #Hotel Resort dei Normanni#0831.951884 #Senafè Caterina #$Hotel$Ristorante##
+Puglia#S. Vito dei Normanni#Via Carovigno, 49 #Il Vulcano#333.9792436 #Caliolo Alessandro #$Pizzeria##
+Puglia#San Donaci#Via Pastrengo, 23 #da Peppino#0831.634084 #Simone Giuseppe #$Ristorante$Pizzeria##
+Puglia#San Donaci#Via Giulio Cesare, 4 #Gargantù#328.6815776 #Sturdà Angelo #$Pizzeria##
+Puglia#San Pancrazio Salentino#Via Taranto,38 #Aribrì#0831.664106 #Briganti Salvatore #$Pizzeria##40.196921$15.260053
+Puglia#Savelletri di Fasano#P.zza del Porto,1 #Il Veliero#080.4820022 #Ancona Orazio/Potente Angelo #$Ristorante##40.87350$17.41052
+Puglia#Selva di Fasano#V.le del Minareto,51 #Poggio del Sole#080.4331386 #Petitti Giuseppe #$Ristorante##40.81844$17.33374
+Puglia#Torre Canne di Fasano#C.da la Cordara-via del Procaccio #Villa Imperiale#333.8643215 #Sacco Leonardo #$Ristorante##
+Puglia#Villa Castelli#Via Ceglie, 130 #Pazzi Per Pizza#335.8009503 #D'Urso Barbara #$Pizzeria##
+Puglia#Arpinova-Foggia#Via Manfredonia, km 196,200 #Posta Bassi#0881.700155 #Russo Pasquale #$Agriturismo$Pizzeria##
+Puglia#Ascoli Satriano#Via Stazione,20 #Il Tramonto#0885.662393 #Checchia Carmela  #$Ristorante$Pizzeria##41.20822$15.55656
+Puglia#Cagnano Varano#C.da Pagliai dei Comb.ti, km 34.500 #Villaggio 5 Stelle#0884.917583 #Brunetti Angela #$Ristorante#www.camping5stelle.it #
+Puglia#Cerignola#Contrada Quarto, 5 #Al Caminetto#0885.418488 #Castellano Michelangelo #$Ristorante$Pizzeria##
+Puglia#Foggia#Via P. Scrocco, 27 #Al Primo Piano#0881.708672 #Russo Nicola Note:  #$Ristorante##
+Puglia#Foggia#Via Napoli, Km.28,00 #Alta Marea#0881.310477 #De Martino Antonio #$Ristorante$SalaRicevimento##
+Puglia#Foggia#Via degli Aviatori km.3 #Corte Corona#0881.612378 #Pignatiello Antonio Note:  #$Ristorante##15.54498$15.54498
+Puglia#Foggia#Via Monfalcone, 8/12 #Funghi e Tartufi della Puglia#0881.776183 #De Cillis Giovanni e Anna #$Ristorante##
+Puglia#Foggia#Via Bari, km.2 #International#0881.630030 #Caiaffa Stefano Note:  #$SalaRicevimento##
+Puglia#Foggia#Via A.Ricci,59 #La Locanda di Hansel#0881.773871 #Cagiano Elisabetta #$Ristorante##41.45947$15.54956
+Puglia#Foggia#V.le Fortore, 69 #Le Due Palme#0881.725716 #D'Ambrosio Luca #$Pizzeria##41.46686$15.55927
+Puglia#Foggia#Via Delli Carri, 17/21 #Pino Giorgio#0881.709890/366.3079694 #Giorgio Giovanni #$Ristorante$Pizzeria##
+Puglia#Foggia#V.le Fortore, 155 #Ristorante In Fiera#0881.632166 #Consalvo Letizia #$Ristorante$Pizzeria##
+Puglia#Foggia#Trav.Viale Virgilio #Villa dei Gourmets#0881.632815 #Basta Antonio #$Hotel$Ristorante$Pizzeria##
+Puglia#Isole Tremiti#Via Rondinelle, 48 #Rondinelle#0882.463314 Persona/e di riferimento:  #Chiusura:dal 15/9 al 15/5 #$Hotel$Ristorante##
+Puglia#Lesina Marina-Gargano#V.le Centrale, 49 #Acapulco 2#0882.995079 #Di Nauta Cesare #$Ristorante$Pizzeria##41.91265$15.33559
+Puglia#Lucera#S.S. per Lucera Loc. Vaccarella #La Villa di Lucullo#320.0462945 #Paglialonga Giuseppe #$Ristorante##
+Puglia#Lucera#P.zza Oberdan, 3 #Palazzo D'Auria Secondo#0881.530446 #Trincucci Alberto #$Ristorante$Pizzeria#www.palazzodauriasecondo.it #
+Puglia#Manfredonia#C.da Garzia loc. Minonno #Chrysalis#0884.541638/339.5881406 #Rinaldi Michele #$Ristorante$Pizzeria##41.634573$15.531590
+Puglia#Manfredonia#S.P. 58 Km.12 #Regio Hotel Manfredi#0884.530122 #Ciliberti Lorenzo Note:  Prezzo min/max:  #$Hotel$SalaRicevimento##41$641266$15$868436
+Puglia#Margherita di Savoia#C.so Garibaldi, 1 #G. H. Terme#0883.656888 #Di Feo Vincenza #$Hotel$Ristorante##
+Puglia#Orsara di Puglia#Via Piano Paradiso, s.n. #Nuova Sala Paradiso#0881.964763 #Zullo Peppe #$Ristorante$SalaRicevimento##
+Puglia#Orsara di Puglia#Piana della Corte #Villa Jamele#0881.964763 #Zullo Peppe #$SalaRicevimento##
+Puglia#Peschici#Baia di Peschici #Club Village Maritalia#0884.963399 #Sacco Soave #$Hotel#www.maritalia.it #
+Puglia#Peschici#Loc. Manacore  #Gusmay Resort#0884.911016 #Sacco Vittorio #$Hotel##
+Puglia#Peschici#Lit. Peschici-Vieste #Residence Calalunga#320.8641328 #Ungaro Monia #$Ristorante##
+Puglia#Pietra Montecorvino#Via Canalicchio, 28 #Casa Salcone#0881.555743 #Salcone Michele #$Ristorante$Pizzeria#www.casalcone.com #
+Puglia#Rodi Garganico#Via Grossi, 23 #Park H. Villa Americana#0884.966390 #Apicella Giuseppe Note:  #$Hotel$Ristorante##
+Puglia#S. Severo#Via Togliatti, 54 #Food Center#0882.228280 #Pignatelli Marco #$Ristorante$Pizzeria##
+Puglia#S.Giovanni Rotondo#C.da Matine #Hotel le Cese#0882.450972 #Budrago Franco Note:  #$Hotel$Ristorante$Agriturismo##
+Puglia#S.Giovanni Rotondo#Via S. Gennaro,4 #Hotel Sollievo#0882.456134 #Morcavallo Francesco Note:  #$Hotel$Ristorante##
+Puglia#S.Giovanni Rotondo#Via Circonvallazione Sud #Park Hotel Bocci#0882.452178 #Bocci Michele Note:  #$Hotel$Ristorante##
+Puglia#S.Giovanni Rotondo#S.S. 272 Km.34,900 #Valle Verde#0882.454442 #Biancofiore Giuseppe #$Ristorante$Pizzeria##
+Puglia#S.Severo#Via T.Masselli,106 #Il Campione#0882.223033 #Tolva Alberto #$Pizzeria##
+Puglia#S.Severo#Via Santa Lucia, 68 #Il Carbonaio#0882.331415 #Di Monte Ciro #$Ristorante$Pizzeria##
+Puglia#Torremaggiore#Via della Costituente, 140 #La Tana#0882.381064 #Mastrodonato Matteo #$Pizzeria##41.4129$15.1733
+Puglia#Vieste#Via Cesare Battisti, 11 #Borgo Antico#0884.701377 #Rapacciuolo Luca #$Ristorante$Pizzeria##
+Puglia#Vieste#Via S. Maria di Merino, 13 #Box 19#0884.705229 #Gentile Domenico #$Ristorante##41.88335$16.17720
+Puglia#Vieste#Litoranea Vieste Peschici km. 8 #Capo Vieste#0884.706326 #Basta Bartolomeo #$Ristorante$Ristorante##
+Puglia#Vieste#Litoranea Peschici-Vieste km 4,700 #da Biagione#338.1918621 #Vernassa Biagio #$Ristorante$Pizzeria##
+Puglia#Vieste#P.zza S. Maria delle Grazie,10 #Hotel degli Aranci#0884.708557 #Pellegrino Filippo Note:  #$Hotel$Ristorante##41.87956$16.17253
+Puglia#Vieste#Lungomare Europa, 48 #I Melograni e Vill. Baia degli Aranci#0884.701088 #Martucci Alessandra Note:  #$Hotel$Ristorante##41.88644$16.16822
+Puglia#Vieste#Loc. Pantano #Le Diomedee#0884.706472 #D'Alò Egidio #$Ristorante$Pizzeria##
+Puglia#Vieste#Litoranea Vieste Peschici km. 7 #Spiaggia Lunga#0884.706171 #Mansardo Rosanna #$Ristorante$Ristorante##41.91156$16.12621
+Puglia#Alliste#Via Municipio, 1 #St. Joseph#0833.552925 #Maggio Quintino #$Ristorante##
+Puglia#Aradeo#Contrada Spina #Antica Tenuta Cornacchia#0836.552902 #Botrugno Marco #$Ristorante##
+Puglia#Castro Marina#Via Panoramica,100 #Panoramico#0836.943007 #Panarese Grazia #$Hotel$Ristorante$SalaRicevimento##
+Puglia#Corigliano d'Otranto#Via Roma, 35 #Pappa & Ciccia#0836.320545 #Ferro Daniela #$Pizzeria##
+Puglia#Cursi#Via E. Montale #Locanda Riccomaggio#0836.332800 #Conoci Giuseppe #$Ristorante##
+Puglia#Cutrofiano#Via prov.le Noha-Collepasso #Sangiorgio Resort#0836.542848 #Papadia Fabio Note:  #$Hotel$Ristorante##40.12048$18.16552
+Puglia#Gagliano del Capo#P.zza Falcone e Borsellino s.n. #Il Carpaccio#0833.547174 #Ciardo Enzo #$Pizzeria##
+Puglia#Galatina#C.so Garibaldi, 13 #Il Covo della Taranta#329.9842820 #Albanese Maurizio #$Pizzeria##
+Puglia#Galatina#Via Carlo Alberto dalla Chiesa #La Campina te Don Paulu#380.5065970 #Ruggiero Maria Teresa #$Agriturismo##
+Puglia#Galatina#Via Largo Tevere, 24 #Malibu'#334.1596819 #Donadei Antonio #$Pizzeria##
+Puglia#Gallipoli#Via Filomarini, 7 #Eskada#347.9105669 #Sanso Salvatore #$Pizzeria#www.eskada.it #
+Puglia#Lecce#Via Fazzi, 15/19 #Alex Bar Ristorante#0832.301107 #Moschettini Alessandra #$Ristorante#www.alexbaristorante.it #
+Puglia#Lecce#Via Lamarmora, 4 #Cibus Mazzini#0832.289501 #Leone Francesca #$TavolaCalda$Catering##
+Puglia#Lecce#Via Leuca, 90 #Estia Banqueting#0832.289652 #Carlucci Angelo Note:  #$Ristorante$Catering##
+Puglia#Lecce#Via Forlanini, 26 #Fiori di Zucca#0832.230313 #Madaro Lucia #$Trattoria#www.trattoriafioridizucca.it #
+Puglia#Lecce#Via Rubichi, 4 #Osteria della Divina Provvidenza#0832.1792078 #Micati Michele #$Ristorante##
+Puglia#Lecce#V.co della Saponea, 15 #Volo Restaurant#0832.246815 #Giammaruto Anna Rosa #$Ristorante#www.volorestaurant.it #
+Puglia#Leuca#Via Doppia Croce #Hosteria del Pardo#0833.758603 #Pirelli Federico #$Trattoria#www.hosteriadelpardo.com #
+Puglia#Leverano#Via Ancona s.n. #Stuzzicami Vero Salentino#0832.1790143 #Cappello Maria #$Ristorante$Pizzeria##
+Puglia#Maglie#Via S. Antonio Abate, 41 #La Cascina#0836.424712 #Piccinno Fioravante #$Ristorante$Pizzeria##
+Puglia#Maglie#Via C. Palma,33 #Pizza Flash#347.7020612 #Fiore Edoardo #$Pizzeria##40.15295$18.31364
+Puglia#Matino#Via San Michele, 7 #Lu Riale#338.2857252 #Romano Luigi #$Pizzeria##
+Puglia#Monteroni di Lecce#Via A. De Gasperi #Lo Scacciapensieri#0832.321884 #Imbriani Andrea #$Hotel$Ristorante##
+Puglia#Muro Leccese#Via della Resistenza #Hotel dei Messapi#0836.343492 #Pedio Franz #$Hotel##
+Puglia#Nardò#Via M. Gaballo, 48 #Pizzeria Cla'#340.4728022 #Miglietta Claudio #$Pizzeria##
+Puglia#Palmariggi#Via Roma, 45 #Sciarabba'#0836.354497 #Salvatore Ruggero #$Ristorante$Pizzeria##
+Puglia#Parabita#Via Isonzo, 2 #Bakayokò#0833.1828283 #Fersini Germano #$Pizzeria$Pub#www.bakayoko #
+Puglia#Parabita#Via Coltura, 70 #Le Veneri#345.3363901 #Casto Adriano #$Ristorante##
+Puglia#Parabita#Via Immacolata, 2 #Lo Sturno#0833.593477 #Lissa Marco #$Trattoria##
+Puglia#Parabita#Via G.ni Vinci,62 #Prima o poi#0833.595006 #Russo Cesario #$Ristorante$Pizzeria##40.05006$18.13410
+Puglia#Presicce#P.zza del Popolo, 32 #Antico Borgo#0833.722124 #Bruno Silvana #$Pizzeria##
+Puglia#San Pietro in Lama#Via S. Antonio, 10 #Cantina Don Carlo#0832.263299/320.8666672 #Bruno Valeria #$Ristorante$Pizzeria##
+Puglia#Supersano#Via Vittorio Veneto,27 #La Mezzaluna#0833.631687 #Brocca Salvatore #$Pizzeria##40.01776$18.23969
+Puglia#Taviano#Corso Viareggio loc. M.na di Mancaversa #Atelier della Pizza Capri '91#0833.949110 - 392.5336716 #Stamerra Luigi #$Pizzeria##
+Puglia#Taviano#Via Castelforte, 118 #Pizzeria S. Lucia/Rist. 2002#0833.911388 #Serra Luigi #$Ristorante##
+Puglia#Torre San Giovanni#C.so Annibale, 68 #L'Approdo#0833.931872 #Damiani Ivan #$Ristorante$Pizzeria#www.approdotrattoria.it #
+Puglia#Tuglie#Via Venturi, 30/32 -P.zzo Ducale #Museo della Civiltà Contadina#0833.596038 #Bernardi Giuseppe #$Agriturismo##38.15259$13.33372
+Puglia#Avetrana#Via Ariosto, 42 #Masseria La Grottella#099.9707452 #Nigro Giuseppe #$Ristorante$SalaRicevimento##40.3384$17.73095
+Puglia#Castellaneta Marina#Via Mare dei Vapori,1 #Bar Europa#349.1292866 #Lazazzera Angelo #$Pizzeria##40.47023$16.94074
+Puglia#Crispiano#Via Paisiello,93 #Al Borgo Antico#099.611460 #Rodio Simone #$Ristorante##40.60641$17.22817
+Puglia#Crispiano#C.so Umberto, 207 #Saracino#099.611455 #Saracino Tiziano #$Ristorante$Pizzeria##
+Puglia#Crispiano#Via Monte Calvario, 89 #Tutto Buono#340.3666203 #Russano Giuseppe Note:  #$Pizzeria##
+Puglia#Crispiano#Via per Martina Franca, 181 #Villa Maria#099.616300 #Conserva Angela Note:  #$Hotel$SalaRicevimento##40.60745$17.23897
+Puglia#Ginosa#Via Montescaglioso sn #Biffy#347.0878277 - 349.3565151 #Valente Arcangelo #$Ristorante$Pizzeria##
+Puglia#Ginosa#C.da Girifalco #Valle Rita#099.8271824 #Lunati Carlo #$Agriturismo##
+Puglia#Grottaglie#Via Aldo Moro, 21 #La Piccola Rudie#099.5622823 #Rossini Vito #$Ristorante$Pizzeria##
+Puglia#Grottaglie#Via Calò, 49 #Pizza Fast#099.5639902 #Rossini Vito #$Pizzeria##
+Puglia#Laterza#Via T. Natile, 12 #315 Ristopizza#346.5369911 #Ferrini Vincenzo #$Ristorante$Pizzeria$Ristorante##
+Puglia#Laterza#Via Selva San Vito #La Selva#099.8296311 #Matera Giuseppe #$Ristorante$Pizzeria$Ristorante##40.624685$16.800085
+Puglia#Manduria#Corte Paradiso, 2 #Lanternella Pub#099.9711354 #Attanasio Stefania #$Ristorante$Pizzeria#www.lanternellapub.it #
+Puglia#Manduria#SS 7 Manduria-Sava c.da Pozzo Capo #Relais Reggia Domizia#099.9745111 #Scarciglia Giuseppe Note:  Prezzo min/max:  #$Ristorante$SalaRicevimento##
+Puglia#Martina Franca#Via Pergolesi, 66 #Al Focolare#080.4838762/339.7256566 #Aldo Fuocolare #$Pizzeria##
+Puglia#Martina Franca#Villa Comunale Garibaldi #La Rotonda#080.4807052 #Fuocolare Vito #$Ristorante$Pizzeria##
+Puglia#Martina Franca#Villa Carmine s.n. #Villa Carmine#080.4838910 #Di Gregorio Vito #$Ristorante$Pizzeria##
+Puglia#Massafra#S.S. Appia Km.633 #Appia Palace Hotel#099.8851501 #Pignatelli Andrea Note:  #$Hotel##
+Puglia#Massafra#Via Cirillo, 19 #L'Orsa Maggiore#099.8801229 #Tagariello Giovanni #$Ristorante$Pizzeria##
+Puglia#Massafra#V.le Magna Grecia, 1 #Masseria Sant'Oronzo#099.8804032 #Olivieri Paolo #$Ristorante$Pizzeria$Albergo##
+Puglia#Mottola#Via S. Allende,158 #Villa Petruscio#099.8866214 #Loberto Donato Note:  #$SalaRicevimento##40.64022$17.03499
+Puglia#Pulsano#V.le dei Micenei - Lit. Salentina #Il Grillo#099.5333925 #Laterza Antonio Note:  #$Hotel$Ristorante##
+Puglia#Pulsano#P.zza Luigi Amati, 26 #La Piazzetta#099.5337981 #D'Elia M. Carmela #$Ristorante##
+Puglia#Pulsano#V.le dei Micenei  #Sud Hotel#099.5333029 #Screti Angela Note:  #$Hotel$Ristorante##
+Puglia#S. Pietro in Bevagna-Manduria#Via Borraco, 224 #Hotel dei Bizantini#099.9729823 #De Stradis Giovanni Note:  #$Hotel$Ristorante$Ristorante##
+Puglia#S. Pietro in Bevagna-Manduria#Via Borraco, 253 #Pagoda#099.9729828 #Lorenzo Christian #$Ristorante$Pizzeria##
+Puglia#S.Giorgio Jonico#Contrada S. Giovanni #Villaggio S.Giovanni#099.5900606 #Venneri Lucia Note:  #$Hotel$Ristorante$SalaRicevimento##
+Puglia#Statte#Via Bainsizza 47 #Al Vecchio Frantoio#099.4746429 - 333.2504997 #Tinelli Giovanna/Galati Maria #$Ristorante$Pizzeria##
+Puglia#Talsano#Via Mediterraneo, 111/a #H.Bel Sit/R.La Nuova Mandragora#099.7716362 #Millarte Cataldo Note:  #$Hotel$Ristorante##
+Puglia#Talsano#C.so Vitt. Emanuele #L'Angolo Nascosto#099.7712220 #Coppola Rossella #$Ristorante$Pizzeria##
+Puglia#Taranto#Discesa Vasto #Al Canale#099.4764201 #Lagiard Eugenio #$Ristorante##
+Puglia#Taranto#Via della Pineta 3/5 #Al Faro#099.4714444 #Valentini Nicola Note:  #$Hotel$Ristorante##
+Puglia#Taranto#Via Cavour, 17 #Marc'Aurelio#099.4527893 #Masi Vito #$Ristorante$Pizzeria##40.47359$17.23870
+Puglia#Taranto#Via Japigia, 25 a/b #Pan D'Oro New#0997.362440 #Salamino Carmela #$Pizzeria##
+Puglia#Torre Colimena#Via dei Dentici #Da Lucio (Sede estiva)#099.9718793 #Carrozzo Antonio #$Pizzeria##

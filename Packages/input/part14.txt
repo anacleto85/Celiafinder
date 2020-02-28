@@ -1,0 +1,133 @@
+Lazio#Alatri#Via Duomo,35 #La Rosetta#0775.434642 #Scerrato Massimo #$Pizzeria##
+Lazio#Alatri#Via Circonvallazione, sn #Papapidò#0775.442666 #Galuppi Mirella Note:  #$Pizzeria##
+Lazio#Alatri#Via Madonna della Sanità,19 #Villa Scerrato#0775.440743 #Scerrato Massimo #$Ristorante##41.73086$13.34030
+Lazio#Anagni#Via La Rena, 10 #La Rena#0775.768128 #Retarvi Leonardo #$Ristorante#www.ristorantelarena.it #
+Lazio#Anagni#Via Fosso del Lupo, 4 #Zi Luciano#0775.725588 #Lettieri Claudio #$Pizzeria##
+Lazio#Cassino#Via Sferracavalli, 105 #Rocca Hotel Rist.#0776.311212 #Megiolaro Stefano Note:  #$Hotel$Ristorante##
+Lazio#Castro dei Volsci#Località Pozzotello, 18 #Il Ruspante#0775.686750 #Pagliaroli Antonella #$Agriturismo#www.ilruspante.it #
+Lazio#Castro dei Volsci#Via dell'Orologio, 11/a #La Locanda del Ditirambo#077.5662091 #Gazzelloni Beatrice #$Albergo$Ristorante##
+Lazio#Ceccano#Via Magenta, 51 #Il Giardino dell'Angelo#0775.604463 #Cecconi Francesca Note:  #$Ristorante$Pizzeria##
+Lazio#Ceccano#Via Cosa, 20 #La Cantinella#077.5642019 #Di Pofi Giampiero #$Ristorante##
+Lazio#Ceccano#Via Giacomo Matteotti, 356 #La Locanda di Ronca Nicola#0775.961008 #Masi Giovanna #$Ristorante$Pizzeria##
+Lazio#Ceprano#Via Caragno, 27 #Hotel Ida#0775.950040 #Cuccia Rita #$Hotel$Ristorante#www.hotelida.it #
+Lazio#Ferentino#Via Casilina Nord Km 70, 254 #Primavera#0775.246521 #Quattrociocchi Gianfranco #$Ristorante#www.ristorante-primavera.com #
+Lazio#Fiuggi#Via delle Felci #Forum et Ludus#0775.506058 #Meloni Antonella #$Ristorante$Pizzeria#www.fiuggi.org/rforum.htm #
+Lazio#Fiuggi#Via Prenestina sud, 63 #Hotel Olimpic#0775.515584 #Terrinoni M. Antonietta #$Hotel$Ristorante##41.78489$13.23064
+Lazio#Frosinone#Via Adige,1 #La Ginestra#0775.824261 #Igliozzi Danilo #$Ristorante##41.64397$13.345125
+Lazio#Morolo#Via Recinto della Mola, 67 #La Mola#0775.229059 #Alteri Adriano #$Ristorante##
+Lazio#Patrica#Via Morolense, Km.5,500 #Bar L'Incontro#0775200734 #Ramiccia Romina #$TavolaCalda$Bar##
+Lazio#Serrone#Via delle Rimembranze, 17/29 #Belsito#0775.523106 #Lolli Carlo #$Ristorante##
+Lazio#Torrice#Via Piana, 50 #Drago Rosso#0775.301675/393.5777096 #Scaccia Katia #$Ristorante$Pizzeria#www.trattoriadragorosso.com #
+Lazio#Aprilia#Via Del Tronco, 14 #L'Oasi#06.9275334 #Zanotti Renato e Damiano #$Pizzeria##
+Lazio#Borgo Grappa#Via Mar Rosso, 8 #Pepe Rosa#328.6125065 #Pizzuti Stefania #$Pizzeria##
+Lazio#Fondi#Via Fabio Filzi, 29 #Cantina di Galba#0771.523648 #Panasella Ines #$Ristorante##
+Lazio#Fondi#Via Mola della Corte, 4-4/a #My Way#329.0167840 #Di Fazio Antoine #$Pizzeria##
+Lazio#Formia#Via Anfiteatro, 8/10 #Chinappi#0771.790002 #Chinappi Michele #$Ristorante$Pizzeria#www.chinappiformia.it #
+Lazio#Formia#Via del Porticciolo Romano #La Villetta da Mario#0771.723113 #Marino Felice #$Ristorante##
+Lazio#Formia#Via S. Maria Cerquito #Ristopub Cook#0771.720436 #Ferrara Antonio #$Ristorante$Pub##
+Lazio#Fraz. Giulianello#Via Velletri, 52 #Al Ponte#06.9665430 #Gasbarra Fabiola #$Ristorante$Pizzeria#www.massimoalponte.it #
+Lazio#Gaeta#Via Flacca Km.20,600 #Il Gazebo#340.5838052 #Corvo Franco #$Ristorante$Pizzeria##
+Lazio#Itri#Contrada S. Stefano #La Torre Rossa#0771.729107 #Bastoni Ernesto #$Agriturismo##
+Lazio#Latina#Via del Lido Km.4,200 #Fattoria Prato di Coppola#0773.273411 #Castiglione Giampiero #$Ristorante##
+Lazio#Latina#Strada Litoranea, 11412 #Il Funghetto#0773.208009 #Cappuccilli Michela #$Ristorante##
+Lazio#Latina#Via dei Piceni,63 #La Ginestra#0773.266021 #Emiliozzi Emanuela #$Ristorante#www.laginestravegetariano.it #41.45883$12.92873
+Lazio#Latina#Viale P.L.Nervi 166 #Punto Snack#0773.601512 #Marino Pia #$Pizzeria##
+Lazio#Pontinia#Via Migliara, 53 ang. Via Della Torre #L'Arca#0773.853338 #Palladinelli Edoardo #$Ristorante##
+Lazio#Sabaudia#Via Tortini 33 #La Capricciosa#0773.515677/340.3288823 #Caporali Franco #$Ristorante$Pizzeria#www.lacapricciosa.it #
+Lazio#Sermoneta Scalo#Via Vigna Riccelli, 2 #La Valle dell'Usignolo#0773.318629 #Paris Stefania #$Agriturismo##
+Lazio#Spigno Saturnia#Via Grata, 8 #Der Keller#077.164187 #Nardella Damiano Note:  #$Pub##
+Lazio#Terracina#Via Delle Arene, 240 #La Perla#0773.730691 #Marroni Massimo #$Pizzeria##41.28712$13.22813
+Lazio#Magliano Sabina#Vocabolo Colle Croce #Il Giglio#0744.910078 #Bracci Franca #$Ristorante$Pizzeria#www.agriturismoilgiglio.it #
+Lazio#Rieti#Via Castagneto, loc. S. Elia #Al Bersagliere da Gualtiero#0746.210253 #Petrongari Lina #$Ristorante$Pizzeria##
+Lazio#Rieti#Piazza Oberdan, 2 #Al Pincetto#0746.272092 #Scappa Sergio #$Ristorante$Pizzeria##
+Lazio#Rieti#Via Sandro Pertini, 667 #Borgo Margherita#0746.218239 #Lettieri Alessandro #$Ristorante$Pizzeria##
+Lazio#Rieti#Via Cintia, 154 #Cintia#0746.251527 #Sampalmieri Rita #$Ristorante$Pizzeria##
+Lazio#Rieti#Via Criano, 18 #Il Picchio Allegro#0746.271826 #Coppo Massimiliano #$Pizzeria##
+Lazio#Rieti#Via Foresta, 51 #La Foresta#0746.220455 #Di Carlo Antonio #$Ristorante#www.ristorantelaforesta.it #
+Lazio#Rieti#P.zza della Repubblica, 9/10 #Locanda d'Angiò#0746.259996 #Rellini Paola #$Ristorante##
+Lazio#Rieti#Via Comunali, 23 #Mondo Antico#0746.201665 #Eleuteri Pierluigi #$Ristorante$Pizzeria##
+Lazio#Rieti#Via San Mauro, 6 #Park Hotel Villa Potenziani#0746.202765 #Arcieri Vincenzo #$Hotel$Ristorante##
+Lazio#Ariccia#Via A. Chigi, 16 #Fori Porta#06.9333661 #Marchionne Giorgio #$Ristorante#www.foriporta.it #
+Lazio#Carpineto Romano#Via Maenza 26 #La Rupe dei 7 Venti#06.97189507 #Battisti Enrico #$Pizzeria#www.pizzeriafeoli.it #
+Lazio#Cerveteri#Via del Sasso, km.5 #Il Casale di Montetosto#06.99079327/338.8675951 #Liuto Guerino #$Ristorante$Pizzeria#www.ilcasaledimontetosto.it #
+Lazio#Civitavecchia#Via Tevere,4 #La Taverna dell'Olmo#0766.501331 #Guida Maura #$Ristorante##
+Lazio#Civitavecchia#Via P. Guglielmotti,2 #L'Angoletto#0766.32825 #Ciccaglioni Fabrizio #$Ristorante#www.langoletto.com #42.08750$11.79806
+Lazio#Civitavecchia#Via Padri Domenicani, 11 #Ostaria La Babbiona#0766.560649 #Nunzi Antonio #$Ristorante#www.lababbiona.it #
+Lazio#Civitavecchia#Via Enrico Berlinguer (fronte ospedale) #Pizzaland#328.9596358 #Tranquilli Manuela #$Ristorante$Pizzeria$Bar##
+Lazio#Fiumicino#Via Monte Nozzolo, 3 #Luana#06.6520231 #Antonelli Marcella #$Ristorante$Pizzeria##
+Lazio#Genzano di Roma#Via Lucrezio,9 - Colli di Cicerone #Papillon Club#06.9370555 #Spinozzi Riccardo #$Ristorante$Pizzeria##
+Lazio#Genzano di Roma#Via Ettore Ronconi, 1 #Piazza Margherita#06.93953062 #Lorenzetti Bruna #$Ristorante$Pizzeria$Ristorante#www.piazza-margherita.it #
+Lazio#Genzano di Roma#Via Italo Belardi,76 #Trattoria dei Cacciatori#06.9396060 #Galieti Daniela #$Ristorante#www.trattoria-cacciatori.com #41.70685$12.69163
+Lazio#Guidonia#V.le dell'Unione, 93 #Il Corvo Bianco#0774.342859 #Sperandio Andrea #$Ristorante$Pizzeria#www.ristorantecorvobianco.it #
+Lazio#Guidonia Montecelio#Via Arsoli, 21 #Pizza Pazza#345.3327162 #Imperatori Graziella #$Ristorante$Pizzeria##
+Lazio#Lanuvio#Via G. Matteotti, 16 #Beccofino 2#06.9375614 #Fittipaldi Donato #$Ristorante$Pizzeria#www.ristorantebeccofino.eu #
+Lazio#Lavinio di Anzio#Via Ardeatina, 632 #Follia#331.8065876 #Gasbarra Roberto #$Ristorante$Pizzeria##
+Lazio#Marino#Via Pal. Colonna,32 #Forgione#06.9388944 #Zelinotti Angelo #$Ristorante$Pizzeria##41.76943$12.65843
+Lazio#Mentana#Via Cannetacci, 50 #Sporting Life#06.90015826 #Luzi Lorella #$Ristorante$Pizzeria##42.04113$12.63995
+Lazio#Monterotondo#Via Castelchiodato, 9 #Maculato#06.9066065 #Agostini Anna #$Ristorante$Pizzeria##
+Lazio#Ostia Lido#L.re P. Toscanelli, 125 #Don Pepe#06.5672408 #Mariani Marisa #$Ristorante##
+Lazio#Ostia Lido#L.re Amerigo Vespucci, 164 #Il Corsaro#05.5600317 #Giannangelo Marco #$Ristorante#www.ilcorsaro beach.it #
+Lazio#Ostia Lido#L.re Amerigo Vespucci #Le Palme#06.56470131 #Mazzini Ferdinando #$Ristorante$Bar##
+Lazio#Ostia Lido#L.re A. Vespucci, 102 #Peppino a Mare#06.56320247 #Bauzullo Mario #$Ristorante#www.peppinoamare.it #
+Lazio#Ostia Lido#Via Mar dei Sargassi, 68 #Pinzirò#06.56362203 #Bernardo Giulio #$Ristorante#www.pinziro.it #
+Lazio#Ostia Lido#L.mare Amerigo Vespucci, 52 #Zanzibar#06.56307626/392.9092694 #Proia Nunzio #$Ristorante$Pizzeria#www.zenitostia.com #
+Lazio#Ostia Lido-Roma#Via della Pineta di Ostia, 30 #Zenzero Bioristoro#06.5621293 #Pompei Gabriele/Bonocore Franco #$Ristorante$Pizzeria##
+Lazio#Rocca Priora#Via Mediana, 12 #Al Ritrovo da Uccia#06.9406081 #Sturni Maria #$Ristorante$Pizzeria##
+Lazio#Roma#Via Torre Sant'Anastasia, 83 #Agrit. Torre Sant'Anastasia#0671.350361 #Proietti Patrizia #$Agriturismo$Pizzeria#www.torresantanastasia.it #
+Lazio#Roma#Via Casilina, 497 #Ai Picari#06.2424084 #De Maria Piero #$Ristorante$Pizzeria##
+Lazio#Roma#Via di Passolombardo, 212 #Al Colle#06.7201032 #Tomei Filippo #$Ristorante$Pizzeria$Catering#www.ristorantealcolle.it #
+Lazio#Roma#Via Teano 243/245 #Al Country#06.21704704 #Magli Alessandra #$Ristorante##
+Lazio#Roma#Via Vittorio Veneto,20 #Alex Cafè#06.4823618 #Ciafrei Fabrizio Note:  #$Ristorante##41.90487$12.488075
+Lazio#Roma#V.le di Vigna Pia, 33 #Antico Casale La Carovana#06.5577758 #Pulso Elisa/Zaccardi Alfredo Note:  #$Ristorante$Pizzeria##
+Lazio#Roma#Via Baiamonti, 12 #Baiamonti Lounge Bar#06.37351954 #Proietti Raniero #$Pizzeria$Bar$TavolaCalda#www.baiamontiloungebar.it #
+Lazio#Roma#Via Tor San Giovanni, 245 #Circolo Ippico Tor S. Giovanni#06.87120537/335.6798543 #Marcellini Stefano #$Pizzeria#www.circoloippico.com #
+Lazio#Roma#Via Aurelia Antica,411/413 #Da Arturo#06.6623408 #Folino Bernardo #$Ristorante$Pizzeria##
+Lazio#Roma#Via Castello della Magliana,65 #Holiday Inn Parco dei Medici#06.65581 #Chiesa Claudio Note:  #$Hotel##
+Lazio#Roma#Via Principe Amedeo, 4 #Hotel Diana#06.478681 #De Angelis Caterina Note:  Prezzo min/max:  #$Hotel$Ristorante##
+Lazio#Roma#Via degli Aldobrandeschi, 223 #Hotel Melià - Rist. La Sughereta#06.665441 #Lo Bello Pasquale Note:  #$Hotel$Ristorante##
+Lazio#Roma#Via Mocenigo,7 #Hotel Spring House#06.39720948 #Morelli Tamara Note:  Prezzo min/max:  #$Hotel##
+Lazio#Roma#Via Roma Libera, 19 #Il Capriccio di Trastevere#06.5816469 #Tambone Paolo #$Ristorante$Pizzeria#www.ristoranteilcapriccio.eu #
+Lazio#Roma#Via Ostiense, 875 #Il Casereccio#06.5917669/335.483378 #Casarulo Gerardo #$Ristorante$Pizzeria##
+Lazio#Roma#Piazza Augusto Lorenzini, 11 #Il Cavaliere#06.5515981 #Cascianelli Giancarlo #$Ristorante$Pizzeria##
+Lazio#Roma#via Alessandro Cruto, 9 #Il Maggiolino#06.5574484 #Bernabei Gregorio #$Ristorante$Pizzeria##
+Lazio#Roma#P.zza Aruleno C. Sabino, 89 #Il Portico#06.71582828 #Toscano Marcello #$Ristorante$Pizzeria##
+Lazio#Roma#Via Isonzo, 14 #Il Viaggio#06.97997043 #Lupescu Irina #$Ristorante#www.ristoranteilviaggio.it #
+Lazio#Roma#Via Bari,11/B #La Mimosa Fiorita#06.44291958 #Folino Vittorio #$Ristorante$Pizzeria##41.91091$12.51456
+Lazio#Roma#Piazza dei Visconti, 8 #La Piazzetta#06.66014164 #Consorti Anna #$Ristorante$Pizzeria#www.giancarlone.com #
+Lazio#Roma#Via Tor Tre Teste,35 #Millennium#06.23269171 #Tortu Lucia #$Ristorante$Pizzeria$Pub##
+Lazio#Roma#L.go Salinari, 8/16 #O' Masto#06.5413448 #Apicella Elia #$Pizzeria#www.omasto.com #
+Lazio#Roma#Via Filippo Turati, 171 #Radisson Blu Es H. Roma#06.444841 #Valsecchi Paolo Note:  Prezzo min/max:  #$Hotel##
+Lazio#Roma#Via del Trionfale, 151 #Relais Le Jardin#06.32609910 #Ottaviani Alessandra Note:  Prezzo min/max:  #$Catering##
+Lazio#Roma#P.zza Risorgimento, 46/a (ang. Via Crescenzio) #Renovatio La Soffitta#06.68892977 #Di Michele Stefano Note:  #$Ristorante$Pizzeria##44.332843$$8.516893
+Lazio#Roma#V.le Salvatore Rebecchini, 39 #Sheraton Golf Parco de' Medici#06.65288 Persona/e di riferimento:  #s.g. solo per eventi Prezzo min/max:  #$Hotel$Ristorante##
+Lazio#Roma#Via delle Coppelle, 16/a #Universale Caffè#06.68392065 #Iritani Francesco #$Ristorante$Bar#www.caffeuniversale.it #
+Lazio#Roma#Via Pratica di Mare, 181 #Villa Grant#06.50570832 #D'Arrigo Arrigo #$SalaRicevimento$Ristorante#www.villagrant.it #
+Lazio#Roma#Via A. Benigni,81 #Viniministri#06.82003700 #Ferlito Salvatore Note:  #$Ristorante$Pizzeria##41.92572$12.55911
+Lazio#Roma#Via dei Giubbonari, 33 #Voglia di Pizza#06.6875293/339.8002170 #Erriu Emilio #$Ristorante$Pizzeria##
+Lazio#Roma#V.le Eritrea, 69 #Zen Fusion#06.86218365 #Grossi Marzia #$Ristorante##
+Lazio#Roma-Malafede#Via Nino Taranto, 29 #Stella Marina#06.52440215 #Ursarescu Liliana #$Ristorante#www.stellamarinaristorante.com #41.78761$12.39462
+Lazio#San Polo dei Cavalieri#Via Santa Liberata, 14 #L'Agrifoglio#0774.416384 #De Bonis Angela #$Ristorante$Pizzeria##
+Lazio#Subiaco#Largo Martiri di Cicchetti #Invidia#0774.85060 #Proietti Andrea #$Ristorante#www.ristoranteinvidiasubiaco.com #
+Lazio#Tolfa#Via Lizzera, 44 #Tolfa Hotel#076.693286 #Battilocchio Caterina #$Hotel$Ristorante#www.tolfahotel.it #
+Lazio#Velletri#Via E. Gabrielli, 13 #'O Mascalzone#06.96142843 #Priori Massimiliano #$Ristorante$Pizzeria#wwwomascalzone.it #
+Lazio#Vitinia-Roma#Via Sant'Arcangelo di Romagna, 55/57 #Pizza City#328.3140976 #Tavilla Domenico #$Pizzeria##
+Lazio#Bassano in Teverina#Via Belvedere, 1/3 #Osteria Belvedere#0761.407546 #Conti Simone #$Ristorante#www.osteriabelvedere.it #
+Lazio#Bolsena#SS Cassia, Km 113,00 #Verdeluna#0761.799023 #Scopigno Daniela #$Ristorante$Pizzeria##
+Lazio#Capodimonte#Via Verentana, km. 13,180 #La Piroga#0761.870780 #Marucci Cristiana #$Pizzeria##
+Lazio#Caprarola#Loc. Scardenato #La Bella Venere#0761.612342 #Ferri Lamberto Note:  #$Albergo$Ristorante##
+Lazio#Castel Sant'Elia#Loc. San Lorenzo #La Vecchia Quercia#0761.599164/339.6002778 #Kochubey Vittoria #$Ristorante$Pizzeria##
+Lazio#Corchiano#Via Roma, 72 #The Brothers#0761.572486 #Todini Alvaro #$Pizzeria##
+Lazio#Montalto di Castro#Viale Harmine, 58/a #Stella Polare#0766.801276 #Mattu Anna #$Ristorante#www.ristorantestellapolare.com #
+Lazio#S. Martino al Cimino-Viterbo#Via Umbria, 2 #Balletti Park Hotel#0761.3771 #Ceccariglia Giuseppina #$Hotel$Gelateria##42.370358$12.125689
+Lazio#S. Martino al Cimino-Viterbo#Via Umbria, 2/a #Tavernetta Il Cavaliere#0761.3771 #Ceccariglia Giuseppina #$Ristorante$Pizzeria#www.balletti.com #42.369677$12.125371
+Lazio#San Martino Al Cimino#Piazza Del Duomo, 2 #La Porta da Saverio#0761.379643 #Rendina Saverio #$Ristorante$Pizzeria##
+Lazio#Tarquinia#P.zza G. Matteotti, 14 #L'Ambaradan#0766.857073 #Viscanti Donatella #$Ristorante##
+Lazio#Tarquinia#Loc. Selciatella #Quadrifoglio#335.8080415 #Finocchi Susanna #$Agriturismo##
+Lazio#Tarquinia#Via St. Aurelia Vecchia Km.93 #Valle del Marta#0766.855475 #Pusceddu Mario #$Agriturismo##42.24612$11.74701
+Lazio#Tobia#Str. Ciavaletta 15 #Poggio della Guardia#0761.263570 #Tomassini Daniela #$Pizzeria$Trattoria#www.poggiodellaguardia.it #
+Lazio#Torrealfina-Acquapendente#Loc. Belvedere #Agrit. Belvedere#0763.716041 #Rocchi Adio #$Agriturismo#www.belvederetorrelafina.com #
+Lazio#Torrealfina-Acquapendente#P.le S. Angelo, 49 #Torremare#0763.716102 #Rocchi Adio #$Ristorante$Pizzeria##
+Lazio#Valentano#Via Solferino, 25 #La Voltarella#0761.422197 #Pacchiarelli Roberto #$Ristorante##
+Lazio#Viterbo#Via Cavour, 39 #Cavour#0761.346584 #Virgadauro Nicolò #$Ristorante$Pizzeria#www.ristorantecavourviterbo.it #
+Lazio#Viterbo#Viale Fiume, 112 #Domus La Quercia#0761.33731 #Cordelli Marianna #$Albergo$Ristorante#www.domuslaquercia.com #
+Lazio#Viterbo#Via delle Fabbriche, 20/22 #La Pentolaccia#0761.342755 #Meli Massimo #$Ristorante##
